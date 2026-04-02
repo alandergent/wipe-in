@@ -468,6 +468,9 @@
     .intake__prequestion { font-size: 0.88rem; color: rgba(255,255,255,0.4); margin-top: -1rem; margin-bottom: 0; max-width: 480px; margin-left: auto; margin-right: auto; }
     .intake__prequestion a { color: var(--accent); text-decoration: none; }
     .intake__prequestion a:hover { text-decoration: underline; }
+    .intake-form__actions { display: flex; align-items: center; gap: 1.8rem; flex-wrap: wrap; margin-top: 0.5rem; }
+    .intake__ask-link { color: rgba(255,255,255,0.38); font-size: 0.85rem; text-decoration: none; border-bottom: 1px solid rgba(255,255,255,0.15); padding-bottom: 1px; transition: color 0.2s, border-color 0.2s; }
+    .intake__ask-link:hover { color: var(--accent); border-color: var(--accent); }
     .intake__waitlist { margin-top: 3rem; padding-top: 2.5rem; border-top: 1px solid rgba(255,255,255,0.1); }
     .intake__waitlist__label { font-size: 0.8rem; letter-spacing: 0.1em; text-transform: uppercase; color: rgba(255,255,255,0.35); margin-bottom: 1rem; }
     .waitlist-form { display: flex; gap: 0.5rem; justify-content: center; flex-wrap: wrap; max-width: 420px; margin: 0 auto; }
@@ -1121,10 +1124,16 @@
         <label data-nl="Wat brengt je naar Wipe In? (optioneel)" data-en="What brings you to Wipe In? (optional)" data-fr="Qu'est-ce qui vous amène à Wipe In? (optionnel)">Wat brengt je naar Wipe In? (optioneel)</label>
         <textarea name="motivatie"></textarea>
       </div>
-      <button type="submit" class="btn btn--primary"
-              data-nl="Vraag intake aan"
-              data-en="Request an intake"
-              data-fr="Demander un entretien">Vraag intake aan</button>
+      <div class="intake-form__actions">
+        <button type="submit" class="btn btn--primary"
+                data-nl="Vraag intake aan"
+                data-en="Request an intake"
+                data-fr="Demander un entretien">Vraag intake aan</button>
+        <a href="mailto:alan@wipe-in.com" class="intake__ask-link"
+           data-nl="Heb je eerst een vraag? Stuur een bericht."
+           data-en="Have a question first? Send a message."
+           data-fr="Une question d'abord? Envoyez un message.">Heb je eerst een vraag? Stuur een bericht.</a>
+      </div>
     </form>
     <div id="intake-success" class="form-success" style="display:none;">
       <p class="form-success__title"
