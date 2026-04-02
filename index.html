@@ -1100,6 +1100,7 @@
     <form id="intake-form" class="intake-form" action="https://submit-form.com/fGkwPLRfu" method="POST">
       <input type="hidden" name="_redirect" value="false" />
       <input type="hidden" name="source" value="wipe-in intake" />
+      <input type="hidden" name="language" id="form-language" value="nl" />
       <div class="intake-form__row">
         <div class="intake-form__group">
           <label data-nl="Naam *" data-en="Name *" data-fr="Nom *">Naam *</label>
@@ -1202,6 +1203,9 @@
     const others = langs.filter(l => l !== lang);
     document.getElementById('lang-btn-1').textContent = others[0].toUpperCase();
     document.getElementById('lang-btn-2').textContent = others[1].toUpperCase();
+    // Sync language to form hidden field
+    const langField = document.getElementById('form-language');
+    if (langField) langField.value = lang;
   }
 
   /* ── Form submissions ─────────────────────────────────────── */
