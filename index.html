@@ -346,6 +346,75 @@
     .intake .btn { margin-top: 2rem; margin-bottom: 2rem; display: inline-block; }
     .intake__disclaimer { margin-top: 0; font-size: 0.8rem; color: rgba(255,255,255,0.35); letter-spacing: 0.05em; }
 
+    /* ── Breath Overlay ─────────────────────────────────────────── */
+    #breath-overlay {
+      position: fixed;
+      inset: 0;
+      z-index: 200;
+      background: var(--deep);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 3rem;
+      cursor: pointer;
+      transition: opacity 1s ease;
+    }
+    #breath-overlay.fade-out { opacity: 0; pointer-events: none; }
+
+    .breath__rings {
+      position: relative;
+      width: 150px; height: 150px;
+      display: flex; align-items: center; justify-content: center;
+    }
+    .breath__ring {
+      position: absolute;
+      border-radius: 50%;
+      border: 1px solid var(--accent);
+    }
+    .breath__ring--outer {
+      width: 150px; height: 150px;
+      animation: breathe-outer 6s ease-in-out infinite;
+    }
+    .breath__ring--mid {
+      width: 100px; height: 100px;
+      animation: breathe-mid 6s ease-in-out infinite;
+    }
+    .breath__dot {
+      width: 7px; height: 7px;
+      border-radius: 50%;
+      background: var(--accent);
+      animation: breathe-dot 6s ease-in-out infinite;
+    }
+    @keyframes breathe-outer {
+      0%, 100% { transform: scale(0.55); opacity: 0.12; }
+      50%       { transform: scale(1.05); opacity: 0.30; }
+    }
+    @keyframes breathe-mid {
+      0%, 100% { transform: scale(0.75); opacity: 0.35; }
+      50%       { transform: scale(1);    opacity: 0.70; }
+    }
+    @keyframes breathe-dot {
+      0%, 100% { transform: scale(0.8);  opacity: 0.45; }
+      50%       { transform: scale(1.25); opacity: 1;    }
+    }
+    .breath__quote {
+      color: rgba(255,255,255,0.82);
+      font-family: var(--ff);
+      font-style: italic;
+      font-size: clamp(1rem, 2.5vw, 1.5rem);
+      text-align: center;
+      padding: 0 2rem;
+      max-width: 480px;
+      line-height: 1.65;
+    }
+    .breath__hint {
+      color: rgba(255,255,255,0.2);
+      font-size: 0.7rem;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+    }
+
     /* ── Footer ───────────────────────────────────────────────── */
     footer {
       background: var(--ink);
@@ -356,6 +425,7 @@
     }
 
     .footer-logo { font-family: var(--ff); font-size: 1.1rem; color: rgba(255,255,255,0.55); letter-spacing: 0.1em; }
+    .footer__time { color: rgba(255,255,255,0.28); font-size: 0.78rem; letter-spacing: 0.05em; }
 
 
     /* ── FAQ ─────────────────────────────────────────────────── */
@@ -431,6 +501,24 @@
   </style>
 </head>
 <body>
+
+<!-- ── Breath Overlay ───────────────────────────────────────────── -->
+<div id="breath-overlay">
+  <div class="breath__rings">
+    <div class="breath__ring breath__ring--outer"></div>
+    <div class="breath__ring breath__ring--mid"></div>
+    <div class="breath__dot"></div>
+  </div>
+  <p class="breath__quote"
+     data-nl="Op je surfplank is er enkel het nu."
+     data-en="On your surfboard, there is only the now."
+     data-fr="Sur votre planche, il n'y a que le présent.">Op je surfplank is er enkel het nu.</p>
+  <p class="breath__hint"
+     data-nl="klik of scroll om verder te gaan"
+     data-en="click or scroll to continue"
+     data-fr="cliquez ou défilez pour continuer">klik of scroll om verder te gaan</p>
+</div>
+
 
 <!-- ── Navigation ──────────────────────────────────────────────────── -->
 <nav>
@@ -1084,6 +1172,11 @@
 <!-- ── Footer ──────────────────────────────────────────────────────── -->
 <footer>
   <span class="footer-logo">WIPE IN</span>
+  <span class="footer__time">
+    <span data-nl="Nu in Imsouane"
+          data-en="Now in Imsouane"
+          data-fr="En ce moment à Imsouane">Nu in Imsouane</span> — <span id="morocco-time">--:--</span>
+  </span>
   <span data-nl="© 2026 Alan Dergent · Confidentieel · Versie 5.0"
         data-en="© 2026 Alan Dergent · Confidential · Version 5.0"
         data-fr="© 2026 Alan Dergent · Confidentiel · Version 5.0">
@@ -1145,6 +1238,40 @@
     e.preventDefault();
     submitForm(this, 'waitlist-success');
   });
+
+  /* ── Breath overlay ─────────────────────────────────────── */
+  (function() {
+    var overlay = document.getElementById('breath-overlay');
+    if (!overlay) return;
+    if (sessionStorage.getItem('wipe-in-intro-seen')) {
+      overlay.style.display = 'none';
+      return;
+    }
+    document.body.style.overflow = 'hidden';
+    function dismiss() {
+      overlay.classList.add('fade-out');
+      document.body.style.overflow = '';
+      sessionStorage.setItem('wipe-in-intro-seen', '1');
+      setTimeout(function() { overlay.style.display = 'none'; }, 1000);
+    }
+    var timer = setTimeout(dismiss, 5000);
+    overlay.addEventListener('click', function() { clearTimeout(timer); dismiss(); });
+    window.addEventListener('scroll', function() { clearTimeout(timer); dismiss(); }, { once: true });
+    document.addEventListener('keydown', function() { clearTimeout(timer); dismiss(); }, { once: true });
+  })();
+
+  /* ── Morocco clock ──────────────────────────────────────── */
+  function updateMoroccoTime() {
+    var el = document.getElementById('morocco-time');
+    if (!el) return;
+    el.textContent = new Date().toLocaleTimeString('en-GB', {
+      timeZone: 'Africa/Casablanca',
+      hour: '2-digit',
+      minute: '2-digit'
+    });
+  }
+  updateMoroccoTime();
+  setInterval(updateMoroccoTime, 30000);
 
 </script>
 
