@@ -425,7 +425,6 @@
     }
 
     .footer-logo { font-family: var(--ff); font-size: 1.1rem; color: rgba(255,255,255,0.55); letter-spacing: 0.1em; }
-    .footer__time { color: rgba(255,255,255,0.28); font-size: 0.78rem; letter-spacing: 0.05em; }
 
 
     /* ── FAQ ─────────────────────────────────────────────────── */
@@ -1172,12 +1171,7 @@
 <!-- ── Footer ──────────────────────────────────────────────────────── -->
 <footer>
   <span class="footer-logo">WIPE IN</span>
-  <span class="footer__time">
-    <span data-nl="Nu in Imsouane"
-          data-en="Now in Imsouane"
-          data-fr="En ce moment à Imsouane">Nu in Imsouane</span> — <span id="morocco-time">--:--</span>
-  </span>
-  <span data-nl="© 2026 Alan Dergent · Confidentieel · Versie 5.0"
+<span data-nl="© 2026 Alan Dergent · Confidentieel · Versie 5.0"
         data-en="© 2026 Alan Dergent · Confidential · Version 5.0"
         data-fr="© 2026 Alan Dergent · Confidentiel · Version 5.0">
     © 2026 Alan Dergent · Confidentieel · Versie 5.0
@@ -1260,18 +1254,6 @@
     document.addEventListener('keydown', function() { clearTimeout(timer); dismiss(); }, { once: true });
   })();
 
-  /* ── Morocco clock ──────────────────────────────────────── */
-  function updateMoroccoTime() {
-    var el = document.getElementById('morocco-time');
-    if (!el) return;
-    el.textContent = new Date().toLocaleTimeString('en-GB', {
-      timeZone: 'Africa/Casablanca',
-      hour: '2-digit',
-      minute: '2-digit'
-    });
-  }
-  updateMoroccoTime();
-  setInterval(updateMoroccoTime, 30000);
 
 </script>
 
