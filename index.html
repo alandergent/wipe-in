@@ -1155,6 +1155,7 @@
       <form id="waitlist-form" class="waitlist-form" action="https://submit-form.com/VDM2he4Sw" method="POST">
         <input type="hidden" name="_redirect" value="false" />
         <input type="hidden" name="source" value="wipe-in waitlist" />
+        <input type="hidden" name="language" id="waitlist-language" value="nl" />
         <input type="email" name="email" required placeholder="jouw@email.com" />
         <button type="submit"
                 data-nl="Hou me op de hoogte"
@@ -1203,9 +1204,11 @@
     const others = langs.filter(l => l !== lang);
     document.getElementById('lang-btn-1').textContent = others[0].toUpperCase();
     document.getElementById('lang-btn-2').textContent = others[1].toUpperCase();
-    // Sync language to form hidden field
+    // Sync language to form hidden fields
     const langField = document.getElementById('form-language');
     if (langField) langField.value = lang;
+    const waitlistLangField = document.getElementById('waitlist-language');
+    if (waitlistLangField) waitlistLangField.value = lang;
   }
 
   /* ── Form submissions ─────────────────────────────────────── */
