@@ -447,6 +447,13 @@
     .phase__includes__label { font-size: 0.75rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: var(--text); margin-bottom: 0.3rem; }
     .phase__includes p { font-size: 0.88rem; color: var(--muted); line-height: 1.6; }
 
+    /* ── Practical ───────────────────────────────────────────── */
+    .practical__grid { display: grid; grid-template-columns: repeat(5, 1fr); gap: 1.2rem; margin-top: 3rem; }
+    .practical__card { background: var(--white); border-radius: 8px; padding: 1.5rem; border: 1px solid rgba(0,0,0,0.06); }
+    .practical__card h3 { font-size: 0.9rem; font-weight: 700; color: var(--text); margin-bottom: 0.7rem; }
+    .practical__card p { font-size: 0.88rem; color: var(--muted); line-height: 1.65; }
+    .practical__card .practical__note { margin-top: 0.6rem; font-size: 0.82rem; font-style: italic; }
+
     /* ── Takeaway ────────────────────────────────────────────── */
     .takeaway__list { list-style: none; padding: 0; max-width: 680px; margin: 3rem auto 0; display: flex; flex-direction: column; gap: 2rem; }
     .takeaway__list li { padding-left: 1.5rem; border-left: 3px solid var(--accent); }
@@ -499,6 +506,7 @@
       .story__grid         { grid-template-columns: 1fr; gap: 3rem; }
       .for-who__grid       { grid-template-columns: 1fr; }
       .ocean-grid          { grid-template-columns: 1fr; }
+      .practical__grid     { grid-template-columns: repeat(2, 1fr); }
       .science__list       { grid-template-columns: 1fr; gap: 2rem; }
       .phase               { grid-template-columns: 60px 1fr; gap: 1.2rem; }
       .story__avatar       { display: none; }
@@ -929,8 +937,75 @@
   </div>
 </section>
 
+<!-- ── Praktisch ─────────────────────────────────────────────────────── -->
+<section class="section section--alt" id="praktisch">
+  <div class="container">
+    <div class="section-header">
+      <p class="section-header__eyebrow"
+         data-nl="In een oogopslag"
+         data-en="At a glance"
+         data-fr="En un coup d'œil">In een oogopslag</p>
+      <h2 data-nl="Praktisch" data-en="Practical" data-fr="Pratique">Praktisch</h2>
+    </div>
+    <div class="practical__grid">
+
+      <div class="practical__card">
+        <h3 data-nl="Wanneer en waar" data-en="When and where" data-fr="Quand et où">Wanneer en waar</h3>
+        <p data-nl="Marokko, Berbers dorp Tamraght · Herfst 2026 · Exacte week en locatie volgen in mei."
+           data-en="Morocco, Berber village of Tamraght · Autumn 2026 · Exact week and location to follow in May."
+           data-fr="Maroc, village berbère de Tamraght · Automne 2026 · Semaine et lieu exacts à suivre en mai.">
+          Marokko, Berbers dorp Tamraght · Herfst 2026 · Exacte week en locatie volgen in mei.
+        </p>
+      </div>
+
+      <div class="practical__card">
+        <h3 data-nl="Groep" data-en="Group" data-fr="Groupe">Groep</h3>
+        <p data-nl="6–8 deelnemers, handpicked via intake."
+           data-en="6–8 participants, handpicked via intake."
+           data-fr="6–8 participants, sélectionnés via entretien.">
+          6–8 deelnemers, handpicked via intake.
+        </p>
+      </div>
+
+      <div class="practical__card">
+        <h3 data-nl="Inclusief" data-en="Included" data-fr="Inclus">Inclusief</h3>
+        <p data-nl="Accommodatie · alle maaltijden · surfcoaching en materiaal · groepsprogramma · luchthavenvervoer"
+           data-en="Accommodation · all meals · surf coaching and equipment · group programme · airport transfers"
+           data-fr="Hébergement · tous les repas · coaching surf et matériel · programme de groupe · transferts aéroport">
+          Accommodatie · alle maaltijden · surfcoaching en materiaal · groepsprogramma · luchthavenvervoer
+        </p>
+        <p class="practical__note"
+           data-nl="Niet inbegrepen: vluchten en reis- en annulatieverzekering."
+           data-en="Not included: flights and travel/cancellation insurance."
+           data-fr="Non inclus : vols et assurance voyage/annulation.">
+          Niet inbegrepen: vluchten en reis- en annulatieverzekering.
+        </p>
+      </div>
+
+      <div class="practical__card">
+        <h3 data-nl="Investering" data-en="Investment" data-fr="Investissement">Investering</h3>
+        <p data-nl="De prijs wordt besproken tijdens het intakegesprek."
+           data-en="The price is discussed during the intake conversation."
+           data-fr="Le prix est abordé lors de l'entretien.">
+          De prijs wordt besproken tijdens het intakegesprek.
+        </p>
+      </div>
+
+      <div class="practical__card">
+        <h3 data-nl="Deelnemen" data-en="How to join" data-fr="Comment participer">Deelnemen</h3>
+        <p data-nl="Via het intakeformulier onderaan deze pagina. Elke aanvraag krijgt een eerlijk antwoord."
+           data-en="Via the intake form at the bottom of this page. Every request receives an honest answer."
+           data-fr="Via le formulaire d'entretien en bas de cette page. Chaque demande reçoit une réponse honnête.">
+          Via het intakeformulier onderaan deze pagina. Elke aanvraag krijgt een eerlijk antwoord.
+        </p>
+      </div>
+
+    </div>
+  </div>
+</section>
+
 <!-- ── Wat je meeneemt ───────────────────────────────────────────────── -->
-<section class="section section--alt" id="meeneemt">
+<section class="section" id="meeneemt">
   <div class="container">
     <div class="section-header">
       <p class="section-header__eyebrow"
