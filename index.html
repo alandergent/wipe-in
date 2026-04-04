@@ -1483,16 +1483,10 @@
     var iconOn    = document.getElementById('sound-icon-on');
     var iconOff   = document.getElementById('sound-icon-off');
     var audio     = document.getElementById('ocean-sound');
-    var active    = true;
-    var started   = false;
+    var playing   = false;
     var fadeTimer = null;
-    var touchJustFired = false;
+    var touchFired = false;
     var vol = window.matchMedia('(max-width: 860px)').matches ? 0.22 : 0.42;
-
-    // Button starts in active/on state
-    btn.classList.add('active');
-    iconOn.style.display  = 'block';
-    iconOff.style.display = 'none';
 
     function fadeTo(target, onDone) {
       clearInterval(fadeTimer);
@@ -1509,68 +1503,59 @@
       }, 80);
     }
 
-    function playAudio(onSuccess) {
+    function tryPlay() {
       audio.load();
       audio.volume = 0;
       var p = audio.play();
       if (p && p.then) {
-        p.then(onSuccess).catch(function() {
-          // Browser blocked — show button as off
-          active = false; started = false;
-          btn.classList.remove('active');
-          iconOn.style.display  = 'none';
-          iconOff.style.display = 'block';
+        p.then(function() {
+          playing = true;
+          fadeTo(vol);
+        }).catch(function() {
+          playing = false;
+          setOff();
         });
       } else {
-        onSuccess();
+        playing = true;
+        fadeTo(vol);
       }
     }
 
-    // Start audio on the first page interaction that is NOT the button itself
-    function startOnPageInteraction(e) {
-      if (btn.contains(e.target)) return;
-      if (started || !active) return;
-      started = true;
-      playAudio(function() { fadeTo(vol); });
-    }
-    // Only touchend + click — iOS does not unlock audio on scroll/keydown
-    document.addEventListener('touchend', startOnPageInteraction, { once: true, passive: true });
-    document.addEventListener('click',    startOnPageInteraction, { once: true });
+    function setOn()  { btn.classList.add('active');    iconOn.style.display='block'; iconOff.style.display='none';  }
+    function setOff() { btn.classList.remove('active'); iconOn.style.display='none';  iconOff.style.display='block'; }
 
-    // Toggle handler
+    // Button visually "on" from start — first interaction starts audio
+    setOn();
+
     function handleToggle() {
-      active = !active;
-      if (active) {
-        // Turn on
-        if (!started) {
-          started = true;
-          playAudio(function() { fadeTo(vol); });
-        } else {
-          playAudio(function() { fadeTo(vol); });
-        }
-        btn.classList.add('active');
-        iconOn.style.display  = 'block';
-        iconOff.style.display = 'none';
+      if (!playing) {
+        tryPlay();
+        setOn();
       } else {
-        // Turn off
-        fadeTo(0, function() { audio.pause(); started = false; });
-        btn.classList.remove('active');
-        iconOn.style.display  = 'none';
-        iconOff.style.display = 'block';
+        fadeTo(0, function() { audio.pause(); playing = false; });
+        setOff();
       }
     }
 
-    // touchend on button — use flag to prevent the synthetic click from also firing
+    // Desktop: start on first click anywhere on the page (not on the button)
+    document.addEventListener('click', function startOnPage(e) {
+      if (btn.contains(e.target)) return;
+      if (playing) { document.removeEventListener('click', startOnPage); return; }
+      tryPlay();
+      document.removeEventListener('click', startOnPage);
+    });
+
+    // Button: touchend for iOS (e.preventDefault stops the synthetic click)
     btn.addEventListener('touchend', function(e) {
       e.preventDefault();
-      touchJustFired = true;
-      setTimeout(function() { touchJustFired = false; }, 500);
+      touchFired = true;
+      setTimeout(function() { touchFired = false; }, 600);
       handleToggle();
     }, { passive: false });
 
-    // click on button — skip if triggered by touch (already handled above)
+    // Button: click for desktop (ignored if touch just fired)
     btn.addEventListener('click', function() {
-      if (touchJustFired) return;
+      if (touchFired) return;
       handleToggle();
     });
   })();
