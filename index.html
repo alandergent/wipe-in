@@ -530,6 +530,48 @@
       .hero       { padding: 8rem 1.5rem 5rem; }
       nav         { padding: 1.2rem 1.5rem; }
     }
+
+    /* ── Photo Strip ─────────────────────────────────────────────── */
+    .photo-strip {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      height: 540px;
+      gap: 3px;
+    }
+
+    .photo-strip__item {
+      overflow: hidden;
+      position: relative;
+    }
+
+    .photo-strip__item img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: center;
+      display: block;
+      transition: transform 0.7s ease;
+    }
+
+    .photo-strip__item:hover img {
+      transform: scale(1.05);
+    }
+
+    @media (max-width: 860px) {
+      .photo-strip {
+        grid-template-columns: repeat(2, 1fr);
+        height: auto;
+      }
+      .photo-strip__item {
+        aspect-ratio: 3 / 4;
+      }
+    }
+
+    @media (max-width: 560px) {
+      .photo-strip {
+        height: auto;
+      }
+    }
   </style>
 </head>
 <body>
@@ -591,6 +633,22 @@
   </div>
   <span class="hero__scroll">Scroll</span>
 </section>
+
+<!-- ── Photo Strip ─────────────────────────────────────────────────── -->
+<div class="photo-strip">
+  <div class="photo-strip__item">
+    <img src="images/surf-sunset.jpg" alt="Sunset surf session at the ocean" loading="lazy">
+  </div>
+  <div class="photo-strip__item">
+    <img src="images/surfers-beach.jpg" alt="Surfers heading to the water" loading="lazy">
+  </div>
+  <div class="photo-strip__item">
+    <img src="images/surfers-palms.jpg" alt="Surfers returning through palm trees" loading="lazy">
+  </div>
+  <div class="photo-strip__item">
+    <img src="images/surfer-ocean.jpg" alt="Waiting for the perfect wave" loading="lazy">
+  </div>
+</div>
 
 <!-- ── Concept ─────────────────────────────────────────────────────── -->
 <section class="section" id="concept">
