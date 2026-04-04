@@ -531,59 +531,55 @@
       nav         { padding: 1.2rem 1.5rem; }
     }
 
-    /* ── Photo Strip ─────────────────────────────────────────────── */
-    .photo-strip {
-      display: grid;
-      grid-template-columns: repeat(3, 1fr);
-      height: 320px;
-      gap: 2px;
+    /* ── Sound Toggle ────────────────────────────────────────────── */
+    #sound-toggle {
+      position: fixed;
+      bottom: 2rem;
+      right: 2rem;
+      z-index: 50;
+      width: 42px;
+      height: 42px;
+      border-radius: 50%;
+      background: rgba(6, 29, 46, 0.88);
+      border: 1px solid rgba(255,255,255,0.15);
+      backdrop-filter: blur(8px);
+      -webkit-backdrop-filter: blur(8px);
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      transition: border-color 0.2s;
+      padding: 0;
     }
-
-    .photo-strip__item {
-      overflow: hidden;
-      position: relative;
+    #sound-toggle:hover { border-color: var(--accent); }
+    #sound-toggle svg {
+      width: 16px;
+      height: 16px;
+      stroke: rgba(255,255,255,0.45);
+      fill: none;
+      stroke-width: 1.5;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      transition: stroke 0.2s;
     }
-
-    .photo-strip__item::after {
-      content: '';
-      position: absolute;
-      inset: 0;
-      background: rgba(6, 29, 46, 0.18);
-      pointer-events: none;
-    }
-
-    .photo-strip__item img {
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-      object-position: center;
-      display: block;
-      filter: saturate(0.72) brightness(0.92);
-      transition: transform 0.7s ease;
-    }
-
-    .photo-strip__item:hover img {
-      transform: scale(1.04);
-    }
-
-    @media (max-width: 860px) {
-      .photo-strip {
-        grid-template-columns: repeat(2, 1fr);
-        height: auto;
-      }
-      .photo-strip__item {
-        aspect-ratio: 3 / 4;
-      }
-    }
-
-    @media (max-width: 560px) {
-      .photo-strip {
-        height: auto;
-      }
-    }
+    #sound-toggle.active svg { stroke: var(--accent); }
   </style>
 </head>
 <body>
+
+<!-- ── Sound Toggle ─────────────────────────────────────────────── -->
+<button id="sound-toggle" aria-label="Toggle ocean sound" title="Ocean sound">
+  <svg id="sound-icon-on" viewBox="0 0 24 24" style="display:none">
+    <path d="M11 5L6 9H2v6h4l5 4V5z"/>
+    <path d="M15.54 8.46a5 5 0 0 1 0 7.07"/>
+    <path d="M19.07 4.93a10 10 0 0 1 0 14.14"/>
+  </svg>
+  <svg id="sound-icon-off" viewBox="0 0 24 24">
+    <path d="M11 5L6 9H2v6h4l5 4V5z"/>
+    <line x1="23" y1="9" x2="17" y2="15"/>
+    <line x1="17" y1="9" x2="23" y2="15"/>
+  </svg>
+</button>
 
 <!-- ── Breath Overlay ───────────────────────────────────────────── -->
 <div id="breath-overlay">
@@ -1337,19 +1333,6 @@
   </div>
 </section>
 
-<!-- ── Photo Strip ─────────────────────────────────────────────────── -->
-<div class="photo-strip">
-  <div class="photo-strip__item">
-    <img src="images/surfers-beach.jpg" alt="Surfers heading to the water" loading="lazy" style="object-position: center 65%;">
-  </div>
-  <div class="photo-strip__item">
-    <img src="images/surfer-ocean.jpg" alt="Waiting for the perfect wave" loading="lazy" style="object-position: center 65%;">
-  </div>
-  <div class="photo-strip__item">
-    <img src="images/surf-sunset.JPG" alt="Sunset surf session at the ocean" loading="lazy">
-  </div>
-</div>
-
 <!-- ── Footer ──────────────────────────────────────────────────────── -->
 <footer>
   <span class="footer-logo">WIPE IN</span>
@@ -1477,6 +1460,108 @@
     overlay.addEventListener('click', function() { clearTimeout(timer); dismiss(); });
     window.addEventListener('scroll', function() { clearTimeout(timer); dismiss(); }, { once: true });
     document.addEventListener('keydown', function() { clearTimeout(timer); dismiss(); }, { once: true });
+  })();
+
+  /* ── Ocean Sound ─────────────────────────────────────────── */
+  (function() {
+    var btn      = document.getElementById('sound-toggle');
+    var iconOn   = document.getElementById('sound-icon-on');
+    var iconOff  = document.getElementById('sound-icon-off');
+    var audioCtx = null;
+    var masterGain = null;
+    var noiseSource = null;
+    var lfoNode  = null;
+    var active   = false;
+
+    function buildPinkNoise(ctx) {
+      var rate = ctx.sampleRate;
+      var len  = rate * 12; // 12-second loop
+      var buf  = ctx.createBuffer(2, len, rate);
+      for (var ch = 0; ch < 2; ch++) {
+        var d = buf.getChannelData(ch);
+        var b0=0,b1=0,b2=0,b3=0,b4=0,b5=0,b6=0;
+        for (var i = 0; i < len; i++) {
+          var w = Math.random() * 2 - 1;
+          b0 = 0.99886*b0 + w*0.0555179;
+          b1 = 0.99332*b1 + w*0.0750759;
+          b2 = 0.96900*b2 + w*0.1538520;
+          b3 = 0.86650*b3 + w*0.3104856;
+          b4 = 0.55000*b4 + w*0.5329522;
+          b5 = -0.7616*b5 - w*0.0168980;
+          d[i] = (b0+b1+b2+b3+b4+b5+b6+w*0.5362) * 0.11;
+          b6 = w * 0.115926;
+        }
+      }
+      return buf;
+    }
+
+    function startOcean() {
+      if (!audioCtx) {
+        audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+      }
+      if (audioCtx.state === 'suspended') audioCtx.resume();
+
+      masterGain = audioCtx.createGain();
+      masterGain.gain.setValueAtTime(0, audioCtx.currentTime);
+      masterGain.gain.linearRampToValueAtTime(0.38, audioCtx.currentTime + 3);
+      masterGain.connect(audioCtx.destination);
+
+      noiseSource = audioCtx.createBufferSource();
+      noiseSource.buffer = buildPinkNoise(audioCtx);
+      noiseSource.loop = true;
+
+      var lowpass = audioCtx.createBiquadFilter();
+      lowpass.type = 'lowpass';
+      lowpass.frequency.value = 520;
+      lowpass.Q.value = 0.4;
+
+      var highpass = audioCtx.createBiquadFilter();
+      highpass.type = 'highpass';
+      highpass.frequency.value = 18;
+
+      // LFO for gentle wave swell rhythm (~10-second cycles)
+      lfoNode = audioCtx.createOscillator();
+      var lfoGain = audioCtx.createGain();
+      lfoNode.type = 'sine';
+      lfoNode.frequency.value = 0.09;
+      lfoGain.gain.value = 0.14;
+      lfoNode.connect(lfoGain);
+      lfoGain.connect(masterGain.gain);
+      lfoNode.start();
+
+      noiseSource.connect(highpass);
+      highpass.connect(lowpass);
+      lowpass.connect(masterGain);
+      noiseSource.start();
+    }
+
+    function stopOcean() {
+      if (!masterGain) return;
+      var g = masterGain;
+      var s = noiseSource;
+      var l = lfoNode;
+      g.gain.linearRampToValueAtTime(0, audioCtx.currentTime + 1.8);
+      setTimeout(function() {
+        try { s.stop(); } catch(e) {}
+        try { l.stop(); } catch(e) {}
+      }, 1900);
+      masterGain = null; noiseSource = null; lfoNode = null;
+    }
+
+    btn.addEventListener('click', function() {
+      active = !active;
+      if (active) {
+        startOcean();
+        btn.classList.add('active');
+        iconOn.style.display  = 'block';
+        iconOff.style.display = 'none';
+      } else {
+        stopOcean();
+        btn.classList.remove('active');
+        iconOn.style.display  = 'none';
+        iconOff.style.display = 'block';
+      }
+    });
   })();
 
 
