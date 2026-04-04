@@ -1491,6 +1491,15 @@
 
     setOn();
 
+    // Start on first interaction anywhere on the page
+    function startOnce() {
+      if (!audio.paused) return;
+      audio.volume = vol;
+      audio.play().catch(function() { setOff(); });
+    }
+    document.addEventListener('click',      startOnce, { once: true });
+    document.addEventListener('touchstart', startOnce, { once: true, passive: true });
+
     btn.addEventListener('click', function() {
       if (audio.paused) {
         audio.volume = vol;
