@@ -1384,7 +1384,7 @@
   }
 
   /* ── Airtable config ──────────────────────────────────────── */
-  var AT_TOKEN = 'JOUW_AIRTABLE_PAT_HIER'; // vervang door je Personal Access Token
+  var AT_TOKEN = 'patPIiJU5Ed7RmME7.2e77ad0fbba4bd663e974cbb33029546ccb56f13788d62ac1480b5f1086f1210';
   var AT_BASE  = 'apptGA4Z07P794gEh';
   var AT_INTAKE   = 'tblfD0aqmTg8vjkp3';
   var AT_WAITLIST = 'tbl6eAtflQ3Eg0ou6';
@@ -1417,16 +1417,19 @@
         'Motivation':      d.motivatie    || '',
         'Language':        (d.language    || 'nl').toUpperCase(),
         'Date submitted':  new Date().toISOString(),
-        'Status':          'To review'   // pas aan als je Airtable-optie een emoji bevat
+        'Status':          'To review'
       });
       if (res.ok) {
         form.style.display = 'none';
         var s = document.getElementById('intake-success');
         if (s) s.style.display = 'block';
       } else {
+        var err = await res.json();
+        console.error('Intake API error:', res.status, JSON.stringify(err));
         if (btn) btn.disabled = false;
       }
     } catch (e) {
+      console.error('Intake fetch error:', e);
       if (btn) btn.disabled = false;
     }
   });
