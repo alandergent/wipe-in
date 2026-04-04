@@ -544,29 +544,26 @@
       position: relative;
     }
 
+    .photo-strip__item::after {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: rgba(6, 29, 46, 0.18);
+      pointer-events: none;
+    }
+
     .photo-strip__item img {
       width: 100%;
       height: 100%;
       object-fit: cover;
       object-position: center;
       display: block;
+      filter: saturate(0.72) brightness(0.92);
       transition: transform 0.7s ease;
     }
 
     .photo-strip__item:hover img {
       transform: scale(1.04);
-    }
-
-    .photo-strip__item--tinted img {
-      filter: saturate(0.55) brightness(0.88);
-    }
-
-    .photo-strip__item--tinted::after {
-      content: '';
-      position: absolute;
-      inset: 0;
-      background: rgba(6, 29, 46, 0.32);
-      pointer-events: none;
     }
 
     @media (max-width: 860px) {
@@ -648,10 +645,10 @@
 
 <!-- ── Photo Strip ─────────────────────────────────────────────────── -->
 <div class="photo-strip">
-  <div class="photo-strip__item photo-strip__item--tinted">
+  <div class="photo-strip__item">
     <img src="images/surfers-beach.jpg" alt="Surfers heading to the water" loading="lazy" style="object-position: center 65%;">
   </div>
-  <div class="photo-strip__item photo-strip__item--tinted">
+  <div class="photo-strip__item">
     <img src="images/surfer-ocean.jpg" alt="Waiting for the perfect wave" loading="lazy" style="object-position: center 65%;">
   </div>
   <div class="photo-strip__item">
