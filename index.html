@@ -1507,7 +1507,7 @@
       audio.volume = 0;
       var p = audio.play();
       if (p && p.then) {
-        p.then(function() { fadeTo(0.42); })
+        p.then(function() { fadeTo(window.matchMedia('(max-width: 860px)').matches ? 0.22 : 0.42); })
          .catch(function() {
            active = false; started = false;
            btn.classList.remove('active');
@@ -1515,7 +1515,7 @@
            iconOff.style.display = 'block';
          });
       } else {
-        fadeTo(0.42);
+        fadeTo(window.matchMedia('(max-width: 860px)').matches ? 0.22 : 0.42);
       }
     }
 
@@ -1528,7 +1528,7 @@
       active = !active;
       if (active) {
         startAudio();
-        if (started) fadeTo(0.42);
+        if (started) fadeTo(window.matchMedia('(max-width: 860px)').matches ? 0.22 : 0.42);
         btn.classList.add('active');
         iconOn.style.display  = 'block';
         iconOff.style.display = 'none';
