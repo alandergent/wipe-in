@@ -1503,20 +1503,25 @@
     function startAudio() {
       if (started || !active) return;
       started = true;
+      audio.load(); // required on iOS Safari before play()
       audio.volume = 0;
-      audio.play().catch(function() {
-        // Autoplay blocked — turn button off silently
-        active = false;
-        btn.classList.remove('active');
-        iconOn.style.display  = 'none';
-        iconOff.style.display = 'block';
-      });
-      fadeTo(0.42);
+      var p = audio.play();
+      if (p && p.then) {
+        p.then(function() { fadeTo(0.42); })
+         .catch(function() {
+           active = false; started = false;
+           btn.classList.remove('active');
+           iconOn.style.display  = 'none';
+           iconOff.style.display = 'block';
+         });
+      } else {
+        fadeTo(0.42);
+      }
     }
 
     // Start on first user interaction (covers overlay click/scroll/key + touchstart on mobile)
     ['click','scroll','keydown','touchstart'].forEach(function(evt) {
-      document.addEventListener(evt, startAudio, { once: true, passive: true });
+      document.addEventListener(evt, startAudio, { once: true });
     });
 
     btn.addEventListener('click', function() {
