@@ -532,11 +532,10 @@
     }
 
     /* ── Phase surf background ───────────────────────────────────── */
-    .phase--surf {
+    .section--surf {
       background:
-        linear-gradient(rgba(255,255,255,0.78), rgba(255,255,255,0.78)),
-        url('images/surfer-ocean.jpg') center 30% / cover no-repeat;
-      border-bottom: none;
+        linear-gradient(rgba(255,255,255,0.82), rgba(255,255,255,0.82)),
+        url('images/surfer-ocean.jpg') center 30% / cover no-repeat fixed;
     }
 
     /* ── Sound Toggle ────────────────────────────────────────────── */
@@ -901,7 +900,7 @@
 </section>
 
 <!-- ── Three phases ────────────────────────────────────────────────── -->
-<section class="section" id="traject">
+<section class="section section--surf" id="traject">
   <div class="container">
     <div class="section-header">
       <p class="section-header__eyebrow"
@@ -940,7 +939,7 @@
         </div>
       </div>
 
-      <div class="phase phase--surf">
+      <div class="phase">
         <div class="phase__num">2</div>
         <div>
           <p class="phase__label"
