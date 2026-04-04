@@ -531,6 +531,16 @@
       nav         { padding: 1.2rem 1.5rem; }
     }
 
+    /* ── Phase visual ────────────────────────────────────────────── */
+    .phase__visual {
+      width: 100vw;
+      margin-left: calc(-50vw + 50%);
+      height: 320px;
+      background:
+        linear-gradient(rgba(6,29,46,0.42), rgba(6,29,46,0.52)),
+        url('images/surfer-ocean.jpg') center 40% / cover no-repeat;
+    }
+
     /* ── Sound Toggle ────────────────────────────────────────────── */
     #sound-toggle {
       position: fixed;
@@ -975,6 +985,8 @@
           </ul>
         </div>
       </div>
+
+      <div class="phase__visual"></div>
 
       <div class="phase">
         <div class="phase__num">3</div>
@@ -1524,7 +1536,7 @@
       document.addEventListener(evt, startAudio, { once: true });
     });
 
-    btn.addEventListener('click', function() {
+    function handleToggle() {
       active = !active;
       if (active) {
         startAudio();
@@ -1538,7 +1550,12 @@
         iconOn.style.display  = 'none';
         iconOff.style.display = 'block';
       }
-    });
+    }
+    btn.addEventListener('click', handleToggle);
+    btn.addEventListener('touchend', function(e) {
+      e.preventDefault(); // prevent the subsequent click from double-firing
+      handleToggle();
+    }, { passive: false });
   })();
 
 
