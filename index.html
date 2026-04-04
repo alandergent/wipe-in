@@ -551,6 +551,7 @@
       border: 1px solid rgba(255,255,255,0.15);
       backdrop-filter: blur(8px);
       -webkit-backdrop-filter: blur(8px);
+      touch-action: manipulation;
       cursor: pointer;
       display: flex;
       align-items: center;
@@ -1479,13 +1480,12 @@
 
   /* ── Ocean Sound ─────────────────────────────────────────── */
   (function() {
-    var btn       = document.getElementById('sound-toggle');
-    var iconOn    = document.getElementById('sound-icon-on');
-    var iconOff   = document.getElementById('sound-icon-off');
-    var audio     = document.getElementById('ocean-sound');
-    var state     = 'off'; // 'off' | 'starting' | 'on'
-    var fadeTimer = null;
-    var touchFired = false;
+    var btn      = document.getElementById('sound-toggle');
+    var iconOn   = document.getElementById('sound-icon-on');
+    var iconOff  = document.getElementById('sound-icon-off');
+    var audio    = document.getElementById('ocean-sound');
+    var state    = 'off';
+    var fadeTimer;
     var vol = window.matchMedia('(max-width: 860px)').matches ? 0.22 : 0.42;
 
     function fadeTo(target, onDone) {
@@ -1506,62 +1506,26 @@
     function setOn()  { btn.classList.add('active');    iconOn.style.display='block'; iconOff.style.display='none';  }
     function setOff() { btn.classList.remove('active'); iconOn.style.display='none';  iconOff.style.display='block'; }
 
-    function startAudio() {
-      state = 'starting'; // set synchronously so rapid taps see correct state
-      setOn();
-      audio.load();
-      audio.volume = 0;
-      var p = audio.play();
-      if (p && p.then) {
-        p.then(function() {
-          if (state === 'starting') { state = 'on'; fadeTo(vol); }
-        }).catch(function() {
-          state = 'off';
-          setOff();
-        });
-      } else {
-        state = 'on';
-        fadeTo(vol);
-      }
-    }
+    setOn(); // visually on by default
 
-    function stopAudio() {
-      state = 'off';
-      setOff();
-      fadeTo(0, function() { audio.pause(); });
-    }
-
-    // Button visually "on" from start
-    setOn();
-
-    function handleToggle() {
-      if (state === 'off') {
-        startAudio();
-      } else {
-        stopAudio();
-      }
-    }
-
-    // Desktop: start on first click anywhere on the page (not on the button)
-    document.addEventListener('click', function startOnPage(e) {
-      if (btn.contains(e.target)) return;
-      if (state !== 'off') { document.removeEventListener('click', startOnPage); return; }
-      startAudio();
-      document.removeEventListener('click', startOnPage);
-    });
-
-    // Button: touchend for iOS
-    btn.addEventListener('touchend', function(e) {
-      e.preventDefault();
-      touchFired = true;
-      setTimeout(function() { touchFired = false; }, 600);
-      handleToggle();
-    }, { passive: false });
-
-    // Button: click for desktop
     btn.addEventListener('click', function() {
-      if (touchFired) return;
-      handleToggle();
+      if (state !== 'off') {
+        state = 'off';
+        setOff();
+        fadeTo(0, function() { audio.pause(); });
+      } else {
+        state = 'starting';
+        setOn();
+        audio.load();
+        audio.volume = 0;
+        var p = audio.play();
+        if (p && p.then) {
+          p.then(function() { state = 'on'; fadeTo(vol); })
+           .catch(function() { state = 'off'; setOff(); });
+        } else {
+          state = 'on'; fadeTo(vol);
+        }
+      }
     });
   })();
 
