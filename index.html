@@ -1508,7 +1508,12 @@
 
     setOn(); // visually on by default
 
+    var lastClick = 0;
     btn.addEventListener('click', function() {
+      var now = Date.now();
+      if (now - lastClick < 500) return;
+      lastClick = now;
+
       if (state !== 'off') {
         state = 'off';
         setOff();
