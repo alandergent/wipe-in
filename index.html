@@ -535,13 +535,21 @@
     .photo-strip {
       display: grid;
       grid-template-columns: repeat(4, 1fr);
-      height: 540px;
-      gap: 3px;
+      height: 320px;
+      gap: 2px;
     }
 
     .photo-strip__item {
       overflow: hidden;
       position: relative;
+    }
+
+    .photo-strip__item::after {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: rgba(14, 61, 94, 0.22);
+      pointer-events: none;
     }
 
     .photo-strip__item img {
@@ -550,11 +558,13 @@
       object-fit: cover;
       object-position: center;
       display: block;
-      transition: transform 0.7s ease;
+      filter: saturate(0.5) brightness(0.95);
+      transition: transform 0.7s ease, filter 0.7s ease;
     }
 
     .photo-strip__item:hover img {
-      transform: scale(1.05);
+      transform: scale(1.04);
+      filter: saturate(0.7) brightness(1);
     }
 
     @media (max-width: 860px) {
