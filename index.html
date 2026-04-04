@@ -1417,7 +1417,7 @@
         'Motivation':      d.motivatie    || '',
         'Language':        (d.language    || 'nl').toUpperCase(),
         'Date submitted':  new Date().toISOString(),
-        'Status':          'To review'
+        'Status':          '🟡 To review'
       });
       if (res.ok) {
         form.style.display = 'none';
@@ -1446,7 +1446,7 @@
         'Email':          d.email    || '',
         'Date submitted': new Date().toISOString(),
         'Language':       (d.language || 'nl').toUpperCase(),
-        'Status':         'Active'   // pas aan als je Airtable-optie een emoji bevat
+        'Status':         '🟢 Active'
       });
       if (res.ok) {
         form.style.display = 'none';
