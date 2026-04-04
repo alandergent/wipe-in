@@ -531,14 +531,11 @@
       nav         { padding: 1.2rem 1.5rem; }
     }
 
-    /* ── Phase visual ────────────────────────────────────────────── */
-    .phase__visual {
-      width: 100vw;
-      margin-left: calc(-50vw + 50%);
-      height: 320px;
+    /* ── Phase surf background ───────────────────────────────────── */
+    .phase--surf {
       background:
-        linear-gradient(rgba(6,29,46,0.42), rgba(6,29,46,0.52)),
-        url('images/surfer-ocean.jpg') center 40% / cover no-repeat;
+        linear-gradient(rgba(255,255,255,0.91), rgba(255,255,255,0.91)),
+        url('images/surfer-ocean.jpg') center 30% / cover no-repeat;
     }
 
     /* ── Sound Toggle ────────────────────────────────────────────── */
@@ -942,7 +939,7 @@
         </div>
       </div>
 
-      <div class="phase">
+      <div class="phase phase--surf">
         <div class="phase__num">2</div>
         <div>
           <p class="phase__label"
@@ -985,8 +982,6 @@
           </ul>
         </div>
       </div>
-
-      <div class="phase__visual"></div>
 
       <div class="phase">
         <div class="phase__num">3</div>
