@@ -1424,12 +1424,9 @@
         var s = document.getElementById('intake-success');
         if (s) s.style.display = 'block';
       } else {
-        var err = await res.json();
-        console.error('Intake API error:', res.status, JSON.stringify(err));
         if (btn) btn.disabled = false;
       }
     } catch (e) {
-      console.error('Intake fetch error:', e);
       if (btn) btn.disabled = false;
     }
   });
