@@ -1480,12 +1480,13 @@
 
   /* ── Ocean Sound ─────────────────────────────────────────── */
   (function() {
-    var btn      = document.getElementById('sound-toggle');
-    var iconOn   = document.getElementById('sound-icon-on');
-    var iconOff  = document.getElementById('sound-icon-off');
-    var audio    = document.getElementById('ocean-sound');
-    var state    = 'off';
+    var btn         = document.getElementById('sound-toggle');
+    var iconOn      = document.getElementById('sound-icon-on');
+    var iconOff     = document.getElementById('sound-icon-off');
+    var audio       = document.getElementById('ocean-sound');
     var fadeTimer;
+    var initialized = false;
+    var lastToggle  = 0;
     var vol = window.matchMedia('(max-width: 860px)').matches ? 0.22 : 0.42;
 
     function fadeTo(target, onDone) {
@@ -1508,28 +1509,23 @@
 
     setOn(); // visually on by default
 
-    var lastClick = 0;
     btn.addEventListener('click', function() {
       var now = Date.now();
-      if (now - lastClick < 500) return;
-      lastClick = now;
+      if (now - lastToggle < 800) return;
+      lastToggle = now;
 
-      if (state !== 'off') {
-        state = 'off';
+      if (!audio.paused) {
+        // Currently playing → stop
         setOff();
         fadeTo(0, function() { audio.pause(); });
       } else {
-        state = 'starting';
+        // Currently paused → start
         setOn();
-        audio.load();
+        if (!initialized) { audio.load(); initialized = true; }
         audio.volume = 0;
-        var p = audio.play();
-        if (p && p.then) {
-          p.then(function() { state = 'on'; fadeTo(vol); })
-           .catch(function() { state = 'off'; setOff(); });
-        } else {
-          state = 'on'; fadeTo(vol);
-        }
+        audio.play()
+          .then(function() { fadeTo(vol); })
+          .catch(function() { setOff(); initialized = false; });
       }
     });
   })();
