@@ -512,6 +512,20 @@
 
     /* ── Intake additions ────────────────────────────────────── */
     .intake__edition { font-size: 0.9rem; color: rgba(255,255,255,0.5); max-width: 480px; margin: 0 auto 0.5rem; }
+    .intake__spots {
+      display: flex; flex-direction: column; align-items: center;
+      gap: 0.5rem; margin: 1.4rem auto 2rem; max-width: 280px;
+    }
+    .intake__spots__bar {
+      width: 100%; height: 4px; background: rgba(255,255,255,0.15); border-radius: 2px;
+    }
+    .intake__spots__fill {
+      height: 100%; border-radius: 2px; background: var(--accent);
+      width: 37.5%; /* 3 of 8 — update this % as spots fill */
+    }
+    .intake__spots__label {
+      font-size: 0.82rem; color: rgba(255,255,255,0.55); letter-spacing: 0.04em;
+    }
     .intake__prequestion { font-size: 0.88rem; color: rgba(255,255,255,0.4); margin-top: -1rem; margin-bottom: 0; max-width: 480px; margin-left: auto; margin-right: auto; }
     .intake__prequestion a { color: var(--accent); text-decoration: none; }
     .intake__prequestion a:hover { text-decoration: underline; }
@@ -1294,6 +1308,14 @@
        data-fr="C'est la première édition. Le groupe est composé avec un soin particulier.">
       Dit is de eerste editie. De groep wordt met extra zorg samengesteld.
     </p>
+    <div class="intake__spots">
+      <div class="intake__spots__bar"><div class="intake__spots__fill"></div></div>
+      <span class="intake__spots__label"
+            data-nl="3 van 8 plaatsen ingevuld"
+            data-en="3 of 8 spots taken"
+            data-fr="3 places sur 8 prises">3 van 8 plaatsen ingevuld</span>
+    </div>
+
     <form id="intake-form" class="intake-form" action="https://submit-form.com/fGkwPLRfu" method="POST">
       <input type="hidden" name="_redirect" value="false" />
       <input type="hidden" name="source" value="wipe-in intake" />
