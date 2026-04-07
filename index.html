@@ -547,11 +547,19 @@
     }
 
     /* ── Phase surf background ───────────────────────────────────── */
-    .section--surf {
-      background:
-        linear-gradient(rgba(255,255,255,0.95) 0%, rgba(255,255,255,0.80) 60%, rgba(255,255,255,0.80) 100%),
-        url('images/traject-bg.jpg') center 75% / cover no-repeat fixed;
+    .section--surf { position: relative; background: white; }
+    .section--surf::before {
+      content: '';
+      position: absolute; inset: 0; z-index: 0;
+      background: url('images/traject-bg.jpg') center 75% / cover no-repeat fixed;
+      filter: grayscale(1);
     }
+    .section--surf::after {
+      content: '';
+      position: absolute; inset: 0; z-index: 1;
+      background: linear-gradient(rgba(255,255,255,0.95) 0%, rgba(255,255,255,0.78) 60%, rgba(255,255,255,0.78) 100%);
+    }
+    .section--surf .container { position: relative; z-index: 2; }
 
     /* ── Sound Toggle ────────────────────────────────────────────── */
     #sound-toggle {
