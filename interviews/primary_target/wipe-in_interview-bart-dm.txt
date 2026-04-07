@@ -1,0 +1,684 @@
+INTERVIEW TRANSCRIPT 3 — GECORRIGEERD
+Sprekers: Alan (interviewer) | Bart (geïnterviewde)
+=========================================================
+
+ALAN: Nee, ik denk dat dat wel oké is. Wacht, ik ga het juist zien. Ik heb het ook al eens gehad. Ja, hij is bezig. Yes. Oké. Ik ga misschien heel even... Ja, het is leuk van... Ja, we kennen elkaar al.
+
+BART: Ja, ja.
+
+ALAN: Ik ben bezig met wat ik dacht. Maar misschien even kaderen. Ik ga nog niet teveel van het project zelf zeggen, om u ook niet teveel te sturen of zo.
+
+BART: Ja.
+
+ALAN: Maar ik heb dus industrieel ontwerp gestudeerd, productontwikkeling. Het is zo dat we elkaar kennen — zo heb ik Nelen ook leren kennen. En dan heb ik nog marketing bijgedaan, een aantal functies gehad in grotere bedrijven, productmarketing enzo. Dan ook zelfstandig even een brandingstudio gehad. En dan in 2014 wel beginnen werken voor Wood.be, dat was een kennisinstelling in de hout- en meubelsector, waar ik eigenlijk als innovation consultant aan de slag ging — anderzijds onderzoek, anderzijds naar bedrijven toe, innovatietrajecten, vooral rond duurzaamheid en circulaire economie begeleiden.
+
+BART: Ja.
+
+ALAN: Vond ik op zich inhoudelijk wel interessant, maar goed, ik heb daar meer dan 10 of 11 jaar gewerkt en ik had nu echt wel zoiets van: ja, nood aan een nieuw perspectief. Dus ik heb daar eind vorig jaar mijn ontslag gegeven. En ja, dan zijn we met de familie zes weken op reis geweest, met de bedoeling van met een clean sheet terug te bouwen, of toch die stap te zetten, laten we zeggen. En dus, ja, nu zit ik eigenlijk zo'n beetje in die voorbereidingsfase. Ik heb al wat pistes verkend. En deze piste is nu een die ik toch wel verder in de diepte wil verkennen — en daarmee doe ik zo een aantal interviews. Vooral met ondernemers. Voilà.
+
+BART: Oké, interessant.
+
+ALAN: Goed, dus het is een soort van ervaring die ik wil ontwikkelen, laten we het zo zeggen. Maar ik ga u wel straks iets voorleggen, want ik wil op basis van de vraagstelling ook al wel een klein beetje weten... Misschien nog juist even: had ik iets gezegd van hoe lang het ongeveer zou duren?
+
+BART: Je had gezegd een uurtje, maar het loopt soms wel wat uit. Voor mij is het geen probleem — ik heb pas over drie uur een vergadering.
+
+ALAN: Oké, goed. Die langer maken dan nodig is. Maar ik heb al gemerkt, inderdaad, dat tussen de verwachte duur en de realiteit, dat dat toch soms wel wat uitloopt. Het hangt natuurlijk ook heel veel af van hoeveel je spreekt bij de vragen. Maar daarmee ook — ik zou zeggen, zit er ook niet mee in. Ik ga wel wat vragen stellen, maar als je voelt: hier voel ik minder aansluiting mee, of je hebt minder over te zeggen — gewoon oké, we gaan naar de volgende vraag. Ik wil zeker dat we helemaal klaar raken. En vooral ook omdat de tweede helft van het interview meer zal zijn rond het concept dat ik aan het ontwikkelen ben. En dan is het wel handig om daar voldoende tijd nog voor te hebben, voor feedback.
+
+BART: Ik heb mijn boekje nog moeten pakken.
+
+ALAN: Oké, dus eerst en vooral... Ja, ik weet niet, heb jij nog vragen?
+
+BART: Nee.
+
+ALAN: Misschien eerst een beetje zo'n algemene context. Hoe ziet een typische week voor u eruit, zowel professioneel als privé?
+
+BART: Een typische week? Ik zal direct al beginnen dat ik momenteel ook wel een beetje in een speciale fase zit, want ik heb eigenlijk net ook beslist om af te ronden bij Ticketmatic. Dus na twintig jaar heb ik ook wel het gevoel van: ja, het is tijd voor iets anders, denk ik. En ook bij Ticketmatic hebben we — pak het — een jaar geleden beslist om een bepaalde strategie in te gaan, wat ik zelf volledig achtersta en waarvan ik zelf denk dat het wel de weg is voor Ticketmatic om verder te gaan — met name toch een beetje nog te proberen groeien en naar een grotere structuur te gaan. Maar ik merk, nu dat we daar mee bezig zijn, dat dat eigenlijk niet zo mijn ding is. Dus ja, je kunt daar op voorhand iets over nadenken, maar het is maar als je erin zit dat dat natuurlijk blijkt. Dus ja, ik heb nu net — eigenlijk vorige week — intern in de firma gecommuniceerd. Het komt voor hem niet als een verrassing, maar ik heb het vorige week wel intern gecommuniceerd. De laatste weken en maanden ziet mijn werk er wel wat anders uit dan de voorbije negentien jaar, laat ik zeggen. Maar typisch — hoe ziet een typische week eruit? Ik ben bezig met productontwikkeling van Ticketmatic, dus product in de zin van het softwareproduct.
+
+ALAN: Kun je mij nog even kort uitleggen wat Ticketmatic is? Gaat het ervan uit dat het een soort van oplossing voor tickets is?
+
+BART: Ja, we zijn eigenlijk een SaaS, kun je zeggen. Onze klanten zijn typisch de grotere theaters of poppodia. En die gebruiken ons platform om in hun naam hun ticketverkoop te organiseren. Dus als je naar de AB gaat en je klikt op "koop tickets", dan kom je uiteindelijk bij ons terecht. Je ziet dat niet echt direct, want dat is allemaal in de brand van AB — dat is ook echt onze bedoeling, om echt onze klanten hun brand naar voor te schuiven. Een beetje tegenover de Ticketmaster-aanpak zou je kunnen zeggen. Maar terwijl we ticketverkoop doen, daar komen natuurlijk nog wel een aantal andere luiken bij, zoals marketing. Want je hebt natuurlijk veel publieksdata. Dus een groot luik is dan ook: hoe ga je dat publiek eigenlijk leren kennen of daar acties op doen, mailings uitsturen. Dat is uiteindelijk allemaal deel van het platform dat we gebouwd hebben.
+
+ALAN: En jij hebt dan een achtergrond in softwareontwikkeling ofzo?
+
+BART: Ja, ik ben handelsingenieur, beleidsinformatica — dus een beetje de mix van economie. Maar ik ben altijd al heel erg geïnteresseerd geweest in het puur technische, dus ik had eigenlijk even goed informatica kunnen studeren. Dus ik ben er al heel snel door gepassioneerd geraakt. Mijn vennoot eigenlijk, waarmee ik begonnen ben, die heeft echt informatica gedaan, maar die was dan meer geïnteresseerd in het verkoop, in het commerciële. Dus eigenlijk hebben we onze wegen daar een beetje gekruist. En dat betekent ook dat er wel een grote overlap is tussen ons, om elkaar te kunnen begrijpen. Dat is op zich wel heel goed denk ik. Dus ja, dat is Ticketmatic — platform, 20 jaar bezig, 300 klanten in België en Nederland voornamelijk. En ja, echt wel de grotere venues. In Vlaanderen hebben we 70% van de cc's als klant. Studio 100 is een klant voor zijn musicals, dat zijn de allergrootste natuurlijk. Ancienne Belgique, de Doelen — dus ook de grote Nederlanders zijn eigenlijk allemaal klanten. En daar mikken we ook echt op. Niet zozeer festivals of eenmalige evenementen, maar echt die venues die het hele jaar door ticketverkoop doen en echt ook zelf als een merk in de markt willen staan.
+
+ALAN: En dat platform hebben jullie zelf ontwikkeld, een twintigtal jaar geleden?
+
+BART: Ja, daar zijn we continu mee bezig. Jij bent dan een van de eersten die die groep van organisaties benaderde?
+
+ALAN: Ja, toen wij gestart waren was er de opkomst van de online ticketing en het virtueel maken van de tickets. Dus de afstap van fysieke tickets naar barcodes, QR-codes of NFC op de telefoon. Dus daar hebben wij eigenlijk een beetje onze push gehad. Oorspronkelijk waren we echt puur een online add-on voor bestaande kassasystemen, noemden we dat toen. Maar we hebben al snel beslist om eigenlijk een volledig aanbod te bouwen dat het geheel omvat. En dat is wel een goede zet gebleken. Omdat je met die klanten — dat is voor onze klanten een heel zware beslissing, ze switchen ook niet snel. Veel van onze klanten zijn al 10, 15 jaar klant. Dat zijn lange contracten ook, dus dat is op zich wel heel positief — een soort van stabiliteit.
+
+BART: Ja, dat is dat. Je hebt al even gezegd van verandering. Dat is mijn volgende vraag eigenlijk. Sta je op een punt van verandering? Kun je daar misschien nog iets meer van vertellen?
+
+ALAN: Zeker, dus eigenlijk — de sector waar wij in zitten is een extreme kleine niche, met klanten die op zich niet super groot zijn. Daar zit ook geen massa geld, wat het moeilijk maakt om te schalen. Dus we zijn al een tijd bezig om ook verder in het buitenland voet aan de grond te krijgen — is niet zo gemakkelijk. Eigenlijk heeft bij wijze van spreken elk land wel zijn eigen "ticketmatic", laat ons zeggen — een lokale speler met een paar mensen die er heel hard voor gaan. Dus het is heel moeilijk om iets Europees uit te bouwen. En daar heb ik al een aantal pistes geprobeerd, het is nog nooit echt van de grond gekomen. En nu eigenlijk, omdat we merken dat we zelf ook wel heel gestretched geraken. Eigenlijk hebben we een heel kleine structuur — veel draaide nog op mijn vennoot en mij. We waren wel met 20, 25 mensen. Maar veel van de verantwoordelijkheden bleven toch bij ons zitten. Dus dat maakt dat je op den duur zoveel werk hebt en zoveel petten moet opzetten dat dat eigenlijk bijna niet meer te houden is. En onze bedoeling was nu om door te groeien en een stevige structuur op te zetten — middenmanagement zou je kunnen zeggen — met ook een iets andere aanpak naar onze klanten toe om een systeem op maat te kunnen geven ten opzichte van nu een meer standaardsysteem. Maar daar heb je natuurlijk een uitgebreidere structuur voor nodig met meer mensen. En dat zijn we beginnen bouwen. Maar dat verschuift eigenlijk mijn rol, want ik ben al lang CTO. Maar dat betekent natuurlijk iets totaal anders als je met tien man bent, tegenover als je met veertig, vijftig bent — waar we eigenlijk op mikken. Dus daar komt veel meer management bij. Bezig zijn met softwareproducten, oplossingen bedenken — dat doe ik graag. Bezig zijn met dat team, met mensen op de juiste plaats krijgen, recruteren, structuur opzetten — dat zegt mij echt minder. En dat is eigenlijk waar ik eigenlijk genoeg van heb.
+
+BART: Dus het is meer het hands-on aspect dat je daarvoor vond?
+
+ALAN: Ja, absoluut. Het starten van niets naar iets spreekt mij veel meer aan dan het verder doorschalen.
+
+BART: Als je kijkt naar de afgelopen 12 maanden, wat zijn de zaken die je het meeste energie hebben gegeven en gekost?
+
+ALAN: Wat de meeste energie heeft gekost is effectief omgaan met veranderde structuren, met mensen die weggaan, nieuwe mensen zoeken, nadenken: is dit wel de juiste structuur, zijn we goed bezig? Wat mij de meeste energie heeft gegeven is dan net weer het feit dat ik eigenlijk al wat vroeger beslist had van: ja, ik ga daar gewoon mee stoppen met die structurele zaken en ik ga mij gewoon op één project richten dat wel belangrijk is, ook veel meer hands-on is, en mij daar volledig op toeleggen. Dus eigenlijk een beetje terugklauteren naar wat ik eigenlijk liever doe. En dat geeft wel energie.
+
+BART: Oké. Wanneer voelde je voor het laatst dat je wist waar je stond en waar je naartoe ging?
+
+ALAN: Goh, een moeilijke vraag. Waar ik stond en waar ik naartoe ging... Wel ja, heel recent eigenlijk — net omdat... Dat is eigenlijk allemaal heel recent dat ik dat beseft heb van: dat is eigenlijk niet mijn ding. Dus ik zou zeggen, nu voel je je wat bevrijd ofzo.
+
+BART: Ja, oké, goed.
+
+ALAN: Ik ga even nu naar een ander puntje overstappen. Hoe investeer je normaal in je eigen ontwikkeling?
+
+BART: Te weinig. Niet zo bewust eigenlijk, nee. Ik ben er niet zo hard mee bezig. Dat gaat mee.
+
+ALAN: Ja, ik heb het zowel over persoonlijk als professioneel, maar professioneel gaat misschien heel sterk in de job zelf.
+
+BART: Ja, dat is heel hands-on. En dan moet je meer blijven bijleren.
+
+ALAN: Ja, absoluut.
+
+BART: Maar ik heb dat weinig bekeken als van: ik moet aan mezelf werken. Gewoon een dag weg ofzo. Ja, ik heb dat uiteraard gedaan, maar dat is eigenlijk altijd met... Ik denk dat dat ook normaal is voor ondernemers — dat je eigenlijk je onderneming vooropstelt en je doet eigenlijk wat nodig is om die zo goed mogelijk te laten slagen. Dus het feit dat je dan dingen bijleert of je in bepaalde zaken verdiept, is meer een gevolg van dat, dan dat ik bewust ga zeggen van: ah, nu wil ik mij eigenlijk wel daar wat meer in verdiepen. Dus in dat opzicht heb ik dat niet zo bewust gedaan. Zeker ook weinig bij stilgestaan: oké, welke richting wil ik uit, wat wil ik nu eigenlijk doen. Dus het is wel effectief mijn plan om de komende maanden dan iets rustiger aan te pakken, en effectief de tijd te nemen om echt na te denken: oké, ik ben nu vijftig — wat ga ik de komende x aantal jaar doen, of in welke richting wil ik evolueren?
+
+ALAN: Oké, maar dus opleidingen doe je niet echt, maar lezen enzovoort of andere zaken?
+
+BART: Ja, uiteraard — veel online artikels lezen, een paar keer wel zo'n cursus gevolgd over specifieke zaken. Iets over hoe je productontwikkeling aanpakt binnen een softwarecontext, dat soort zaken — dat doe ik wel.
+
+ALAN: En een paar duizend euro uitgeven aan een online opleiding, is dat iets dat je zou doen?
+
+BART: Als ik dat de moeite vind, zou ik dat zeker doen. En dat heb ik bijvoorbeeld vorig jaar nog gedaan, effectief. Een cursus, zo'n soort seminarie eigenlijk — zowel online als fysiek.
+
+ALAN: Fysiek weinig?
+
+BART: Weinig, ja.
+
+ALAN: Heb je ooit geïnvesteerd in een ervaring puur voor jezelf? Niet voor je rol of voor je werk.
+
+BART: In een werkcontext of niet? Nee, niet per se. Algemeen. Gewoon los van werk — je wilt je iets verdiepen of... Ja, ik weet niet hoe je dat doet met ervaringen. Bedoel je puur in de context van zaken bijleren of ook ontspanning?
+
+ALAN: Ja, het kan beide zijn — het is ruim opgevat.
+
+BART: Nee, wat wij wel deden was: we gingen jaarlijks wel naar een beurs in Amerika. Wat uiteraard wel wat kost, maar voor ons was dat ook meer als ervaring — om even frisse wind op te vangen en inspiratie op te doen. En even wat rustiger verder van het dagdagelijkse te kunnen staan. Dat deden wij wel. En dat is eigenlijk een ticketingbeurs die elk jaar in een andere stad in Amerika was. Dus we hebben zo wel wat steden gedaan. Dat was heel tof. En het laatste was Las Vegas eigenlijk. Wat niet de tofste stad is op zich, maar wel speciaal. Dat was tof — en dan zijn we er ook naartoe geweest, naar U2 gaan zien in die sfeer. Dus qua ervaring kon dat wel tellen.
+
+ALAN: Oké, misschien een beetje obvious, maar wat heeft de versnelling van technologie, AI, automatisering, digitalisering concreet veranderd in jouw werk en in jouw sector?
+
+BART: Ja, dat is heel recent eigenlijk, maar het zit wel op zijn kop momenteel, vind ik. Je meent software as a service?
+
+ALAN: Ja, absoluut. Het is aan het gebeuren, het is eigenlijk nog onduidelijk waar het gaat eindigen of naartoe gaat. Dat vind ik in mijn ogen ook nog redelijk recent — in de zin dat voor softwaredevelopment het eigenlijk pas vanaf het vorige najaar is dat er echt zo'n omslag geweest is van: oké, nu wordt het iets anders. Daarvoor was het eigenlijk spiederaai — niet super nuttig. Maar nu biedt het toegevoegde waarde. Claude Code bijvoorbeeld. Maar wat dat gaat betekenen is nog een open vraag. Ik denk wel dat de structuur van de ontwikkelafdeling drastisch gaat veranderen. Ik denk dat een beperkte groep van mensen nu veel productiever gaat worden, maar ook dat er wel heel veel mensen niet echt meer een rol gaan hebben.
+
+BART: Is het potentieel van de organisatie wel serieus te kunnen opschalen, maar met hetzelfde aantal mensen? Of misschien zelfs minder?
+
+ALAN: Wel ja, ik denk eigenlijk minder. Omdat ik denk dat niet iedereen die productiviteit kan benutten. Je hebt junior developers, senior developers, projectleiders, mensen die product bekijken — dat waren nu allemaal afgescheiden rollen. Maar als AI erdoor komt, denk ik dat er meer een soort één rol gaat opstaan die een beetje... Je hebt meer een senior developer die ook wel kaas gegeten heeft van het productmatige, die goed kan nadenken van: ja, maar wat moeten we hier eigenlijk bouwen? En ik denk dat dat eigenlijk de keypersonen gaan worden die dat bijna in hun eentje kunnen doen. Dat is een supervisorrol met dan x aantal agents onder zich. Ja, dat lijkt me het meest waarschijnlijk. Maar ik denk niet dat er heel veel developers zomaar kunnen doorgroeien naar die rol.
+
+BART: Waarom verwacht je dat niet? Omdat ze daar niet de manier van kijken voor hebben?
+
+ALAN: Ja, ik denk dat. De developers waarmee ik te maken heb — dat is maar een minderheid die dat kan. Een projectleider of zo was eigenlijk altijd die vertaallaag tussen de twee — de brug. En die developers, als je die rechtstreeks met klanten laat babbelen, dat matcht totaal niet. Dus moeten die dat nu allemaal gaan leren? Dat lijkt mij een heel moeilijke.
+
+BART: En voor u als persoon — wat betekent die evolutie?
+
+ALAN: Ik zie daar net opportuniteiten in voor mij, omdat ik denk dat ik in een veel kleinere structuur een veel groter deel van dat product gewoon zelf onder controle kan hebben en zou kunnen bouwen.
+
+BART: En is dat ook een beetje de reden waarom je nu op dat kantelpunt zit? Dat je dat wil verkennen?
+
+ALAN: Nee, dat is niet de reden, maar het zit qua timing wel heel goed eigenlijk. En daar wil ik zeker verder onderzoeken waar we dat kunnen laten geraken. We hebben altijd ook al veel randideeën gehad om dingen naast die primaire ticketing te doen, maar daar hadden we nooit tijd voor. En nu is er misschien wel, en zeker op die manier, tijd of mogelijkheid om daarop verder te gaan.
+
+BART: Ja, oké. Ken je het gevoel dat je een beslissing nam die vroeger logisch leek, en waar je nu meer over twijfelt?
+
+ALAN: Twijfels. Ja, niet echt een beslissing, maar effectief alles ten dienste stellen van de firma en er gewoon volledig voor gaan — dat zou ik nu minder doen. Als ik nu nog een nieuwe firma zou starten zou ik meer nadenken over: wat er gebeurt als die succesvol is, welke structuur er dan uit voortkomt, en klopt dat nog? Hoever kun je geraken voor je in een situatie belandt die je eigenlijk minder graag wilt? Dus dat is ook wel meer over nadenken en niet zomaar... Daar zou ik mijn beslissingen wel meer van laten afhangen dan nu.
+
+BART: Oké. Wanneer heb je voor het laatst iets gedaan waar het resultaat er niet toe deed — alleen het doen zelf?
+
+ALAN: Ik weet het niet. Het resultaat er niet toe deed, gewoon puur het doen zelf. Niet echt? Dus met alles doelgericht, gericht op een bepaald resultaat.
+
+BART: Ja, ik denk het wel eigenlijk.
+
+ALAN: Zijn er dingen — dat is misschien een beetje een rare vraag — die je omgeving, je sector of je netwerk de afgelopen twee jaar over je heeft aangenomen, dat niet meer klopt?
+
+BART: U bedoelt dat de omgeving iets denkt dat nu niet meer klopt?
+
+ALAN: Ja, dat u koppelt aan iets specifiek dat eigenlijk niet meer klopt.
+
+BART: Oef... Ja, dat ze bij Ticketmatic zien dat ik nu wegga. Ehm... Of als ze dachten dat je andere interesses had of een andere richting zou uitgaan dan je nu beslist hebt?
+
+ALAN: Ja, dat komt wel als een verrassing, dat ik dit nu doe. Ze zouden dat misschien niet zo snel zien aankomen.
+
+BART: Ja. Ja. Oké, goed. Oké. Wat is op dit moment het grootste probleem waarvoor je nog geen oplossing hebt?
+
+ALAN: Ja, wat ik de komende 15 jaar kan doen. En hoe dit mooi afgerond gaat geraken. Dat is natuurlijk ook een beetje nog een open vraag — hoe dat dit gaat aflopen. Want ik besef ook wel dat mijn vennoot er nu wel alleen voor staat, dus dat is voor hem ook wel moeilijk. Dus dat zijn wel een aantal problemen in dat geval.
+
+BART: Maar dat was op zich niet echt voor u een drempel om dat aan te kondigen, ofzo?
+
+ALAN: Het was zeker een drempel, zeker een drempel. Maar ja, ik vind dat ik het uiteindelijk wel moet doen voor mezelf eigenlijk. Ik heb het ook wel een tijd echt lastig gehad. Dus het was echt ook wel nodig om iets te doen.
+
+BART: Ja, oké. En dus dat idee van die verandering — hoe lang speelt dat al?
+
+ALAN: Al — dat zal zeggen al meerdere jaren. Maar echt concreet vanaf deze zomer eigenlijk. Vanaf vorige zomer. Daar ben ik echt concreet over nagedacht. Er is langzaamaan iets gerijpt. Het is eigenlijk altijd maar verder gegaan. Eerst was het van: de rol een beetje bijsturen. Het is niet zo simpel om na 20 jaar van de ene naar de andere over te stappen.
+
+BART: Dat is wel grappig dat je dat zegt, want de timing bij mij zit ongeveer hetzelfde. Ik denk dat als ik aan Maaike, mijn vrouw, zou vragen hoe lang het al speelt, dat dat hetzelfde is.
+
+ALAN: Ik heb er wel lang over gedaan, want had ik sneller moeten zien dat dat eigenlijk niet zo mijn ding is? Ik had sneller moeten zien van: oké, dit is echt wat ik wil doen, dat is wat ik niet wil doen — dan moet je reageren, op ageren eigenlijk.
+
+BART: Ja, ik denk het wel. Misschien heeft die extra tijd ook juist gemaakt dat je op dat punt van oké kwamp — dat de urgentie er was.
+
+ALAN: Ja, dat is zeker. En heb je al bepaalde dingen nu geprobeerd? Of dingen die je al op de rails aan het zetten bent?
+
+BART: Nee, totaal niet. En ook bewust niet. Ik wil echt ook eerst een tijd niks doen. Ik heb al die jaren ook heel weinig "niks gedaan" — ik ben natuurlijk op verlof geweest, maar het is toch nooit dat je er echt volledig uitsnijdt. Dus dat wil ik nu sowieso, dus dat hou ik me echt heel bewust tegen — om echt eerst dit af te ronden en dan x aantal maanden niks doen en dan moet ik het maar zien. En dan ook nog geen idee van: kijk, ik blijf in dezelfde sector actief of in dit domein actief, of nee, het is iets totaal anders. Kan beide, maar ja, het feit dat je een domein kent is natuurlijk wel veel toegevoegde waarde.
+
+ALAN: Stel dat je morgen 10.000 euro kunt besteden aan iets wat één probleem fundamenteel oplost — waar gaat dat naartoe?
+
+BART: Goh, als het dan ook aan een privésituatie mag zijn? Ja, dat kan.
+
+ALAN: Nee, maar dat is gewoon — met dit huis is het eigenlijk een probleem dat er redelijk veel verkeer is in de straat. Als ik daar iets aan zou kunnen doen...
+
+BART: Ah ja, ja, ja.
+
+ALAN: Isoleren of zoiets. Er zijn mensen die zeggen: ik weet niet meer wie ik ben buiten mijn rol. Anderen: ik weet wie ik ben, maar niet in welke richting het zal gaan. En anderen zeggen: ik weet het, maar ik doe het gewoon niet, ik doe het zoals ik het wil. Herken je je in een van die categorieën?
+
+BART: Ja, dat eerste wel in elk geval. Ik ben eigenlijk nogal vergroeid met die rol die ik had. Dat is wel een beetje een...
+
+ALAN: Identiteitscrisis, mag ik het zo noemen?
+
+BART: Ja, ik denk het wel. Ja. Dus ja, dat maakt mij wel wat bang op een bepaalde manier. Ik denk wel dat het dan gaat loslopen, maar het is toch... Ja, ik heb daar 20 jaar alles aan gegeven, ik ben daar volledig mee vergroeid. Dus ja, dat zal even zoeken zijn om te zien hoe dat...
+
+ALAN: Wat is het gevolg als het probleem over twee jaar nog bestaat?
+
+BART: Dat is misschien een beetje raar om die vraag te stellen in deze context. Het probleem dat ik daarmee vergroeid ben, of...
+
+ALAN: Ja, ja.
+
+BART: Ja, ehm... Normaal gaat dat niet meer bestaan dan. Maar als het er dan bestaat, moet je dat proberen te fixen, denk ik.
+
+ALAN: Ja, oké. Goed, even naar iets anders. Wat doe je fysiek om scherp te blijven en te ontladen?
+
+BART: Skiën, dat weet ik al. Ja, ik doe wel veel sport. Ik speel hockey en voetbal, ik ga lopen, fietsen. Heel veel. Heel veel fysieke sport. Altijd al gedaan — als uitlaatklep, ja. Maar ja, toch... het is een periode minder geweest, maar feitelijk gezien doe ik dat de laatste 10, 15 jaar wel veel. En ja, vroeger... Ik heb ook heel veel geparaglide eigenlijk.
+
+ALAN: Ah, is dat waar? Oké. Ik heb dat ook één keer gedaan.
+
+BART: Ah ja? Ja, een keer. Ik heb 2012 ook zoiets een week gedaan.
+
+ALAN: Ja. En dat ik daar ook vreemd van gefascineerd was.
+
+BART: Ja. Ik vond dat super top.
+
+ALAN: Ja. Maar dan hadden we nog heel jonge kinderen toen.
+
+BART: Ja. Toch een paar keer zo'n beetje een tricky situatie gehad, dat ik dacht: dan moet je toch even wachten. Want er is God zijn te zien.
+
+ALAN: Ik heb het, ik heb het bijna 20 jaar gedaan. 18 jaar ofzo. Heel intensief — dat was echt gewoon mijn leven eigenlijk. Naast het werk was het paragliding mijn leven. Alle vakanties, alle weekends, alles — naar de zee, naar de bergen, naar overal waar je kunt. Maar sinds een paar jaar heb ik ook echt heel expliciet gezegd van: ik ga ermee stoppen want het is gewoon te gevaarlijk. Niet zozeer omdat ik zelf... Ik heb zelf eigenlijk nooit zware accidenten gehad, maar wel in mijn omgeving heel veel mensen gekwetst of gestorven. En dat wou ik gewoon niet meer.
+
+BART: Ja, ja, ja. Het is echt een rationele beslissing geweest.
+
+ALAN: Ja, eigenlijk wel. Want er is een beetje een rare dynamiek in die community — dat wordt allemaal weggewuifd. Dat er wel echt wat gebeurt. En je merkt dat gewoon als je daar in zit... Ik heb voor een kievietneel veel mensen heel veel reclame gemaakt, hen laten meevliegen — ja, dat is tof. Ik ben nog met mijn vrouw, ik heb mijn biplasbrevet, mijn haar gaan diegen. Terwijl ons kind beneden aan het... En dat ik nu denk: dat is wel een beetje zot dat je dat doet. En op een bepaald moment is dat wel beginnen binnensijpelen van: ja, het is echt wel gevaarlijk. En die community moffelt dat op alle mogelijke manieren weg. Keiveel accidenten.
+
+BART: Ja. Ja, dus vandaar. En wat heeft je getriggerd om daarmee te beginnen? Is er een bepaald moment geweest in je leven?
+
+ALAN: Er was eigenlijk niet altijd al mijn droom van: ik wil vliegen. Op een bepaald moment zocht ik gewoon iets — iets leuk, avontuurlijk. En ik heb het dan eens geprobeerd en ik was vanaf de eerste seconde eigenlijk gehooked, compleet.
+
+BART: En hoe lang heb je dat gedaan?
+
+ALAN: Van 2003 tot denk ik een jaar of twee geleden.
+
+BART: Ah ja, zo lang. Oké. En dan ben je ook bekwaamd eigenlijk?
+
+ALAN: Ja, ik denk dat ik 100 uur of zo vloog op een jaar. Oké, ja, competitief, alles. Ook van die veiligheidsstages gedaan?
+
+BART: Ja. Oké.
+
+ALAN: Wat is de link tussen hoe je je fysiek voelt en hoe je professioneel functioneert?
+
+BART: Ja, je bent zo zeker, hè. Ik denk dat je je beter voelt als je gesport hebt. Maar ik doe het wel niet specifiek daarom — het is niet dat ik zeg van: ik ga sporten want dan voel ik mij beter in mijn werk. Maar je voelt het verschil natuurlijk.
+
+ALAN: Ja. Mijn volgende vraag heb je al een stukje beantwoord. Heb je ooit iets geprobeerd waarbij je echt uit je comfortzone moest komen, fysiek of mentaal?
+
+BART: Ja, absoluut. Nog andere zaken? Groot, uit de comfortzone?
+
+ALAN: Nee. Maar die avontuurlijke activiteiten trekken mij wel aan. Op dat vlak ben ik dit jaar ook aan tourskiën gedaan. Dat was ook soms wel uit de comfortzone. Niet zo direct als het stijl, en als je de kans hebt om te vallen — dat is meestal niet zo mijn ding. Dus dat was daar wel aan de orde. Maar dat was wel een heel uitdagend parcours.
+
+BART: Want je bent ook een goede skiër?
+
+ALAN: Ja, maar tourskiën is echt in de bergen. Vooral ook klimmen. En soms deden we zo een topje ofzo — dan is het echt klauteren. Soms een rappel doen, dat je zo een paar meter naar beneden moet.
+
+BART: Dat heb ik niet gedaan. Zo goed kan ik niet skiën, dat was een beetje... Dat ging toch slechter dan ik dacht.
+
+ALAN: Ja, oké. Heb je iets met water, oceaan, zee, rivier?
+
+BART: Ja, maar minder dan... Is het makkelijker naar de bergen? Eerder naar de bergen, maar ja, surfen heb ik ook al een paar keer gedaan. Duiken ook, maar het zal eerder naar de bergen gaan dan naar de zee. Maar ook zeker kanovaren. Maar dus wel veel sporten waar je overgeleverd bent aan een externe kracht, om het zo te zeggen.
+
+ALAN: Ja, eigenlijk wel. En dan — heb je de neiging om controle te willen nemen, of om eerder mee te gaan?
+
+BART: Het is een mix van de twee, denk ik. Ik ben er op voorhand typisch wel heel hard mee bezig — techniek, waar moet ik op letten, wat zijn de risico's. Dat je het al visualiseert, programmeert.
+
+ALAN: Ja, ja.
+
+BART: Dus ik ben typisch goed voorbereid, probeer goed voorbereid te zijn bij zo'n ding. Maar langs de andere kant merk ik dat ik soms dan toch ook gewoon durf te improviseren in de situatie zelf. Dat ik daar soms minder bang van ben dan anderen. Bij paragliding, als je zo XC vliegt, dan kom je op plekken waar je niet weet waar je gaat komen. En dan is het op dat moment: ga ik naar daar of naar daar, raak ik over de ridge of niet? En dan merk ik dat ik dat wel durf te doen.
+
+ALAN: Ik ga je nu even het concept voorstellen waarmee ik bezig ben, en dan misschien meer feedback vragen daarover. Maar misschien is het wel even...
+
+BART: Zeker, zeker. Hier de eerste, door de glazen deur, de eerste rechts.
+
+ALAN: Dank u wel.
+
+[PAUZE]
+
+ALAN: Dan ben ik eigenlijk vergeten te vragen — jullie hebben kinderen, hè?
+
+BART: Ja. En drie?
+
+ALAN: Drie. Hoe oud zijn ze?
+
+BART: 20, bijna 16 en 14.
+
+ALAN: Ja, ja, ja. Oké. Dat is net iets ouder dan bij mij. Ik heb er 18 en de rest is 12. Dus dat is een beetje van 16, 17.
+
+BART: Oké, goed.
+
+ALAN: Ik ga misschien gewoon even voorlezen om zeker ook niets te vergeten. Dus technologie maakt u efficiënter. Het verandert hoe we werken, hoe sectoren evolueren en hoe ons zenuwstelsel daarmee omgaat. Uw omgeving verwacht meer, u levert het ook, maar ergens onderweg ben je jezelf kwijtgeraakt. Niet dramatisch, niet zichtbaar, maar voelbaar. Je weet wie je bent, maar niet altijd meer vanuit wie je opereert. Wipe In — dat is de werknaam — creëert de condities waarin je dat weer kunt voelen. Niet via gesprekken over jezelf, maar via een onderdompeling in een omgeving die je dwingt om aanwezig te zijn. Een zorgvuldig gecureerde week in een uitzonderlijke setting. Surf Life als middel, niet als doel. Een kleine groep van mensen die hetzelfde herkennen. Geen plenaire sessies, wel gerichte begeleiding op maat in doordacht samengestelde duo's of trio's, of optioneel individuele sessies. Geen programma dat je vertelt wie je moet worden — een ervaring die je laat voelen wie je altijd al was en die blijft nadat de rol is gaan liggen. De belofte: je vertrekt met een scherper beeld van wat je in de volgende fase wil en wat niet. En een blijvende set van ankerpunten voor wanneer het tempo je weer inhaalt. En het is vooral gericht naar ondernemers en C-level executives op een kantelpunt, met controle over hun agenda en hun budget. Typisch 35-55 verwacht ik, hoewel dat niet per se hoeft. Die uitstekend blijven presteren maar merken dat het verhaal dat ze schrijven eigenlijk bijstelling vraagt. Dus geen crisis, geen burn-out — wel een sluipend gevoel dat wat vroeger vanzelf ging nu meer kost. En niet zozeer in wat ze doen, maar wel in waarom ze het doen.
+
+BART: Ja. Is dat iets dat op een of andere manier resoneert of aanspreekt, of niet? En wat wel of wat niet?
+
+ALAN: Ja, ja. Zeker, maar ik ben daar niet zo'n... Ik ga daar niet zo snel... Hoe moet ik het zeggen? "Warm voor verlopen" is een groot woord. Persoonlijk vind ik dat niet zo mijn ding. Aan mezelf werken — dat deed ik vroeger. Ik ben er minder mee bezig. Ik vind het altijd moeilijk om dat zo bewust te doen. Dat ga ik liever... maar dat is heel persoonlijk. Er zijn heel veel mensen die dat wel graag doen, maar ik persoonlijk vind het altijd heel raar om zo bewust daarop te werken. Terwijl ik dat misschien beter zou doen, pas op. Het is anders — het stuk rond coaching of begeleiding ofzo. Ja, het doelgericht werken vind ik moeilijk. Als je het in sport vergelijkt, is het eigenlijk dat je zegt: ik ga fitnessen om dan sterker te zijn om te fietsen. Dat doe ik ook niet graag. Dan ga ik liever ineens fietsen. En dus ik zou heel graag een week gaan surfen uiteraard. Of een week gaan paragliden of in de bergen gaan stappen — dat vind ik altijd op zich fantastisch.
+
+BART: En wat trekt u daar zo hard in aan?
+
+ALAN: Ehm, ja — langs die kant is dat de eenvoud van zoiets. Dat je niet te veel moet nadenken, dat je daar volledig ook in kunt zitten. Dat is met paragliding te zeggen, maar als je een week gaat stappen in de bergen — dat is fantastisch, dat is gewoon eten, stappen, eten, slapen. Dat is heel eenvoudig. En je denkt ook niet aan al die problemen die je dagdag over zit te piekeren — die zijn daar gewoon niet. Dat verdwijnt eigenlijk direct vanzelf. Dus dat vind ik goed aan zo'n ervaring. Maar om dan het stapje te zetten van: ja, ik ga dat bewust doen om daar dan... Dat komt misschien vanzelf, maar ik vind het altijd moeilijk om dat dan bewust te doen, want dan voelt het misschien wat geforceerd aan.
+
+BART: Ja. Ja. Oké, goed. Oké, ik heb al met een aantal ondernemers gesproken, dus ik heb al wat variaties gehad. Maar ja, ik ga eerst even vanuit dit idee — want het is ondertussen al wel een beetje bijgestuurd. De activiteit op zich — ik had nu gezegd surf. Je had al gezegd van ik heb al gesurfd, maar ik trek wel eerder naar de bergen.
+
+ALAN: Ja, absoluut, maar ik vind surfen ook tof. Het is gewoon wat frustrerend het beginnen.
+
+BART: Stel dat dat een week zou zijn, zo in een gecureerde setting, zes tot acht mensen samen, maar alles is opgebouwd rond Surf Life — surfen en alles wat daarmee samenhangt, de sfeer enzovoort — maar niet de coaching of niet het... Zou dat u dan meer aanspreken? Of zou je ook zeggen: ja nee, dat is niet het soort setting?
+
+ALAN: Voor mij zou ik dat zeker graag doen, ja. Absoluut. We hebben dat ook gedaan met familie — zo een soort vakantieweek, zo'n wijkje.
+
+BART: Voor dexi of zo?
+
+ALAN: Ja, zoiets. Ja, dat was heel tof.
+
+BART: Dat is dan niet in familieverband, maar bijvoorbeeld alleen of met andere ondernemers?
+
+ALAN: Ja, dat zou ik wel tof vinden. Ook als je die mensen niet kent?
+
+BART: Ja, maar dan zou het echt moeten zijn dat je die activiteit wilt beheersen. En dat zou op zich wel zo zijn. Maar ik wist er wel iets van — gewoon praktisch — van hoe gaat dat lukken om daar dan veel te doen, om beter te worden? Met dat tourskiën was dat ook met mensen die dat niet kenden — dat heb ik gedaan via een stage via een alpinistenclub. Dus het is ook met zes mensen die elkaar niet kenden, met twee gidsen erbij. Ja, dat vind ik fantastisch.
+
+ALAN: Dus je zou dat ook wel boeken — zoiets als een trekking, zou je dat ook wel boeken met iemand die het organiseert? Want je zou kunnen zeggen: je doet het allemaal zelf. Heb je daar een voorkeur in?
+
+BART: Dat hangt er van af welke risico's er ook aan verbonden zijn. Zeker in het begin, als je het nog helemaal niet kunt, dan moet je het leren ook. Bij surfen denk ik dat de meeste mensen daar wel snel zelf gaan, nadat je de basis hebt geleerd. Dat is op zich redelijk toegankelijk.
+
+ALAN: Ja, iets wat ik wel zie — of wat ik al gemerkt heb zelf... Ik heb zelf een burn-out gehad in 2019. Ik ben dan even er tussenuit geweest, en ben naar Bali geweest ook, om te leren surfen. Ik heb in zo'n surfcamp gezeten. Wat mij wel opviel — en dat was super tof — maar dat was wel van: dat is heel populair, er zijn heel veel surfkampen die echt gericht zijn op 20 tot 35 ofzo. Maar voor die leeftijdsgroep daarboven is er niet echt iets. Die kunnen daar ook naartoe gaan, die worden niet verboden, maar er zit wel een soort van gat dat niet is ingevuld.
+
+BART: Ja. Terwijl je anderzijds wel merkt dat er in die groep toch ook wel mensen zijn die daar interesse voor hebben.
+
+ALAN: Ja. Dus... Ja, ik denk het wel. Maar, ja, oké. Dat is helder. Maar dus — als je dan inderdaad met een week zou zitten waar je wel surf hebt, één, twee, drie, zes, tien sessies per dag. Stel, ik zit nu in mijn hoofd van zes tot acht dagen Marokko of zo, oktober, met een groep van zes tot acht mensen die naar daar gaan. Je hebt daar lokale surfcoaches — de bedoeling is ook dat het niet mensen zijn die al super goed kunnen surfen, die dan met lokale surfcoaches aan de slag kunnen. En daarnaast nog een aantal extra zaken die ook allemaal gericht zijn op surf — bijvoorbeeld freediving en survivaltechnieken onder water. Als je lang in een wipe-out zit, weten hoe je dat hier kunt managen. Of yoga, maar dan specifiek bewegingen voor surf, of dat soort dingen. Dus alles ondersteunend daarnaar toe.
+
+BART: Ja. Ja. Dat zou je wel aanspreken.
+
+ALAN: Zeker. Maar je geeft ook aan: als ik zoiets doe, dan wil ik daar ook wel beter in kunnen worden.
+
+BART: Ja. Ja, een week is natuurlijk maar een week.
+
+ALAN: Ja, absoluut. Dus dat is dan voor jou wel belangrijk — begrijp ik — dat je dat kunt herhalen of dat je daar verder in kunt groeien.
+
+BART: Ja, ja, ja. Ja, want inderdaad — ook als je maar één keer per jaar één week gaat, dan ga je ook niet echt snel vooruit. Maar dat is slecht. Maar dan denk je natuurlijk wel dat die surfcoaches daarop kunnen inspelen, of de surfkampen — die zijn ook vaak afhankelijk van uw niveau, dan krijg je een andere coach die u op maat verder begeleidt.
+
+ALAN: Ja, dat zou wel gaan denk ik. Oké, maar naar activiteiten toe. De reden waarom ik aan surf dacht is één: omdat ik zelf wel een affiniteit daarmee heb — ook gezien mijn ervaring dan. Maar ook omdat het echt zo'n sport is die u dwingt om te focussen in het moment en niet met andere dingen bezig te zijn.
+
+BART: Ja, op dat vlak is dat een ideale activiteit — je bent alleen maar bezig met: hoe kan ik hier recht staan en recht blijven.
+
+ALAN: En bij freediving zou je dat bijvoorbeeld ook wel kunnen hebben, op een andere manier dan. Heb je dat al gedaan?
+
+BART: Dat heb ik zelf nog niet gedaan. Ik moet zeggen, echt freediven langs een koord — ik heb wel eens een documentaire op Netflix gezien. Dat zou mij nu misschien minder aanspreken, om zo echt zo diep mogelijk te gaan en buiten bewustzijn te gaan. Maar zo het idee van de vrijheid van de technieken te hebben om gewoon zonder flessen lang onder water te kunnen duiken — al is het maar snorkelen in koraal maar dan dieper — dat zou ik wel tof vinden. Of gewoon in de golven kunnen surfen, weten dat ik met die technieken mij kan redden bij golven van Uluwatu of gelijkaardige plekken. Dat zou mij wel aanspreken. Ja, absoluut.
+
+ALAN: Maar zo bijvoorbeeld — paragliding is natuurlijk ook iets dat al een stuk technischer is. Ik weet niet of je daar op een week ver genoeg raakt. Het is ook heel hard van het weer afhankelijk. Initieel had ik drie activiteiten op het lijstje. En fietsen lijkt me ook al snel gedaan. En bij fietsen zijn er natuurlijk al heel veel aanbieders. Maar ik denk echt tourskiën — dat tikt wel veel van dezelfde boxen vind ik. Je bent volledig gefocust, er komt techniek bij kijken, het is een super schone omgeving, je kunt je grenzen wat verleggen. En veel mensen kunnen ook wel al wat skiën maar gaan niet van de piste af ofzo. Dus ja, qua activiteit was dat wel heel hard de moeite vind ik. En ook hoe dat dan... Wat ik nu gedaan heb is eigenlijk een beginnersstage. Dat was qua concept wel heel tof, want we zaten eigenlijk op een hotel op 2000 meter. Daar was geen skipiste — dat was eigenlijk een klein skiparcours maar het was eigenlijk verlaten, want die liften werkten niet meer. Dus je zit daar eigenlijk in een heel schone afgelegen omgeving, en het enige wat in dat hotel keigoede eten was. Daar zaten dan een man of vijftig die aan het tourskiën waren. Dus van het moment dat je een half uur weg was, zag je echt niemand meer.
+
+BART: Is dat dan met grote groepen of...?
+
+ALAN: Wij waren met zes studenten, laat ons zeggen, en twee gidsen. Maar de basisvereiste is wel dat je goed kunt skiën — zwarte piste zeggen ze. Nu moet ik zeggen: ik kan goed skiën denk ik, maar op de piste is dat nog iets totaal anders. In elk geval, dat is de lat die ze daar stellen. Je hebt natuurlijk ook een fysieke conditie nodig, want je moet... Wij deden toch 1200, 1400 hoogtemeters per dag. Dus dat is redelijk inspannend, met een rugzak. Maar je hebt je skis allemaal mee, dus je bagage...
+
+BART: Nee, nee, zelfs niet — wij deden gewoon dagtochten. Gevorderden gaan typisch van hut naar hut. Maar wij deden gewoon vanuit dat hotel allemaal dagtochten. En dat is wel een heel goed concept om te beginnen. Stel dat het niet gaat met iemand — die kan terugkeren, en 's avonds zijn ze thuis. En je bagage is ook lichter — wat je voornamelijk meeneemt is een lunchpakket en dan wat veiligheidsmateriaal. Dus daar komt ook heel veel lawinekennis bij kijken. Dat is ook een theoretische component die je erbij hebt. Wat ik op zich ook wel tof vind — om daarover te leren, over die bergen, over lawines. We hebben daar ook oefeningen gedaan om elkaar te vinden, moest je onder een lawine bedolven raken — je hebt een sonde bij, je hebt een ARVA bij. Dus dat heeft wel verschillende aspecten die het tof maken.
+
+ALAN: Oké, ja. Dat is wel interessant om inderdaad die piste te doen. En op zich redelijk toegankelijk — ten opzichte van paragliding in elk geval. Paragliding lijkt bijna te technisch daarvoor. Te technisch, te specifiek — het duurt te lang voor je ergens raakt, denk ik. Ik merk het nu ook al bij surfen zelf. Ik heb nu sowieso in mijn screening van mensen die ik al gedaan heb, altijd gericht op ondernemers, maar ook wel mensen die wat sportiever zijn en die ik in een outdoor situatie zou zien. En zelfs daar merk ik inderdaad wel — sommigen zeggen wel van: ja, surfen, oké. Maar het is heel niche als ik dat mag zeggen. Wel, of die wel aangeven: ik zou het zelf wel doen, maar als ik zo kijk in mijn directe omgeving, weet ik niet hoeveel ondernemers ik zou kennen die dat ook zouden doen. Wat mij dan ook doet denken: oké, dan moet ik al veel breder gaan werken. Want je ziet al: ik richt mij heel specifiek op ondernemers die op een kantelpunt zitten, dus al in een bepaalde taal — dat is al vrij specifiek. En dan ook nog een keer: die bereid zijn om te surfen of zo'n sport te doen. Dan moet je al heel breed gaan werken om aan groepjes van 6 tot 8 mensen te komen. En dat is zeker in het begin. Misschien eens dat je een soort van reputatie hebt opgebouwd, dat het meer word of mouth gaat. Maar in het begin is dat wel een uitdaging.
+
+BART: Ja, dat is waar. Maar met tourskiën heb je dat waarschijnlijk al iets minder, vermoed ik?
+
+ALAN: Je hebt sowieso al meer mensen die skiën, en eigenlijk van zodra je skiët kom je bijna in aanmerking. Maar het is natuurlijk een totaal andere setting. Al dan niet met sneeuwzekerheid is dan nog een andere vraag. Of je dat binnen 20 jaar nog kunt doen, is een andere vraag. En trekking op zich is ook wel tof — en dat is iets wat heel breed is, dat iedereen kan die een beetje conditie heeft. Alleen heb je daar minder, naar mijn gevoel, het aspect van de volledige focus op wat je aan het doen bent. Dat je misschien makkelijker in je hoofd blijft hangen of zo.
+
+BART: Ja, klopt — je hebt zelf wel iets nodig om te leren of te ontdekken. In bergstappen is het gewoon bergstappen. Wat dan super tof is en super schoon, maar dan mist denk ik wel een aspect.
+
+ALAN: Ja. Duiken ofzo — dat moet je ook wel in de piste zijn.
+
+BART: Ja, daar heb ik er ook aan gedacht. Dat heb ik nu wel zelf maar één keer gedaan — één week echt scubaduiken gedaan op Cuba. Kun je daar ook volledig... Ja, daar ben ik ook volledig in opgegaan.
+
+ALAN: Maar begrijp ik het dan goed dat je zegt: om zo een week weg te gaan, outdoor, met 6 tot 8 mensen — op voorwaarde dat het gewoon in de activiteit gaan is en niet...
+
+BART: Ja, maar ik zeg het — dat is iets wat ik direct zo... Misschien is dat straks niet goed van mij, misschien zou ik dat net wel een keer moeten doen.
+
+ALAN: Het valt mij wel op, en dat is opmerkelijk, dat heel veel ondernemers die reactie hebben. Absoluut. Want dat was eigenlijk de eerste met wie ik gesproken had, die mij direct zei van: laat al die coaching eruit en maak er een Surf Life.
+
+BART: Ah, een Surf Life, ja.
+
+ALAN: Ja. En dan heb ik iemand gesproken die zei van: ja, ik begrijp het, maar waar ligt de meerwaarde dan? Dan kan ik even goed zelf iets boeken. Dus je moet eigenlijk al heel sterk op die gecureerde setting gaan mikken en op activiteiten en ervaringen die je niet zomaar zelf kunt boeken via Booking of Airbnb. Dus dat moet het eigenlijk heel exclusief al zijn en echt heel verzorgd, om het zo te zeggen. En die gaf ook aan... dat was nog een vrij jonge tech-ondernemer. En die gaf ook: ik heb ook nog jonge kinderen, dus ik kan niet zo gemakkelijk weg, omdat ik ook afspraken heb met mijn vrouw dat we dat samen doen. En die zei van: ja, mocht er dan een stukje coaching aan vastvangen, zelfs optioneel, dan geeft dat mij wel een stukje legitimatie ook om het te krijgen thuis.
+
+BART: Ja, ja, ja — dat is ook waar. Het is heel dubbel wat je ziet. Sommigen zeggen: die coaching mag wel, de meesten zeggen: nee. Zeker mannen zeggen van: niet. Als je bij vrouwen kijkt — ik heb nog geen vrouwen geïnterviewd, maar ik zou dat wel eens willen doen.
+
+ALAN: Ja, misschien die wel willen. Maar daar zie je wel dat dat anders ligt. Zeker als je bij jongere vrouwen kijkt: surfen en coaching of yoga, meditatie enzo — dat werkt goed. Maar dat is dan meestal 3-4 dagen.
+
+BART: Ja, want dat gaan die ook nu al doen. Dat willen ze ook heel graag eens doen — zo een week yoga in Marokko ook. Of wandelen ook.
+
+ALAN: Ja. Wat je natuurlijk hebt, is dat je ook wel... Allee, als je met een groep gelijkgestemden zou gaan. Ja. Dat kan misschien ook wel een meerwaarde zijn — dan moet dat nog niet heel expliciet zijn. Het kan dan meer een informele setting zijn om ervaringen uit te wisselen: van waar moet ik naartoe, met welke problemen worstelt gij — andere ondernemers dus. Ja, op een heel informele manier, niet te veel gestuurd. Gewoon zien hoe dat het komt. Dat zou mij dat dan misschien nog het verste zijn dat ik zou gaan. Maar ja, ik ben ook geen netwerker — ik blijf daar meestal wel ver van. Maar misschien in zo'n kleinere setting, door samen dingen te doen, wel makkelijker in een situatie komt dat je je comfortabel voelt. Dat denk ik ook — als je zo samen in een wipeout zit, dan breekt het ijs ook. Dan ben je onder elkaar, je hebt elkaar geholpen. Dan zit je wel in een toffe setting.
+
+BART: Dat lijkt mij wel een leuke setting. Maar ik zeg het — als dat dan heel gestuurd is, dan is dat zo... Dat is zoals daten. Ik weet niet dat ik veel heb gedated in mijn leven, maar als dat heel expliciet is, wordt dat...
+
+ALAN: En om nog even in te gaan op die "gelijkgestemden" — ja, je hebt daar natuurlijk nog veel invullingen in. Je kunt zeggen ondernemers onder elkaar, of C-level executives erbij. Maar jij zit nu meer in de tech. Zou je dat dan belangrijk vinden — dat die andere mensen ook tech-ondernemers zijn? Of kan er net zo goed iemand tussen zitten die echt uit een traditionele industrie komt, die misschien al 55, 60 is, of die in een familiebedrijf actief is?
+
+BART: Ik denk dat dat zeker kan, want je hebt overal wel wat dezelfde problemen — of tenminste mensen die die problemen een beetje snappen. En het kan soms natuurlijk verhelderend zijn als iemand in een andere sector zit. Dat kan zeker.
+
+ALAN: Ja. Oké. Maar dus dat stukje ook — zien dat die groepssamenstelling goed is en interessant is — zou ook wel een meerwaarde kunnen zijn. Dat lijkt me wel iets dat je op zou kunnen mikken, en dat dat inderdaad nog wel een edge zou kunnen zijn, bovenop een gewone surfvakantie of surfblend ofzo.
+
+BART: Ja. En het feit dat je alleen op stap gaat — dat is voor jou geen punt, hè? Want het zou niet gericht zijn op families — het zou echt individueel zijn.
+
+ALAN: Voor mij is dat geen punt, nee.
+
+BART: En man-vrouw — mix, of enkel mannen, enkel vrouwen?
+
+ALAN: Ik denk dat het allebei kan. Omdat ik ook al een aantal keren de feedback heb gehoord van die zijde van: ja, voor dat soort activiteiten — dat echt in het doen zijn — is het misschien wel top om gewoon mannen onder elkaar of vrouwen onder elkaar te hebben. Omdat dat toch een andere dynamiek is dan wanneer er een mix is. Ik weet niet of je dat kunt. Als je dat zo moet marketen... Lijkt mij wel wat raar. Maar met het tourskiën was het helft mannen, helft vrouwen — dat was eigenlijk leuk.
+
+BART: Ja, dat was goed. Ja, dus mix is voor jou wel oké.
+
+ALAN: En bestemmingen — heb je daar een idee van?
+
+BART: Ja, ik bedoel het dagreisnatuurlijke stuk samen met de activiteiten. Trekking — dat kan de Alpen zijn, of de Ardennen, of de Pyreneeën. Dat kan dichter bij huis. Terwijl surfen soms iets uitdagender is op dat vlak. Is dat iets wat je zou afremmen of juist motiveren — verder weg zijn, meer uit je natuurlijke biotoop zijn?
+
+ALAN: Ja, als het voor een week is zou ik het wel wat raar vinden om heel ver te gaan, denk ik. Voor mij zou ik dat wat decadent vinden om te zeggen: ik ga voor een week naar... Maar Marokko is bijvoorbeeld wel een goede oplossing?
+
+BART: Ja, natuurlijk. Dus dat lijkt mij wel tof om iets verder te gaan dan de Franse kust. En qua duur — stel dan naar Sri Lanka of naar Lombok of Indonesië. Wat is dan een duur die voor jou verantwoordbaar zou zijn, of waarbij je voelt: dit voelt niet meer decadent?
+
+ALAN: Ja, vanaf twee weken denk ik. Ik ben er al naartoe gegaan, denk ik. Maar ik weet niet of je zo snel twee weken alleen zou weggaan van je familie. We doen sowieso al een keer per jaar zo'n week weg. Maar als je vrouw twee weken alleen de boel moet runnen, dat wordt alweer, vind ik, een hogere drempel.
+
+BART: En stel dat je geen kinderen zou hebben — zou dat dan ook zo spelen?
+
+ALAN: Nee, dan denk ik dat dat minder speelt. Niet zo dat ik ook zou zeggen: professioneel kan ik dat niet, een week is haalbaar voor mij, maar twee weken dat is... Voor mij persoonlijk is dat minder een punt. Een week is sowieso een lagere drempel. Twee weken is dan echt wel wat meer. Maar een week kun je relatief gemakkelijk overbruggen, vind ik.
+
+BART: Ja, oké. Dus ik denk dat het wel logischer zou zijn.
+
+ALAN: Ja. Vliegen naar de bestemming — is dat iets waar je moeite mee hebt of niet?
+
+BART: Ik persoonlijk niet. Dus niet dat je daar een schuldgevoel over hebt?
+
+ALAN: Ik niet. Er zijn wel mensen, natuurlijk. Ik persoonlijk niet. Alleen let er wel een beetje op van: niet voor een week naar Bali of zo. Het is eco, maar het idee is wat decadent, vind ik. Ja, dat is ook al jetlag — dat vind ik gewoon wat ver.
+
+BART: Moet je eens denken aan gravel fietsen ofzo, in de bergen — zei je dat al?
+
+ALAN: Dat heb ik ook al bedacht, ja inderdaad, maar daar ben ik nog niet verder op ingegaan. Want dat is ook wel heel populair nu, hè?
+
+BART: Ja. Gravel fietsen op zich is super populair. En als je dat dan een week... Dat is iets wat ik bijvoorbeeld wel regelmatig doe — elk jaar, met een groep vrienden of van de scouts van vroeger — we doen elk jaar wel een week ergens, vaak in Zuid-Europa. Een paar Airbnb's vastzetten, een traject vastleggen en dan fietsen we daarnaar toe. Maar dat kunnen we vlot zelf organiseren.
+
+ALAN: Dat kunnen we zelf doen, best waar. Maar dat doen wij ook — met een man of vijf elk jaar. We gaan wel op de racefiets, maar ik zou hetzelfde kunnen doen met gravel. Maar dan zou je, afhankelijk van de bestemming of van de route die je wilt doen, kunnen gaan naar iets specialers dat misschien minder bereikbaar is voor zelforganisatie. Maar ja, gaat u hier met bagage van punt tot punt?
+
+BART: Ja, wij doen met bagage. We zijn er vijf en ondertussen zijn er al drie die met een e-bike rijden. En dan nog twee die met een gewone fiets gaan. Maar ik ga met een gewone fiets, zo lang dat lukt. Wij gaan dit jaar de Pyreneeën doorkruisen — van het Middellandse naar het Atlantische. Maar ja, met mijn racefiets en mijn klim achteraf.
+
+ALAN: Ja, want ook om trajecten te doen van de Tour de France of van de Giro ofzo — dat bestaat ook al van mensen die dat doen.
+
+BART: Dat is waar. Fietsen is eigenlijk al afgedekt.
+
+ALAN: Ja, het is ook zo een beetje zoeken naar: waar kan ik een meerwaarde realiseren? Want als het iets is dat je gemakkelijk zelf boekt, moet het echt wel...
+
+BART: Ja, tuurlijk.
+
+ALAN: Iets anders nog even — iets wat ook aan bod kwam. Off Grid — dus een hele week zonder digitale devices.
+
+BART: Ja.
+
+ALAN: Ik had een tech-ondernemer die dat als een van de eerste feedbackpunten had.
+
+BART: Ik vind dat minder aangenaam, eerlijk.
+
+ALAN: Haha. Nee, dat is misschien wat... Sorry.
+
+BART: Ik ben, ja... Ik vind het comfortabeler om toch verbonden te zijn en te weten dat het allemaal oké is, dan niet verbonden te zijn en dan maar te moeten hopen dat het allemaal goed gaat. Nu, de laatste jaren bij mij is het ook wel veel minder acuut, want er zijn andere mensen die wel het operationele kunnen opvangen. Maar zeker die eerste jaren...
+
+ALAN: Dat bedoelt dan even professioneel?
+
+BART: Ja, professioneel. Het aspect van digital detox op zich — stel dat we iemand hebben met een noodnummer, en als er echt iets is... Ja, dat zou nog uit kunnen. Maar voor mij is dat persoonlijk niet zo'n groot probleem. Ik heb daar niet zo'n moeite mee eigenlijk. Het zou kunnen, maar ik zou het wat kunstmatig vinden ook. Ik moet daar niet van afkikken, vind ik.
+
+ALAN: Ja, oké. Omdat ik ook zo aan het denken was over regeneratief en "get back" en proberen het beter achter te laten dan je het aantrof — was er zo het idee van misschien een dag of een halve dag community day in te lassen. Bijvoorbeeld als je gaat surfen zou dat beach cleaning kunnen zijn of zo. Of ook een keer een uitstap doen naar een lokaal regeneratief project. Om dat een keer te zien en misschien met de mogelijkheid om te investeren als je daar interesse voor hebt. Zijn dat zaken waarvan je zou zeggen: het zou mij wel interesseren zoiets, of niet? Om dat erin te steken in zo'n programma.
+
+BART: Ja, maar dat mag niet bij de haren getrokken zijn denk ik. Dat moet wel in het concept passen, het moet in het geheel zijn denk ik. Voor zo'n dingen is het wel gevaarlijk dat dat erbij getrokken lijkt.
+
+ALAN: Geweten. Ja. Oké. Lieve zal dat misschien wel van Leem verteld hebben?
+
+BART: Ja, Leem ken ik ook wel een beetje. Via Lieve. Die is wel hard bezig met zulke dingen. Ja, inderdaad. Zeker het aspect van — want ik ben ook altijd al bezig geweest met duurzaamheid en circulariteit. Dat is wel iets wat een beetje wringt — anderzijds wil je mensen in een exotische setting brengen, maar anderzijds laat dat wel het vliegen. Dus hoe ga je daarmee om op een manier dat dat aanvaardbaar is, om het zo te zeggen. Een heikel evenwicht. Of je moet zeggen: we vliegen niet. Dat zou ook een insteek kunnen zijn — dat je hier iets lokaal verrassends kunt doen. Ik weet niet of je ooit op de weekends van Tim mee geweest bent?
+
+ALAN: Nee, nee maar ja. Dat is iets dat heel sterk is. Dat ik er ook juist aan...
+
+BART: Ja, absoluut. Maar ja, die activiteiten dan. Dan zien we welke activiteiten je kiest. Surfen is wel moeilijk, hè?
+
+ALAN: Absoluut. Op welke kust? Ja, nee, goed, voilà. En inderdaad, op zich een aantal uitstappen doen op een bestemming. Stel dat je gaat surfen, dat je een keer in de namiddag gaat standpaddlen, of dat je een keer 's avonds een avondwandeling doet, of een keer stargazing of zo — dat zijn dingen die op zich ook wel...
+
+BART: Ja, zeker. Ja, ja. Maar zoals yoga en meditatie enzo — dat is dan misschien al...
+
+ALAN: Ja, Nienke doet dat veel, hè. Nienke doet dat veel. Ik nu min, ja, ik zal ook zeker wel... Dat is een aanname die ik mij al gemaakt heb — ik merk vaak van mannen die moeite hebben met coaching enzovoort, ook mannen die niet gemakkelijk yoga doen. Als je als man het oké zou vinden om yoga te doen, dan vind je dat waarschijnlijk ook oké voor de coaching. Zou dat kloppen?
+
+BART: Dat zou kunnen kloppen. Ik heb dat eigenlijk ook nog niet gedaan, yoga.
+
+ALAN: Je hebt nog geen yoga gedaan?
+
+BART: Nee, nee, nee. Terwijl Annelies al twintig jaar doet.
+
+ALAN: Ja. Maar, nu ja, je hebt yoga en yoga ook natuurlijk, hè.
+
+BART: Ja. We hadden bij de paragliders een yogaleraar van Antwerpen — die was helemaal niet zweverig of zo. Dat was echt ashtanga, vol een bak. Dus ik denk dat dat ook wel kan.
+
+ALAN: Ja, oké. Goed. Ik zit alleen een beetje in het dilemma, omdat je had aangegeven: als ik het juist aanvoel, dan sta ik wel open voor zulke concepten. Het surfen misschien zelf wat minder, maar trekking of tourskiën ofzo.
+
+BART: Surfen ook zo, ja absoluut. Het is niet dat je zoiets hebt van: dat heb ik al te veel gedaan om dat nog te doen. Nee, nee, nee. Het is ook niet zo dat je per se altijd iets anders zoekt van ervaring — het is meer van: kunnen groeien.
+
+ALAN: Ja, bij mij is dat net niet. Ik zou het niet als idee hebben om elk jaar iets anders te doen, om zo overal een keer te zijn. Zo'n week op zich bekijken — ik zou altijd bekijken in het kader van iets groter.
+
+BART: Ja, en stel dat je zo een week doet en dat valt mee — zou je dat dan overwegen om het volgende jaar of zes maanden later nog eens te doen, maar niet hetzelfde te doen — naar een andere bestemming, maar hetzelfde concept? Misschien met andere mensen?
+
+ALAN: Ja, ja. Ja, ja. En zou je dat dan eerder een pro vinden, omdat je dan verder kunt werken op wat je gestart bent?
+
+BART: Ja. Voor mij persoonlijk zou je dat altijd wel op die manier bekijken.
+
+ALAN: Of om dan zelf verder te gaan — dat kan ook. En stel dat je met een groep mensen op stap gaat en het klikt daarmee — zou je dat interessant vinden dat er een soort van platform is nog? Online platform of alumniplatform, waar je met een abonnement of zo nog contact kunt houden met elkaar?
+
+BART: Dat kan, maar dat hangt er een beetje van af hoe dat je schaal geclusterd heeft. Ik denk dat dat niet zo simpel is om van de grond te krijgen. Bij paragliding is dat wel ook een beetje zo — je gaat typisch bij een club, je doet een paar stages, dat zijn dezelfde mensen die je wel tegenkomt. Als paraglider is het wel zo dat als je de stage gedaan hebt, dat je in België begint naar Dennerden of de zee te gaan. En dan spreekt dat, omdat je dan tijdens het jaar regelmatig momenten hebt dat er gelegenheden zijn om te gaan. Het is altijd handig dat je kunt carpoolen. Dus er zijn wel een aantal factoren die maken dat typisch in zo'n club — je hebt de stages en dan ontstaat er een soort clubwerking van mensen die, typisch is het dan een generatie van paragliders die elkaar leren kennen, er zijn feestjes, en die beginnen dan samen op reis te gaan naar het buitenland enzo. Dus daar werkt dat eigenlijk helemaal. Maar dan gaat dat zijn eigen leven leiden.
+
+ALAN: Dus dat heeft op zich niks meer te maken met de club dan?
+
+BART: Nee, maar de club in Leuven faciliteert dat wel. Die hebben dat wel een naam gegeven — de Airsport. Dat is dan de Airsport Club, specifiek gericht op mensen die een stage gedaan hebben en die nog in contact willen blijven met elkaar om dan samen te gaan vliegen. Dus die faciliteren dat. Bijvoorbeeld als er een stage is, kun je als clublid dan ook meegaan en nog wat meer begeleiding krijgen. Dus de gebruiker wordt dan een soort potentiële terugkerende klant om nieuwe activiteiten aan te bieden. Dat werkt omdat er voldoende contactmomenten zijn. Ik denk dat als dat één keer per jaar is, dat dat te weinig is — dan wordt het direct een heel stil platform.
+
+ALAN: Ja, ik weet niet of dat de frequentie kan ophalen. Je kunt zeggen: ik doe drie of vier sessies per jaar surf en misschien zijn er ook wel trekkingen parallel of wat dan ook. Maar gaan dezelfde mensen meerdere keren per jaar daarmee meegaan? Dat is een beetje de vraag.
+
+BART: Ja, dat is de vraag.
+
+ALAN: Oké, goed. Ik ga misschien nog snel — ik denk dat we veel dingen al hebben afgewerkt, maar toch nog een aantal dingen. Als ik kijk naar activiteiten, het is nu wel specifiek op surf gericht. Surfcoaching, dagelijkse sessies — zou je dat zeggen ja of nee?
+
+BART: Ja.
+
+ALAN: Breathwork, gestructureerde ademhaling voor focus en herstel?
+
+BART: Dat is ook ja.
+
+ALAN: Cold exposure, Wim Hof, ijsbad als recovery?
+
+BART: Daar moeten we wel bij denken.
+
+ALAN: Yoga, optioneel?
+
+BART: Ja.
+
+ALAN: Begeleiding in duo's of trio's?
+
+BART: Ja, dat is meer van een coaching.
+
+ALAN: Individuele sessies, dat is ook coaching — dus nee?
+
+BART: Nee.
+
+ALAN: En dan community service, halve dag?
+
+BART: Mij persoonlijk zou dat op zich niet echt een argument zijn om dat te doen.
+
+ALAN: Nee, oké. Eerlijk. En een soort van afrondingsgesprek — dat is dan natuurlijk meer als je ook een coach hebt.
+
+BART: Ja, oké. Als je dit zou overwegen — een week, kleine groep, bijzondere bestemming aan de oceaan — op welk prijspunt lijkt je realistisch?
+
+ALAN: Hoeveel was die vluchten? Ik weet het niet — 1000 euro of zo, of 1200 euro, zeg maar iets. Zonder vluchten, hè?
+
+BART: Ja. Oké. Dus die tourskistage was denk ik 1200.
+
+ALAN: Ja. En hoe lang was dat dan?
+
+BART: Dat was ook, ja, zes dagen — vijf dagen tourskiën. Zonder vervoer. Het is wel een hotel, maar geen vervoer. En ook geen materiaal — dat zit er ook niet in. Dus het materiaal moesten ze dan ook nog huren. Sommige mensen hadden dat dan. Maar dat is dus puur... Maar misschien is dat wel goedkoop.
+
+ALAN: En moesten ze dat dan zelf doen? Of deed het hotel dat voor u?
+
+BART: Ja, in dat hotel was alles voorzien, maar dan moesten we nog bijbetalen. Oké. Je zegt dat is misschien wel goedkoop om... Ja, omdat die begeleiders van die alpinistenclub dat eigenlijk vrijwillig doen. Dat is echt een VZW — die willen daar ook niet echt... Dat is geen commercieel model. Dus in dat opzicht is dat relatief goedkoop. Want als je op de piste gaat skiën met een gids, betaal je honderden euro's. Dus dit is relatief goedkoop. Stel dat zo'n programma — maar dan heel exclusief — waarbij je pakweg 1000 euro per dag betaalt. Dat je pakt voor 5 tot 8 dagen, 5 tot 8.000 euro kwijt bent. Is dat iets dat je zegt...
+
+ALAN: Dat zou ik duur vinden. Ja, oké. Dat zou ik niet snel doen, denk ik.
+
+BART: Nee, oké. Ja, wat is dan de ondergrens waarbij je zegt: hier twijfel ik aan de kwaliteit?
+
+ALAN: Ja, het hangt ook een beetje af van wat je erin ziet. Ik ben ooit als verenigingslid ook zo'n keer de Rock du Maroc mee gepietst. Als ervaring is dat ook wel super. Ik weet niet of je dat kent.
+
+BART: Nee.
+
+ALAN: Dat is de Antwerpse organisatie en dan ga je eigenlijk in Marokko, in de woestijn, zeven dagen mountainbiken, maar van punt tot punt. Dus elke avond zetten ze daar een volledig tentenkamp op in de woestijn. Dat was wel duur — dat was 2500 euro denk ik — maar dat was echt wel een heel toffe ervaring. Ik heb me nooit dichter bij het idee van een profwielrenner gevoeld. En dat gecombineerd met Marokko, met die setting — dat was echt wel heel leuk. Dat was 7 dagen, 2500, en dat is met tenten en met je eigen fiets?
+
+BART: Ja, onze fietsen moesten wij twee weken ervoor op een vrachtwagen zetten — dus we moesten die gaan afgeven en die gingen dan met een camion naar daar. En wij vlogen dan. En wij hebben 6 dagen gefietst, dus dat was 7 dagen in totaal.
+
+ALAN: Oké, en dat was met tentenkampen en eten alleen dan?
+
+BART: Ja, ja, ja, ja, ja. Oké. En dus wij sliepen heel eenvoudig — die hadden gewoon smijttentjes, iedereen kreeg een smijttentje. Dat was zo'n vlakte met 200 smijttentjes.
+
+ALAN: Ja, dat is voor grote groepen dus?
+
+BART: Dat was voor 200 man. Dat is eigenlijk een beetje zoals de Cape Epic, maar dan in Marokko. Dus echt een doorgaande mountainbiketocht. Heel zwaar, heel tof. Ik had dan 25 koppels die raceten voor de tijd. En dan 150 die gewoon meegingen om gewoon het traject te rijden.
+
+ALAN: Oké. Ja, dat klinkt geweldig.
+
+BART: Ja, echt heel tof. En altijd op een andere bestemming?
+
+ALAN: Ja. En hoeveel kilometer reed je dan zo?
+
+BART: 120 km ofzo. Dat is iets van 700 km dat ik gefietst heb. Dat was echt soms door de woestijn, sommige dagen. De langste etappe was 150 km — en dat was op een bepaald moment gewoon dwars door de woestijn. Er was geen baan, niks. Gewoon vlakte. Dat is echt fantastisch.
+
+ALAN: En is dat dan in een bepaald moment in het jaar?
+
+BART: Ja, dat is in oktober denk ik. Begin oktober. En elk jaar opnieuw?
+
+ALAN: Ja, want toen ik het deed — dat is intussen denk ik vier jaar geleden — was het nog niet al te snel uitverkocht. Maar de laatste jaren is het op het moment dat ze het openzetten, twee uur daarna uitverkocht. Ze zijn naar 250 mensen gegaan, dus dat is groter geworden.
+
+BART: Oké, interessant om zo een keer tijdig in te schrijven. Het aspect dat je het als beroepskost kunt inbrengen of via je vennootschap — is dat iets dat u zou zeggen van: oké ja, dit heeft een invloed op wat ik er aan kan en wil uitgeven?
+
+ALAN: Ja, sowieso hé. Dat denk ik wel. We kunnen bijna verdubbelen dat bedrag dan.
+
+BART: Ja. Als je het als beroepskost kunt doen. En zou je in dat geval dan 1000 euro per dag wel aanvaardbaar vinden, of nog altijd te hoog?
+
+ALAN: Ja, dat vind ik veel. Dan zou ik het gevoel krijgen... Je hebt van die seminaries op een zeilboot, maar dat stoot mij op een bepaalde manier een beetje af.
+
+BART: Ja, eenvoud, ja.
+
+ALAN: Ja, oké. Dus als het te duur wordt, stoot het u af?
+
+BART: Ja. Wacht eens — want je had gezegd die 2500 euro voor dat fietsen — dat vond ik wel oké. Dus als ik het als beroepskost zou aantrekken, zou dat zelfs tot 5000 kunnen gaan? Want ze zitten dan voor 5 tot 7 dagen bij 5000 — dat komt ook al bijna op 1000 per dag. Dat is misschien nog te hoog dan.
+
+ALAN: Maar ik vind toch nog een verschil — die Rock du Maroc, dat is wel een beetje een unieke ervaring. Misschien is het bij u ook zo de bedoeling. Dus als je dat zo kunt overbrengen — dat het echt zoiets unieks is — dan wil je daar natuurlijk meer voor betalen. Want ik ga niet elk jaar Rock du Maroc meer hebben. Dus dat is nog iets anders.
+
+BART: Ja. Ja, oké. Wie of wat beslist uiteindelijk of je ja zegt? Jezelf, je partner, je agenda of je budget?
+
+ALAN: Ikzelf? Ja, ikzelf denk ik. Als ik nu een week zou weg willen, dan is het meer van: je gaat niet mee beslissen van wat ik zou doen of niet doen. Het is meer van: oké ja, past het die week?
+
+BART: Ja, oké. Ik zou gewoon nog even een paar dingetjes willen aftoetsen, maar ik weet dat dat misschien een beetje raar aanvoelt. Het is meer om een beetje een gevoel te krijgen van in hoeverre dit aanbod kan aansluiten. Urgentie — hoe dringend voelt de behoefte om zoiets te doen? Los van trekking of surfen of wat dan ook, in Marokko of... Van 1 tot 5, en 5 is het meeste.
+
+ALAN: Specifiek om dit te doen, of...
+
+BART: Ja, ik heb geen... Ik weet niet of ik het zo... Je zit wel op een kantelpunt nu. En ja, ik denk dat ik er misschien wel wat meer ruimte voor heb, en het nu misschien in mijn hoofd ook wel kan gebruiken. Voor mij is de frequentie van zoiets sowieso redelijk hoog — ik ben sowieso van plan om nu, in de periode dat ik niks ga doen, een paar weken te gaan fietsen ofzo. Dus in die zin... Stel dat ik het perfecte aanbod zou kunnen craften dat aansluit bij wat jij zoekt — dan zou dat nu misschien wel het juiste moment zijn. Zet ik dan 5?
+
+ALAN: 4 of 5 ja.
+
+BART: Relevantie — hoe goed sluit dit aan bij jouw situatie?
+
+ALAN: Ja, redelijk goed denk ik — 4 ook.
+
+BART: Geloofwaardigheid — hoe geloofwaardig is de aanpak?
+
+ALAN: Ja, ik besef dat dat misschien nog een beetje abstract is, omdat het nog niet heel gedetailleerd is. Maar puur op basis van wat je mij hebt horen vertellen?
+
+BART: Ja, dat is geloofwaardig. Ook een 4 zou ik zeggen.
+
+ALAN: Surf als middel — bevrijdend of barrière?
+
+BART: Bevrijdend.
+
+ALAN: En dan — hoe waarschijnlijk boek je iets als dit?
+
+BART: Ja, een 4 zou ik zeggen, maar veel afhankelijk van de prijs en hoe dat juist...
+
+ALAN: Af van prijs en ervaring en activiteit.
+
+BART: Ja, precies dat.
+
+ALAN: Speelt ecologische impact mee als je nadenkt over een intensieve reis?
+
+BART: Dat hebben we al even aangeraakt. Minder.
+
+ALAN: Oké. Stel dat een aanbieder de CO2-emissies per deelnemer publiceert en garandeert dat 40% van de omzet lokaal blijft. Hoe zou je dat ervaren?
+
+BART: Goed. Ja, positief.
+
+ALAN: Ja, oké. Goed. Is er nog iets specifiek dat ik niet gevraagd heb en dat je wel relevant vindt?
+
+BART: Niet direct, nee.
+
+ALAN: Ken je toevallig nog iemand voor wie dat thema ook leeft — die je zou zeggen: dat is misschien wel iemand die dat ook interessant zou vinden om een keer te bevragen? Liefst een vrouw, want die ben ik moeilijk te strikken.
+
+BART: Dat is wel eens interessant om te zien in welke mate dat verschilt. Het zou dan al bijna iemand moeten zijn — ook een onderneemster, tussen de 40 en 55, misschien geen jonge kinderen meer, en die toch wel wat sportief of outdoor-minded is. Misschien ook iemand die een keer een marathon of een ultramarathon loopt?
+
+ALAN: Ja, nee, maar wel. Ik heb ondanks... Ik ken die persoon niet echt, maar die deed ook iets in die zin. Backpacker — hij schrijft dat zo. En die doet eigenlijk coaching van mensen in firma's. Maar ik dacht dat hij nu ook zo wel een soort van groepsactiviteit met ondernemers ging doen.
+
+BART: Oké. Maar voor de rest — nee, geen onderneemster die ik aan kan denken. Als er nog iets te binnen schiet, zal ik het laten weten.
+
+ALAN: Dat is goed. Er was nog iets dat ik wou vragen, maar het is mij nu ontschoten.
+
+BART: Ja, dat zal wel oké zijn.
+
+ALAN: Ja, oké. Goed, bedankt alleszins. Het was een leuk gesprek in elk geval. En ga je concreet...
+
+BART: Of we zijn nu wel... Jawel, ja, het valt nu zo een beetje samen. En dat zijn eigenlijk... Dat is van SaaS2? Nee, SaaS2. En dus die gaan eigenlijk... Een insteek is meer een jaarlijks evenement, laten we zeggen. Dus dan gaan ze eigenlijk — ja, SaaS-ondernemers — die gaan daar samen skiën en dan gebeuren er ook een aantal andere dingen. Ze doen blijkbaar ook kitesurfing, zie ik nu.
+
+ALAN: Ah ja.
+
+BART: Ski én kitesurf. Ja. Dus dat is misschien ook wel goede inspiratie om te zien. En het schijnt dat dat super tof is. En dat is misschien ook wel een punt: als je er een jaarlijks evenement van maakt, is dat misschien wel een goede insteek. Want ik hoor dit hier ook van: "we zijn dit jaar mee geweest, kom volgend jaar ook." En dat is eigenlijk maar één moment. Dan gebeurt dat zo. Tegenover als je meer van: ik kies mijn week — dan is dat zo minder speciaal, laten we zeggen. Dus dat is zeker ook...
+
+ALAN: En daar zit je dan wel met grotere groepen — dan zit je niet met 6 tot 8 mensen. Is dat iets dat u zou weerhouden?
+
+BART: Ik pak zeg maar iets — 30, 40 mensen zijn. Dat legt mij zo... Maar ik denk dat zij het meer richten op leren. Dus je hebt die leuke activiteit en tegelijkertijd is het meer bij de aard van een conferentie, dat je leert over je vak.
+
+ALAN: Ah ja, dus er zijn ook inhoudelijke sessies.
+
+BART: Dat er inhoudelijke sessies zijn of met elkaar babbelen over topics ofzo. Netwerking eventueel. In een leuke setting. En dan, ja, dat skiën is daar minder...
+
+ALAN: Ik denk dat je wel — er gaan ze gewoon van uit dat iedereen kan skiën en het is gewoon superleuk om dat samen te doen en in een informele setting samen dingen te doen en anderen insteken. Het is wel interessant om te zien. Ik vind het ook wel interessant, want ik heb ook met nog een andere tech-ondernemer gebabbeld en die gaf ook aan — zeker voor alles wat coaching en andere activiteiten betreft — je positionering moet zo specifiek mogelijk zijn. Als het gewoon naar ondernemers gericht is, dan zal het mij niet aanspreken, maar als het naar tech-ondernemers gaat, dan is het iets anders. En dat is wat zij ook helemaal doen — zo specifiek gerichte dingen, hè. Maar je hebt dan wel minder de cross-learning van andere industrieën enzovoort. Dus het voelt dan misschien meer aan als netwerken om samen iets te gaan doen.
+
+BART: Ja, dat komt daar dan ook bij. Maar ja, dat is misschien een goede insteek. Want je hebt ook zeker in Nederland — rond die SaaS dingen — er zijn ook conferenties. Dus eigenlijk kun je alle potentiële klanten vinden op die conferenties. Je kunt er bijna bij een standje gaan staan en daar reclame van maken. Maar het is dan meer een evenement denk ik. Het is wel denk ik op een bepaalde manier aanlokkelijk. En dan zit je helemaal binnen die context van bedrijfskost — dat is echt een firmakost. Dan kijk je er ook op een andere manier naar. Zeker als je zegt: het is om te netwerken of om te leren — dan is dat echt een bedrijfsuitgave. Dan heb je het gewoon totaal anders bekeken.
+
+ALAN: Gisteren had ik wel iemand die zei: als ik in plaats van individueel, met meerdere mensen van dezelfde organisatie of zo deelneemt aan zoiets, dan wordt het bijna een teambuilding. Die was direct van: nee, teambuilding zo ver mogelijk weg. Dat is echt niet wat we nodig hebben.
+
+BART: Nee, teambuilding — dat is als ondernemer ook wel soms een beetje een verplicht nummer — dat is ook niet zo enthousiasmerend ofzo, vind ik eigenlijk.
+
+ALAN: Ja, oké. Goed. Ja, ik denk dat dat het was — dat ik net nog wou vragen. Goed. Ja, ik denk dat ik dan niet meer iets wil uitproberen op dit moment.
+
+BART: Ja, ja. Voilà. Dus inderdaad zal mijn kwestie zijn van alles een keer samen te gooien en dan te komen tot een soort van waardepropositie die het dan echt wordt, die ik dan eens ga testen.
+
+ALAN: Klinkt tof. Heel fijn dat je hebt willen bijdragen. Hopelijk heb je er iets aan.
+
+BART: Absoluut, zeker en vast. Ik moet zeggen, van elk gesprek dat ik gedaan heb, heb ik eigenlijk al wel heel wat dingen opgepikt. Soms ook een bevestiging, of toch iets van: dit moet ik toch wat meer nuanceren.
+
+ALAN: Ik heb nog een klein attentietje voor u.
+
+BART: Fantastisch. Dat zal wel lukken, denk ik. Ik hou u op de hoogte.
+
+ALAN: Ja, is goed. Als er meer duidelijkheid is, dan zien we wel. Ik hoop dat ik nog op tijd heb afgerond.
+
+=========================================================
+EINDE TRANSCRIPT

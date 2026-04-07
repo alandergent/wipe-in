@@ -1,0 +1,604 @@
+INTERVIEW TRANSCRIPT — STIJN DV — GECORRIGEERD (DEEL 1 + 2)
+Sprekers: Alan (interviewer) | Stijn (geïnterviewde)
+=========================================================
+
+STIJN: Ik heb heel veel gebruikt. Omdat, ja... Je kunt gewoon mensen met dat tekens kunnen en een aantal praktische problemen. Ja, ik gebruik nog niet zoveel AI. Nee, ik ben benieuwd, maar dat soort zaken... Ja, ik gebruik vooral zoveel LLM's enzo. Eerst wel ChatGPT, maar ondertussen is dat kloot geworden. Ik heb ChatGPT allemaal buiten gegooid, op het willen van de hele hype. Dat weet je wel. En zo voor image generation en zo. En wel zo een beetje een soort van opleiding nog gevolgd in de voorbije periode. Maar ik heb dan gezegd zeker de laatste maanden, dat je een avond erin steekt, dat is wel leuk om een beetje mee te experimenteren. De drempel is een pak lager geworden. Absoluut. Het is wel niet perfect, maar het is wel heel snel. Ik zie ook dat ze nu ChatGPT gebruiken, ook voor beeldgeneratie. Ja, maar ze hebben hun betalende model. Ik gebruik Gemini als large language model. Maar ze zitten er ook heel veel mensen mee van: ik wil dat zo en zo. Soms gaat het helemaal mis. Maar is het niet erg — ik heb er geen uur mee bezig geweest. Ja, het is dat. Het evolueert supersnel, elke drie maanden is het systeem dubbel zo krachtig. Wat vandaag niet kan, kan het over twee weken wel.
+
+ALAN: Ja, nee, dat is ook zo. Alright. Dag trouwens. Ik heb een beetje, ja, alweer, ik ga nog niet teveel zeggen, maar ik ben, ja, een businessideetje waar ik momenteel op aan het denken ben, aan het aftoetsen direct met een aantal mensen.
+
+STIJN: Ja.
+
+ALAN: Vooral ondernemers, 35-55, zo in die zone ongeveer. Jij zit er mooi in. Voilà, kijk, je was ook de eerste die ik op mijn lijstje had gezet van: oké, Stijn een keer vragen. Maar, allee, sowieso, feel free, elke feedback is goed. Je moet zeker niet ervan uitgaan, omdat we vrienden zijn, dat je een blad voor je mond moet nemen.
+
+STIJN: Dat weet ik, dat weet ik. Maar we kunnen het toch even politiek correct benaderen. Dat kan ik niet zo goed.
+
+ALAN: Goed. Misschien eerst even met een paar algemene vragen beginnen. Hoe ziet een typische week eruit voor u? Professioneel en privé?
+
+STIJN: Privé is eigenlijk het gevoel, mijn kinderen zijn wel wat ouder, dat mijn kinderen mij eigenlijk niet meer zo nodig hebben. Waardoor ik, af en toe al, maar waar ik eigenlijk professioneel meer ruimte ga gaan inplannen. Dus ik kan wel eens zeggen, dat mag eens langer, of ik kan eens vroeger stoppen. Dat gebeurt wel niet zo vaak. Maar eigenlijk, wat ik altijd doe hier, is maandagmorgen. Dus voor mij, ik ben altijd hier, want maandagmorgen is: ik heb de week ervoor al gepland, maar dan zijn er wat praktische issues die de maandagmorgen opduiken en dat soort zaken. En ook van: ik heb Daan hier voorzien voor deze week, intern of extern, we doen ook veel installaties. Dat moet ook zijn van: Daan moet afgecheckt worden. Eigenlijk wil ik, want Geert werkt drie dagen in de week. Dat weet ik eigenlijk heel goed van: als ik Geert de dinsdagmorgen zie of hoor, ga ik mijn briefing voor hem zetten en zijn hoofd van A tot Z vullen. Dus eigenlijk is dat, mijn maandagmorgen is vooral: wat staat er op de planning voor deze week, wat zijn de kritische zaken, wat zijn de issues, u moet er op de hoogte van gebracht worden — dat is eigenlijk de maandag. En vrijdagmiddag is typisch de analyse van de week. Waar is het buiten de lijntjes gegaan, waar is het niet gelukt, wat moeten we volgende week aanpakken.
+
+ALAN: Wat stoppen jullie iets vroeger op vrijdag?
+
+STIJN: De productie is normaal dicht vrijdag om 12 uur. Er worden wel wat overuren geklopt, maar het is niet dat ik... En ook business-wise — qua telefoon — de vrijdag is ook beperkt. Ik zie de maandagmorgen: de meeste van onze klanten hebben ook intern overwerk. Dus de maandag is ook een legmoment en de vrijdag zijn we aan het afrappen. We worden ook een beetje met rust gelaten. En ik zie die dag ook, als je afspraken maakt met externen, dat dat typisch de zaterdag of donderdag is.
+
+ALAN: Maar oké, je week heeft zo'n redelijk vaste structuur en je beheert wel je eigen agenda, maar die zit wel vrij vast in de zin van je kunt waarschijnlijk niet zomaar zeggen van volgende week of over twee weken ben ik een week weg?
+
+STIJN: Moeilijk. Ja, heel lang op voorhand plannen. Het is ook een keuze maken, want als er minder tijd is, moeten de prioriteiten iets scherper staan. Het gaat daarover. En soms weten van: oké, als wij wel een grotere aanbesteding hebben, dan weet je dat de dag voor de deadline, moet je daar tijd insteken. Dus ook wel, als we dan van te voren naar de vakantie gaan, dan moet je dat ervoor inplannen. Dat gaat een stuk van je agenda. Dus het is niet zo dat ik zomaar echt vrij kan zijn. Omdat ik ook eigenlijk op vandaag nog te veel operationeel betrokken ben. Als je wat minder operationeel betrokken bent, kun je dat makkelijk doen eigenlijk. Maar dat is wel je streefdoel om daar naartoe te werken?
+
+ALAN: Ja, mijn streefdoel is eigenlijk om 4/5e te werken. Stel, oké. Kan jij misschien ook wel wat helpen?
+
+STIJN: Ja, zeker. Mijn doel is om 4/5e te kunnen werken. Om niet voor alles de laatste lijn te moeten zijn of het eindpunt te zijn. Als het misgegaan is, dan moet jij u trekken. We gaan daar liefst niet meer in. We zien dit en dit — overleggen we om de juiste keuzes te maken. Daar wil ik veel meer naartoe. We zijn onze organisatie aan het groeien. Je hebt ook mensen nodig die veel meer autonoom kunnen werken, die gezegd hebben: kijk, je hebt een verantwoordelijkheidsgebied, die eigenlijk heel zelfstandig kunnen werken — dat is een zelfstandigheidsgericht aspect.
+
+ALAN: Ja, misschien nog even, ja, voor jouw bedoeling van 4/5e te willen werken, wat is de reden daarachter?
+
+STIJN: De reden is, mijn work-life balance is momenteel niet zo goed. Ze was initieel goed, toen is Riek ziek geworden, toen kwam er steeds meer bij mij te liggen. Dat is langzaam een sluipend proces, en dan valt hij uit en dan zeg je: oké, nu moet je het wel even doorpakken, want er moet een en ander rechtgetrokken worden. En dan begint het sterk te groeien. Dat betekent dat we eigenlijk sneller groeien dan we verwacht hadden. Dat vreet altijd een beetje, groeien is een sprint, daar komt het niet altijd zo snel van. Je hebt je groeispurten met kinderziektes. Iedereen tekent een curve, maar die doet een keer een vlakke lijn en dan weer dat stapje. En het is heel moeilijk om dat goed gematcht te krijgen. Ik denk ook dat in die periode dat het zo drukker was, omwille van Riek die er niet was, dat er veel meer moeten dan willen zat in je agenda?
+
+ALAN: Ja, dat is toch een paar takenpakketten aan mij geschoten, maar op een moment dat... Er is op korte termijn niet met één iemand in te schuiven. Er zijn er wel mensen bijgekomen om te zeggen dat je dat vanuit mijn taakpakket hebt gepakt. Daar heb je geen energie van. Dat doe ik absoluut niet graag. Dat is ook niet mijn taak om dat te doen. Dat doe je dan weer weg. Dat delegeer je dan ofzo.
+
+STIJN: Het is steeds balanceren. We zijn aan het kijken, we gaan deze zaken loslaten. Dus ik heb een nieuw gebouw opgemaakt. Ja, je hebt dat gezegd. Ongeveer vier of vijf keer zo groot als dit. En mag ik ook even... We moeten dan ook kantoren bouwen. We hebben ook gezegd: kijk, we gaan groeien. Dat betekent ook dat we naar ondersteunende diensten... We hebben nu veel mensen die een heel divers pakket hebben. Dat je dat stukje voor stukje, omdat de kritische massa onvoldoende groot is. We gaan het takenpakket herdefiniëren, maar de combinatie is niet haalbaar meer geworden als alles toeneemt. Dus dat betekent dat ik wel heel bewust een herstructurering aan het doen ben. Ik heb eigenlijk gezegd: we zijn verdubbeld. Als het gebouw er is, de volgende 3 tot 5 jaar gaan we waarschijnlijk opnieuw verdubbeld. Dat gaat niet met het bestaande team en dat gaat niet met de bestaande systemen en procedures. Nu ben ik goed aan het nadenken van welke profielen heb ik op welk moment nodig. En hoe kan ik dat tot een logisch takenpakket brengen, dat je de juiste mensen kunt aantrekken. Een interessant en boeiend takenpakket — ook een middel van: waar doe ik zelf afstand van. Het is altijd zo een beetje zoeken, omdat ik wil de mogelijkheid hebben om inzet door vier vijfde... Ik heb ook in de organisatie gezegd, ik ben nu vijftig: ik wil 4 à 5 jaar, we gaan onze organisatie zodanig vormen dat dat kan, vandaag kan dat niet. En dat verplicht je om te debatteren met mensen: hoe gaan we dat doen, hoe gaan we die taakverdeling herzien.
+
+ALAN: En die 4/5e mogelijkheid die je noemde, dat betekent niet dat je een dag niet gaat werken, maar dat je de tijd gaat veranderen?
+
+STIJN: Ik heb nog wel wat andere projectjes die ik nu on hold heb gezet. Daar denk ik van: oei, daar wil ik toch wel een keer tijd voor vrijmaken.
+
+ALAN: Oké, ja, alright. En ja, je hebt gezegd, ik ben nog redelijk veel operationeel betrokken. Alles wat langere termijn is — lukt dat momenteel, om het er tussen te krijgen, om het zo te zeggen?
+
+STIJN: Nee, je moet dat ertussen duwen. Je moet altijd zeggen, ook al heb je drie schreeuwers in de bureau staan met de waan van de dag — dat is niet prioritair. Maar dat is altijd balanceren. Er is een groot verschil in een KMO en een grote organisatie. In een grote organisatie is het takenpakket minder divers, en twee, je werkt in vakjes en bij hokjes. En kunde — die hebben ook zo'n typisch stramien: ze hebben een plan gemaakt voor het jaar erop, het moet ook een 3-5 jaar uitgedacht worden, die dan in het systeem... Terwijl wij, ik maak wel jaarplannen, maar wij doen die oefeningen voor 3-5 jaar niet ieder jaar opnieuw. En hoe dat betreft zijn van: goede analyse van hun eigen business, waar ze goed zijn, waar ze moeten groeien, waar het goed gaat, waar het niet goed gaat, we kunnen daarin groeien, we kunnen verdienmodelstappen maken. Maar in een groot bedrijf zijn er mensen die zich enkel daarmee bezighouden. En hier moeten we om dezelfde tijd ook eens erbij pakken.
+
+ALAN: Ja, oké. En de volgende vraag heb je eigenlijk al min of meer beantwoord. Sta je momenteel op het punt van verandering?
+
+STIJN: Ja, we zijn volop. Ja, nee. Ja, hè? Ja, ja, ja.
+
+ALAN: Oké, ja, en de rest is inderdaad al aan bod gekomen. We hebben het al afgetast rond de eigendomsverandering. We zijn nu voor dezelfde denkoefeningen aan het doen: is het zinvol om een externe aandeelhouder aan boord te halen. Enerzijds om de financiële slagkracht te vergroten. Maar anderzijds ook om — stel dat het een family office of een private equity is — je hebt daarin mensen die in je raad van bestuur of in je adviesraad komen zitten, die je kunnen uitdagen. En die ook zeggen van ja, we zitten in dat bedrijf, we proberen cross-learning te doen — dat is ook een toegevoegde waarde. Het is niet alleen voor het geld. Ik ga naar de bank, maak ik geld, we gaan zien hoeveel we moeten hebben, we gaan naar u kijken, we zitten liefst uit, ik krijg het wel of ik krijg het niet.
+
+STIJN: Oké, en als je terugkijkt op de 12 voorbije maanden, wat heeft u het meeste energie gegeven en wat heeft u het meeste energie gekost?
+
+ALAN: Het meeste energie geeft een aantal mensen die binnenkomen, die hun weg vinden. Je ziet ook dat er mensen bijkomen, er komt vurkracht bij. Je ziet ook dat je snelheid wordt achterna bewogen. Ik vind het leuk en boeiend dat je begeleidt en dat je dat goed vindt. Je ziet dat bij een kleine rol, dat is leuk om te kijken. Het heeft ook te maken met een stuk — met een proep en arm tot nog toe — ook te zien dat... Aaron is daar gewoon een voorbeeld van. Het is altijd een tijdje voor iemand in hun geliving te vinden. Ik vlang nu ook van: is dat een fit met uzelf, met uw organisatie? En je ziet nu van dat die mensen... Ik heb nu alzo gezegd, ik zeg dat niet zo vaak, maar ze zijn heel goed bezig. En ze zijn gegroeid en ze zeggen: ik doe dat ook graag. En je ziet dat je in de trein loopt en je hebt je die zien weglopen — dat is denk ik dat je kinderen in de trein rijden, en je steunt ze, en je zegt van: nu gaan jullie eraf en nu is het voor jullie, en we gaan afstemmen, prioriteiten — en rij maar. Dus wat geeft mij echt energie: ik vind dat leuk. Ja, coachen en begeleiden.
+
+STIJN: Ehm, wat geeft mij geen energie zijn de administratieve zaken. Ja, alles van administratie bij ons. Niet alles, maar zo. We hebben nogal wat dossiers die paperwork-intensief zijn.
+
+ALAN: Ja. En dat zijn vaak dingen die je niet kunt delegeren dan?
+
+STIJN: Ja, we zijn nu groot genoeg aan het worden om te maken dat we dat eigenlijk helemaal hebben — die administratie en die flow — die wel een halftijds takenpakket vormt. Dus het is daarmee aan het groeien dat dat gedaan wordt. Maar ze gaan uit dat, maar dat je maar een dag in de week is. Is dat moeilijk?
+
+ALAN: Ja, dat is zo. Ik ben zelfs van niemand die dat graag doet om er snel van te zijn. Een beetje wat je hebt in de KMO is: mensen hebben een takenpakket en ze willen wel eens bijgenomen worden voor dingen die ze niet zo graag doen. Maar je mag daar niet te veel dingen in stoppen die ze niet graag doen, want ze hebben dat al genoeg. Ja, aan de zaken zelf. En af en toe heb je het van: ja, ik zal het nog maar even trekken totdat ik er ook van afkom. En ze moeten er ook eerlijk over zijn. Zeker nieuwe mensen gaan misschien soms wel 100%...
+
+STIJN: Ja, misschien ook wel snel — je ziet heel snel of die mensen het goed doen of niet.
+
+ALAN: Ja, of dat ze daar energie van krijgen of niet. Als je iets hebt, als je... Dan weet je het antwoord al, hè.
+
+STIJN: Ja.
+
+ALAN: Wanneer voelde je voor het laatste dat je wist waar je stond en waar je naartoe ging?
+
+STIJN: Oh. Op vakantie. Nee, nee, echt. We zijn naar Lapland geweest en je neemt ergens afstand en je reflecteert ook ergens. Want je bent ergens los, weg, we zijn niet verbonden, en dan maakten we zelf een beetje de analyse van: oké, er zijn nog heel wat werkpunten, maar we mogen ook wel trots zijn. Dat gevoel.
+
+ALAN: Dus vakantie is daar ook wel een stukje voor, maar dat betekent ook wel dat je met je hoofd in het werkhoofd zit op vakantie?
+
+STIJN: Nee, maar als je... Voor mij is het niet hetzelfde als hier. Want je hebt je afstand, je hebt de dagelijkse dingen weg, je hebt ook eens tijd om vanuit een helikopter te kijken, een keer, dat is maar een paar uur, dat je daar een keer doorheen gaat, dat je een keer in de wei of in de natuur staat, dat je een klein mensje voelt. Zijn er zaken waar je zegt: in die omgevingen lukt dat beter dan in die omgevingen?
+
+ALAN: Voor mij persoonlijk is dat in de natuur. Op de berg, in de duinen, zet mij aan de kust, het liefst in de duinen of niet aan de bebouwde Vlaamse kust. Zet mij in een bos.
+
+STIJN: Waarom niet aan de Vlaamse kust?
+
+ALAN: Ja, je moet echt goed kunnen zijn bij het zijn. Het is niet een afstand op zee. Nee, voor mij moet ik niet aan de andere kant van de wereld reizen om wat te doen. Ik heb wel de drukte. Ik ga graag, ik fiets veel minder, maar ik probeer nog een halve dag te fietsen. Dat is voor een stuk ontspanning, maar je bent rustig bezig. Het is niet dat je super intensief bezig bent. Maar het laat toe om je gedachten vrij te laten lopen. En die vakantie, of mijn beetje sport, je gedachten hobbelen van links naar rechts. En je laat het even lopen en dat brengt soms een nieuw inzicht op een punt waar je nog eens naartoe moet besteden. Je connecteert wat puntjes die je, als je te gevangen zit in de omgeving, niet hebt. Ik haal dat uit de natuur, zeg ik wel altijd. Dan hadden mijn kinderen of vrienden gaan skiën, vandaag is alleen gaan skiën. En dus ga ik hier op mijn gat in de sneeuw gaan zitten, ik vind dat fantastisch.
+
+STIJN: Ja.
+
+ALAN: Als ik in mijn gat in het duin zit, of in mijn gat in het bos zit, dan ben ik gewoon daar maar mee bezig. Maar je hoofd is wel altijd bezig, ook op die momenten dan.
+
+STIJN: Dat is de eerste vraag. Maar als je aan het skiën bent, of je bent bezig, dan ben je daar niet mee bezig. Maar als je op je gat zit in de sneeuw of op je gat in de duinen zit, dan ben je fysiek niet bezig. En dan heb je het, dan kun je zo mijmeren en...
+
+ALAN: Ja. Dat werkt voor mij, dat kun je ook niet echt uitkiezen.
+
+STIJN: Heb je daar een verschil in, in het type activiteiten dat je doet, waar dat bijvoorbeeld gemakkelijker is om nog na te houden? Zoals je net aangaf, dat fietsen bijvoorbeeld — dan zijn er nog wel een beetje gedachten die van hot naar her gaan. Sommige sporten meer intensief, is dat misschien niet mogelijk?
+
+ALAN: Als je intensief sport of het is een teamsport, dan ben je mee met die sport en die interactie. Het gaat dan over wandelen, het gaat dan over rustig fietsen. Het gaat dan daarover. Er is een fysieke component, maar die is low intensity.
+
+STIJN: Ja, je zoekt dat soms op van echt activiteiten, dat je zegt van oké, moet ik daar volledig op gefocust zijn? En kan ik niet met mijn gedachten elders zijn, bij wijze van spreken? Als sport een middel is om gedachten vrij te krijgen, zou dat zo zijn?
+
+ALAN: Ja, want we hebben aangegeven dat je inderdaad activiteiten hebt die low intensity zijn, en dan ben je waarschijnlijk nog wel soms aan het denken, maar misschien op een andere frequentie als ik het zo mag zeggen. Maar sommige sporten vragen zoveel aandacht, zoals teamsporten, dat je die mogelijkheid niet meer hebt.
+
+STIJN: En mijn vraag is: is dat iets wat je soms opzoekt of dat je mist of totaal niet?
+
+ALAN: Momenteel niet, maar ik... Sport is ook vaak een sociale component. Ik heb al vier invitaties geweigerd om mee te gaan padellen, door initiatiepadellen, omdat dat dan typisch... Voor mij zijn het soms moeilijke uren en dat soort zaken. Ik kan daar nu geen prioriteit aan geven. Mijn prioriteit ligt elders. Dat is wel, we zijn ook wel even bezig en geëvolueerd. Het is wel competitief enzo. Het is een beetje een uitlaatklep. Maar momenteel heb ik dat niet zo...
+
+STIJN: Ik heb geen fysieke uitlaatklep nodig?
+
+ALAN: Nu ook, als ik ga lopen, vroeger was ik op de gemeentelijke baan bezig, was mijn tijd, was mijn hartslag op basis — ik ga intervallen gaan doen. Nu zeg ik: weet je wel, doe ik mijn schoentjes aan, we gaan rustig duurlopen, hoelang, hoeveel tijd dan? We gaan een kwartiertje gaan lopen. En we zoeken een beetje, ik zit dan in mijn hoofd van: waar is het een keer mooi lopen of waar ik al lang niet meer geweest ben. Maar het is lopend hé, het is niet... Nooit voluit?
+
+STIJN: Daar hebben we momenteel geen behoefte aan. Kun je dat ergens vatten, omdat je zegt: ik heb daar momenteel geen behoefte aan? Zijn er momenten waar je daar wel behoefte aan hebt?
+
+ALAN: Ja, in mijn geval gaat dat richting het trainen, niet naar mijn doel richting het trainen, als ik mezelf een sportief doel stel. Nu is mijn sportief doel af en toe wel sportief bezig zijn, maar er is niet iets. Ik heb geen marathon of een halve marathon of een fietstocht en gedachten die ik moet, waar je naartoe opbouwt. En het heeft ook te maken met prioriteiten stellen. Dat ik met de manager zeg van: kijk, we gaan verdubbelen. Ik wil 4/5e kunnen werken. Ik heb gezegd: de volgende jaren ga ik daar nu prioriteit aan geven om dat te realiseren. Om comfort of living over langere termijn. En als je dan ook een beetje van, bijna vijftig ben ik — bijna vijftig-vijftig. Mijn doel is, ik wil graag ook lang werken. Maar dat gaat misschien van 4/5e zijn en dat ook focussen op dingen die je graag doet of die je interesseren. Het is een welbepaald gevoel als functie van de leeftijd. En ook dat je dingen zegt van: nou, die dingen waar ik energie van krijg, die moet ik weghouden. Ik ga cherrypicking doen, hè.
+
+STIJN: Ja, ja, ja. Dat is een beetje wat dat... Ik denk eigenlijk als ik zeg: waar komt mijn ambitie en mijn drive eigenlijk om dat te krijgen? En nu ook een beetje een voorbeeld geven om dat te realiseren.
+
+ALAN: Oké, helder. Ik ga nog een paar vragen stellen. Je moet niet altijd zo uitgebreid antwoorden. Als je zo'n vraag hebt, hou je het kort, want anders gaan we heel lang bezig zijn. Hoe investeer je normaal in je eigen ontwikkeling?
+
+STIJN: Hoe investeer je normaal in je eigen ontwikkeling? Ik maak een gap-analyse. Waar ben ik goed in? Waar ben ik niet zo goed in? Maar waar moet ik in mijn functie of rol investeren? Dus de missie is een soort gap-analyse. En dan ga ik kijken of ik dat ingevuld kan krijgen. Of ga ik een opleiding volgen?
+
+ALAN: Dus opleidingen zijn wel zaken die je doet?
+
+STIJN: Ja. En verder nog zaken, dat je zegt van op die manier zorg ik dat ik bijblijf. Ja, maar dat is een beetje, het zorgen dat je bijblijft — enerzijds denk ik dat dat een beetje als natuurlijk loopt. Het staat ook voor nieuwe dingen. Je snuffelt daarin en soms denk ik van: dat is iets leuks en dat is iets zinvol. Een beetje intuïtief.
+
+ALAN: Ja, goed. Lees je veel?
+
+STIJN: Weinig boeken, maar ik lees wel veel.
+
+ALAN: Oké, maar kortere dingen dan?
+
+STIJN: Ja, publicaties, ehm... Ik heb zo wat Google Alerts over ongelegen topics. Dat soort dingen, hè. Sommige vinden boeien, sommige vinden niet boeien. Maar soms steek je iets op. Ik probeer niet te veel tijd aan sociale media te besteden.
+
+ALAN: Oké, ja, snap ik.
+
+STIJN: Ik heb er heel veel tijd teken. Nee, maar het is goed, hoor. Ik vind het voor mij niet zo belangrijk.
+
+ALAN: Oké. En als je opleidingen doet, is dat dan vooral kennisgeoriënteerd? Of soms ook meer gekoppeld aan persoonlijke ontwikkeling, in de zin van iets coaching of wat dan ook?
+
+STIJN: Het is heel vaak kennisgeoriënteerd. Soms in opleidingen en boeken: hoe staan jongere generaties in het leven? Want je hebt jonge werknemers. Je ziet wel dat die andere accenten leggen. Hoe kan je dat gemanaged krijgen? Hoe kan je maken dat de jongeren en de ouderen en de middengeneratie niet met elkaar in conflict komen? Dat soort dingen. Niet alles is een formele opleiding. Er zijn heel veel dingen zo beschikbaar. We geven dingen die publiek zijn aan dingen rondom. En debatteren met andere mensen. Ik durf wel eens aan nogal wat mensen vragen: help me even, want... Het is niet mijn link of het is niet mijn natuurlijk habitat.
+
+ALAN: En ik ken ook mensen die rond de transitie van organisaties en ook van de leidinggevende rol bezig zijn, die bepaalde tools gebruiken, die hun competenties ontwikkelen. Er zijn mensen die een paar duizend euro geven aan een online opleiding en sommigen doen dat niet. Waar reken jij je bij en waarom?
+
+STIJN: Ik zou online opleidingen zeker overwegen, maar het enige nadeel is dat dat vaak individueel is en minder in groep. Ik heb in het verleden al een waardevolle opleiding gevolgd en dan merk je ook vaak dat je samen met de anderen die allemaal uit iets anders komen, dat die interactie ook wel boeiende inzichten verschaft. Dat is gewoon, je kunt je er niet op bestellen. Uiteindelijk toch gelijk, een beetje aan het besteden. En dat komt uit een online opleiding omdat dat vaak een opleiding is — vaak dat soort spontane discussies of interacties die je aan tafel hebt, komen minder voor. Dat is wat ik... Als ik zeg, als je me vraagt wat voor mij de meest waardevolle opleidingen zijn: opleidingen waar je dat samen met andere mensen doet.
+
+ALAN: Ja, dus eigenlijk gewoon fysiek.
+
+STIJN: Fysiek mag ook digitaal zijn, mag ook online zijn, maar wel met interactie. Niet een opleiding die zegt: we gaan een emmer vol met kennis gieten en je moet dat maar capteren.
+
+ALAN: Ja.
+
+STIJN: Interactie-opleidingen.
+
+ALAN: Ja. En maakt dat dan uit over welk topic dat dat gaat? Allee, ik wil zeggen, als dat iets kennisgeoriënteerd is, of bijvoorbeeld als het misschien meer gekoppeld is aan persoonlijke groei — van hoe pak ik dit aan, hoe ga ik... Allee, ik zeg maar iets — dat dat soms misschien wat delicater is, in de zin van dat je zegt: hier moet ik even mijn kwetsbaarheden op tafel gooien, of wat dan ook. Vind je dat dan gemakkelijk om dat te doen, in zo'n groep, of niet?
+
+STIJN: Ja, ik heb er eigenlijk geen probleem mee. Ik heb zo'n tijdje, een organisatie rond transitie en rond leiderschap die werkt — die organiseerde één keer per maand een wandeling, op vrijdagavond. En dan koppelden zij, men wilde gesprekken, en zij koppelden dan iemand anders om samen te wandelen. Dus je wandelt samen met twee naast elkaar en achter elkaar. En je babbelde met iemand die je vaak nog niet kende. Soms kennen ze wel elkaar, toevallig. Dat duurde ook een maand of zo?
+
+ALAN: Dat is ook een maand, ja. Maar als je niet goed openstaat, dan ga je er niet veel uit halen. Als je een façade optrekt, dan heb je ook een façade opgetrokken. Maar je bent niet veel meer uitgelekt.
+
+STIJN: Oké, en merk je dan bijvoorbeeld — want ik kan mij voorstellen dat je daar allerlei type mensen hebt die daarnaar toe komen — dat dat soms wel interessant is en soms niet. Of wordt er op voorhand al een soort van selectie in gemaakt? Of wordt er gezegd van: die mensen zetten we samen omdat die waarschijnlijk veel raakvlakken hebben of net complementair zijn aan elkaar?
+
+ALAN: Ja, of dat die net voldoende complementair zijn aan elkaar. Dat die met elkaar al twee, voldoende verschillend van elkaar zijn om inzicht aan elkaar te kunnen verschaffen. Dus dat wordt wel bewust gedaan. Wie ze bij wie zetten voor de wandeling — welke twee in vers 2 — daar wordt over nagedacht. Het is niet zo van: oh, het is maar, oh oké. Maar ik heb nu een tijdje dat gedaan en ik heb eigenlijk met een aantal mensen gehad dat ik eigenlijk zei van: zeer boeiende mensen, waar ik soms nu nog contact mee heb. Omdat dat een boeiend gesprek was. En mensen die jong zijn, dat is wel leuk af en toe. Maakt niet uit of dat een tech-ondernemer is of iemand uit de sociale sector, een NGO... Maakt niet uit, omdat die verschillen zorgen voor de verrijking.
+
+STIJN: Ja, oké. Oké, goed. Welke organisatie? Dat is Avoka? Nee, het is... Wat noemen ze nu even? Ik kan je dat doorgeven, maar ik vind het niet van buiten.
+
+ALAN: Oké.
+
+STIJN: Dat is nog steeds mijn naam. Alright. Nee, goed. Dat is gewoon te weten. Wacht, hè. September, een organisatie.
+
+ALAN: September?
+
+STIJN: Ja. Het gaat rond coaching, leiderschap en change in organisaties die werken heel veel voor de zorg. En die helpen van: kijk, niet-zorg kan heel veel leren uit de zorg en zorg kan leren uit een veel hardere business. Ja, ja. Allee, veel mensen in de zorg zijn, of vertrekken vanuit een... een baas in de zorg staat daar omdat ze voor anderen willen zorgen. Als je in de industrie werkt, iets minder, maar net daardoor wordt dat wel leuk. Dus ik weet dat ze heel veel voor de zorg werken. Voor ziekenhuizen die in transitie zijn en al dat soort dingen.
+
+ALAN: Oké, interessant. Nog niet van gehoord.
+
+STIJN: Het is In September, heet het. In September. Dat zijn Caroline en Nathalie — dat zijn twee vrouwen.
+
+ALAN: Ah ja, maar ik denk dat ik met Nathalie contact heb gehad, in verband met Cindy haar verjaardagsfeestje. Ja. En dat zij alles aan het verzamelen was van tekstjes enzo.
+
+STIJN: Ja, wij doen Nathalie. En dat zag ik daarin iets van, oké.
+
+ALAN: Alright, goed. Je doet ook nu yoga met die groep, en dan is het leuk om te zien dat er yoga bij is, maar voor veel mannen is dat zeer onwennig. En hoe is de mix in het algemeen tussen mannen en vrouwen? Is dat vrij gelijk of niet?
+
+STIJN: Ja, het is zeer homogeen verdeeld. En is het vooral gericht op Oost-Vlaanderen of overal?
+
+ALAN: Ze zitten iets minder sterk in West-Vlaanderen, dus ze zitten vooral rond de Gent-cluster — dat is eigenlijk hun natuurlijk habitat.
+
+STIJN: Ja, oké. Alright, goed. Oké, ik ga even springen naar een ander stukje. Wat is de versnelling van technologie, AI, automatisering, digitalisering concreet veranderd in je werk en in je sector?
+
+ALAN: Ik denk dat wat AI aan het veranderen is, is dat de kostenprijs van de digitalisatie hernedwaarts geduwd wordt. We hebben bewust een project uitgesteld. Dat is eigenlijk op ons ERP de custom dashboards. Omdat we eigenlijk verwachten dat de koding rond AI gaat... We gaan dat ergens uitbesteden. Omdat we nu gaan met heel veel manuren betalen, dan gaan we zien dat de doorlooptijd waarschijnlijk korter zal zijn. En de investeringskost zal dalen, omdat coding, cloud enzo, heel specifiek op een bepaalde taal — daar is eigenlijk wat veranderd. Dus je verwacht eigenlijk wel dat uw externe kosten naar softwareontwikkeling en agencies enzo serieus gaan lopen.
+
+STIJN: Ja, dat zien we eigenlijk. En ook de kosten om content te maken, leuke content te maken voor sociale media, voor werving van personeel bijvoorbeeld. Vroeger moesten ze eerst, ik weet niet, een videobureau en een tekstbureau betalen voordat je iets ergens had. Nu gaat het allemaal veel sneller.
+
+ALAN: Ja, ja. Dus daar zie je wel dat dat verandert. Natuurlijk, AI gaat doelstellingen stellen, maar ik denk dat voor ons als bedrijf ook AI, local AI, uit de data die je bedrijf genereert en je gaat behoeftes geven — dat AI patronen en inzichten heeft, maar die je zelf niet hebt opgekomen. Ja, bijvoorbeeld met een copilot die dan specifiek op je eigen servers werkt. Dus dan vraag ik eigenlijk wel: als we een business dashboard door AI laten maken, dan zie je dat nog — of welke patronen zie je dan? Dan dacht je dat eigenlijk, nu is er al data genoeg geüpload, dat de toekomst zal zijn dat een local agent eruit zegt van: ik heb al die data en ik heb nog wat insights voor jou, wat je niet aan gedacht had.
+
+STIJN: Ja, maakt natuurlijk ook die digitalisering... en ja, zorgt ervoor dat we nog veel meer overprikkeld geraken, of dat er nog veel meer dingen zijn. En je ziet nu ook de laatste maanden heel sterk ook iedereen: oei, oei, oei, oei. Dat maakt soms mensen ook een beetje, allee ja, misschien dat er wel ondernemers zijn die meer zoiets hebben van: oei, hoe ga ik daarmee omgaan enzovoort. Is dat iets — dat stuk, het mentale aspect — iets dat speelt bij je of niet?
+
+ALAN: Bij mij niet, maar omdat technologie moet maturiseren en moet ook gaan aantonen. En in het begin is het duidelijk dat je daar dan technologie goed waarde kan creëren. Toen begon mijn taalmodel, dat is allemaal leuk. En ik kon tekst schrijven en dan kunnen we daarmee ook code schrijven en dan begint dat anders uit te draaien. En ook, ja, ik speelde met AI, ook mijn werknemers speelden met AI. Dus hadden we een AI gevraagd: wie gaat de Tour de France winnen? De free versie die gebruikt oude data. Ja, dat is 3 jaar oud. Dus je snapt ook wel snel van: oké, het is ook een beetje een peer. Net zoals we ooit gedacht hebben: de dotcom gaat de wereld veranderen. Oké, de hele wereld is veranderd, maar de functie en hoe mensen ermee omgaan is veranderd. Alles in de cloud is gebeurd, we hebben geen eigen server meer staan waar we een onderhoud contract op hebben — dat bestaat niet meer. Maar het is niet dat je het zo ervaart dat de druk, de externe druk ook op mentaal enzovoort serieus wordt opgevoerd. Enerzijds met de verschillende crisissen die er zijn en dan ook nog eens de exponentiële groei van technologie. Maar je kunt altijd zo denken. Iedere crisis gaat altijd het einde van de wereld zijn. Je hebt ook de verschillende dingen gepost en gezegd die achteraf toch niet zo blijkt. De voorspellingen zijn dezelfde correct. Het is een beetje de waan van de dag. Dat betekent nog altijd: ik had toen een debat met iemand — AI vervangt een junior software engineer. Ik heb nog altijd wel senior-ingenieurs nodig om daarover na te denken met de klant, om de behoeftes in kaart te brengen. Maar je moet wel tot senior komen. En die ingenieur is niet zo snel als jij, maar je moet hem wel opleiden. Dus hoe ga je daarmee om — dat is voor die organisatie anders. Voor ons een positief aspect: datacenters zijn onze klanten. Dus wij zien als bedrijf ook de positieve kant van die groei.
+
+STIJN: Ik ga je nog een paar vragen stellen, maar je mag er vrij kort op antwoorden. Ken je het gevoel dat je een beslissing neemt die vroeger logisch leek, maar nu twijfelt?
+
+ALAN: Ja. Ja. Volgtijdigheid. Is het nu een moment? Of: wacht, moet ik dat nu al beslissen? Of zou ik niet beter een beetje wachten om te kijken hoe bepaalde dingen zich uitdraaien? Zoals wat je daarnet vertelde, van die ontwikkeling van AI om dan misschien bepaalde softwareontwikkelingen uit te stellen.
+
+STIJN: Ja, en zijn bepaalde dingen nog simpel. Dus ik ga meer nadenken over de timing: moeten we dat nu al beslissen of soms moet je het beslissen. We moeten ook vooruit.
+
+ALAN: Wanneer heb je voor het laatste iets gedaan waarbij het resultaat er niet toe deed, enkel het doen zelf?
+
+STIJN: Professioneel? Dat laat ik in het midden. Professioneel... het doen zelf. Ja, maar eigenlijk is dat sport, hè. Want die sport is eigenlijk het doen zelf, want het resultaat is niet zo... Is niet belangrijk momenteel, per se.
+
+ALAN: Dus op persoonlijk vlak wel, maar professioneel niet?
+
+STIJN: Nee, omdat ik te veel keuzes moet maken. Je moet scherp zijn in je keuzes. Het gaat wel leuk zijn, maar er is geen resultaat in het gebied. Dan schuift dat naar achter en dat gebeurt niet meer.
+
+ALAN: Wat heeft uw omgeving, uw sector, uw netwerk de afgelopen twee jaar over u aangenomen dat niet meer klopt?
+
+STIJN: Niet meer klopt. Dat aangenomen is en niet meer klopt. Dat ik alles weet. Mijn kinderen dachten dat, dat is niet waar. Sommige mensen denken dat ik van alle markten thuis ben, terwijl ik voor bepaalde gebieden absoluut niet weet. Maar je laat dat dan niet blijken, blijkbaar — of dat komt niet zo over.
+
+ALAN: Ja, het is een beetje — als ik in mijn groep zit en er is een topic aan de orde en ik weet daar niet zoveel van, ga ik daar ook niet zo specifiek in interageren. Ik heb er wel eens een pittige vraag gesteld van: is dat wel zo? Dan denk ik vaak van: die weet er veel van, is dat zo'n lastige vraag? Dat dat eigenlijk niet zo is. Maar dat is de aard van het beestje.
+
+STIJN: Oké, alright. Goed. Wat is op dit moment het grootste probleem waarvoor je nog geen goede oplossing hebt?
+
+ALAN: Tijd. Tijd. Tijd is eigenlijk het tekort aan tijd. Het tekort aan... Ja. Ik heb het gevoel vandaag dat ik te veel op mijn bord heb, waar ik te scherp de neuzen moet maken en waar ik niet altijd bij bepaalde dingen zo graag wel meer tijd voor zou nemen.
+
+STIJN: Tijd om dan een beslissing te nemen of na te denken? Maar ook om je te informeren?
+
+ALAN: Maar ook om te informeren. Een beetje zo... Bijvoorbeeld van strategische planning ofzo, heb je daar het gevoel dat je daar tijd een beetje kort voor hebt? Of dat je daar meer tijd voor zou willen?
+
+STIJN: Nee, maar het gaat mij over... Ik merk dat ik veel dingen... Ik heb veel dingen waar ik vaak iets over wil lezen of wat ik zou willen verdiepen. Dat is misschien wel boeiend, of ik hoor wat dingen. Ik zeg van: dan moet ik toch eens naar die studie kijken. En het komt er niet meer van. Of te weinig van. Dus dat... Een beetje van onze nieuwsgierigheid — in alle richtingen gaan kijken en ik hoor de motto: verdiep je, wat zit daaronder? Wat boeiend! En voordat ik het weet, is het weg. En nu zeg ik: boeiend, maar ik heb geen tijd. Dus, ehm, tijd om zo wat te kunnen verdiepen. Ik noem dat luiden, eigenlijk niet luiden, maar zo wat, ja, zo een keer, ja.
+
+ALAN: En hoe lang speelt dat al?
+
+STIJN: Ehm, laatste drie jaar.
+
+ALAN: Sinds dat Riek ziek geworden is?
+
+STIJN: Ehm, sindst dat we sterk aan het groeien zijn. Toen dat Riek ziek was, dat viel gelijktijdig mee. Maar nu is het groeitempo iets te hels, maar je moet keuzes maken. We staan al een beetje op de rem, maar je mag ook niet te veel op de rem staan. Dus als bepaalde dingen gebeuren, moet je in dat gat springen?
+
+ALAN: Zijn er al bepaalde dingen die je geprobeerd hebt om dat tijdsprobleem een stukje onder controle te krijgen?
+
+STIJN: Scherpere keuzes. Maar het is niet dat je fundamenteel al iets veranderd hebt in je manier van werken of van...
+
+ALAN: Goh ja, doordat tijd een gebrek is, zijn we veel kritischer aan waar je tijd besteedt. En waar je voor aangenaamheden soms wat minder tijd overschiet. Zoek.
+
+STIJN: Ja, oké. Stel dat je morgen 10.000 euro kunt besteden aan iets wat je probleem fundamenteel oplost, of één probleem fundamenteel oplost. Waar gaat dat dan naartoe?
+
+ALAN: 10.000 euro. Ja, iemand die mij, ik moet het gezegd hebben meer dan naar de inzijde, maar het maakt niet uit, de dag niet haalt. Het gaat over iemand die mij de juiste mensen kan aanleveren voor mijn organisatie. Wat voor mij tijd gaat genereren. HR dan, dus mensen?
+
+STIJN: We hebben al headhunters gebruikt, maar bepaalde profielen, ook door headhunters, is dat een absolute nachtmerrie. In West-Vlaanderen is de schaarste aan war for talent... Ja, de schaarste is eigenlijk de war for talent.
+
+ALAN: Ja, is de... Oké. Dus alles die mij helpt om talent te vinden dat matcht met een organisatie, zowel qua kennis als persoonlijkheid. Dat gaat voor mij meer tijd genereren.
+
+STIJN: Ja. Maar hoe je dan die 10.000 euro zou besteden, dat weet je nog niet. In de zin van: gaat het dan een headhunter geven? Of zou je dan eerder een soort van campagne opzetten om volk te trekken? Of iets anders?
+
+ALAN: Ja, maar het is een beetje wat we eigenlijk... Daarom eigenlijk overweeg ik... We hebben nu wat we hebben gegeven. En dan... Het probleem is dus: we zijn niet zo bekend. Ik ken mensen bijvoorbeeld van Agristo ook heel goed. Die hebben ook heel veel engineering. Het profiel van de aantallen was engineering. Ja, Agristo doet hele campagnes. Ze heeft namelijk bekendheid. Employer branding. Dat is een groot bedrijf. En ook zij hebben vacatures die gigantisch lang openstaan. We zijn kleiner, dus onze aantrekkingskracht is minder. Ook al hebben we een headhunter, mensen die typisch een grote organisatie werken, zijn anders dan mensen die typisch in een KMO-organisatie werken. Maar er zijn gewoon te weinig talenten.
+
+STIJN: Ja, ja, oké. Goed. En het is niet per se gekoppeld aan de locatie hier ofzo? Het is niet dat je verwacht als je nu naar een nieuwe locatie gaat, dat dat beter gaat zijn?
+
+ALAN: Nee, ja, ik denk dat de vaststelling is: zolang we in de regio zitten, als je echt Gent, Kortrijk, Roeselare — ik denk de driehoek — zoals die loopt naar Brugge, dat is de sector die, dat is een regio die enorm ver staat. Ik ben ook een bedrijf in de elektriciteitswereld. Dus ja, als ik nu zie: wij nemen nu arbeiders uit Portugal aan. En nemen een aantal taallessen en andere dingen. Het zou wel naar opleidingen kunnen gaan voor die specifieke profielen. Ja, het zou kunnen zijn dat ik iemand vind die als je dan iets doet, die mist wel een stuk, maar we kunnen mijn opleiding wel of mijn jaarprogramma daarop afstemmen. Ja. Het zou ook een oplossing kunnen zijn. Ja. De oplossing, iemand die... ja. De headhunters zetten nu niet altijd mijn tarief neer, maar die slagen er ook niet altijd in om de juiste mensen aan te leveren.
+
+STIJN: Ja, ja, oké. Er zijn mensen die zeggen: ik weet niet meer wie ik ben buiten mijn rol. Anderen weten wie dat ze zijn, maar weten niet welke richting ze uitgaan. En nog anderen zeggen: ik weet het, maar ik doe het gewoon niet. Hoe zit dat bij jou?
+
+ALAN: Zo in de zin van, ja, ik weet eigenlijk wel wat ik zou moeten doen, nu in dit geval. Maar ik blijf gewoon koppig doen wat ik wil doen. Snap je?
+
+STIJN: Ja, koppigheid is een beetje aanwezig. Dat laatste, ja? Ja, dan heb je ook de neiging om gelijk te halen. Ik vind dat niet altijd een goede zaak. Ik vond dat er vroeger veel meer strijdvaders in zat. Ik vind dat nu niet meer zo altijd.
+
+ALAN: Ja, maar dat wil dus eigenlijk wel zeggen, als jij dat zegt als bedrijfsleider: oké, we gaan het zo doen, omdat ik het zo wil doen gewoon. Nou nee, dat is niet mijn stijl hè. Zo interpreteer ik het als je zou zeggen van de kop er doorzetten.
+
+STIJN: Nee, nee, nee, nee, nee. Ik ga veel meer mensen betrekken. Ja. Relatief transparant zijn, ook over de risico's. Het gevaar is dat zo'n mensen daar toch een beetje schrik van krijgen, het tegenovergestelde effect. Want ja, dan moet je ook aan alles zijn risico's vertellen. Maar ook om tot een gedragen visie- en actieplan te komen. Het heeft voor mij zelf niet uitgewerkt dat iemand zegt: je moet dat doen, waarom moet ik zeggen? Dat is eigenlijk voor mij al een goede reden om het niet te doen.
+
+ALAN: Ja, ja, ja. Dus dat ga ik zeker anderen niet aandoen.
+
+STIJN: Ja, ja, oké. Terwijl sommige mensen dat graag hebben. Ik heb mensen in mijn organisatie — arbeiders — die dolgraag zeggen wat ze moeten doen.
+
+ALAN: Oké, ja.
+
+STIJN: Oké, die worden door anderen aangestuurd, maar ik heb al mensen die dat hebben, maar dat is te werken voor mij. Dus mijn stijl is dan ook niet een... Is iets... Doe anderen niet aan wat je zelf niet wil aangedaan worden.
+
+ALAN: Ja, ja, ja. Oké. We hebben het daar net even over gehad — enerzijds het probleem van te weinig tijd en anderzijds dan de war for talent.
+
+STIJN: Ja.
+
+ALAN: Ik weet niet welk van de twee je als het meest prangende ziet. Maar...
+
+STIJN: Ze zijn aan elkaar gelinkt.
+
+ALAN: Ja. Dus het is eigenlijk wel... We vinden niet op tijd mensen, dat is vertraagd. En dus heb jij nog meer tijd die opgeslurpt wordt.
+
+STIJN: Ja, dat is een beetje het... En wat is het gevolg als dat probleem over twee jaar nog even groot is als vandaag?
+
+ALAN: Dat de risico's voor deze organisatie te groot worden. Voor mezelf — ik heb dat niet gemaakt. Dat maakt ook stel dat ik een beetje naar de heren kijk die nu afgesteld is omdat ze onder behandeling stonden. Een grote genezingskans, maar die besteedt nu al dat voor deze organisatie. Vandaag moest ik dat tegenkomen: geen handig probleem. De uitval van... Dus je bent zelf te veel onmisbaar.
+
+STIJN: Dat is de kwetsbaarheid. Dat is ook de eigen kwetsbaarheid van de organisatie. Dus ook de gegroeide organisatie robuust maken. Stijn is niet de organisatie. Dat is voor mij heel belangrijk. Veerkrachtig ook. Nee, ook omdat ik een half jaar geleden de keuze moest maken. Ik had twee keuzes. We waren verdubbeld. De locatie is ten einde: verkoop ik het en zoek ik iets anders. Of maken we de volgende sprong. Ja. En als ik het verkoop, laat ik het los. Aan zich heb ik daar geen issue mee. Maar je moet dan een nieuw project zoeken.
+
+ALAN: Ja, daar was eigenlijk niet... Ja, ik zie hier potentieel. Ik zie hier leuke dingen, ook al vragen die nu veel energie en tijd. Ik denk wel dat we dat in balans gaan krijgen.
+
+STIJN: Ja, oké. Als ik gedacht had van: ik ga dat nooit in balans krijgen, dan had ik het waarschijnlijk verkocht.
+
+ALAN: Ja, alright, helder. Goed, dan een paar andere vragen, maar daar kunnen we redelijk snel over gaan, want ik denk dat je daar eigenlijk al redelijk veel over gezegd hebt. Wat doe je fysiek om scherp te blijven of te ontladen? Ik heb u al horen spreken over lopen, fietsen.
+
+STIJN: Ja, en sociale gesprekken — dat is de kracht van de ontmoeting. Maar om fysiek scherp te blijven dan?
+
+ALAN: Fysiek ben ik niet zo scherp in de momenten. Zou eigenlijk wat meer willen sporten? Ja. Ik vind mijn schouderproblemen, wegens wat sportaccidenten in het verleden, die ik eigenlijk slecht gemanaged krijg. Ja, oké. Een schouder die vast zit dan?
+
+STIJN: Ik heb een schouder die te los zit en waar heel veel kraakbeen lag. Doordat het eruit gegaan is. Normaal is het te los vastzetten. Maar het kraakbeen gaat nog wat erger. Dus een schouder die ook wat mobiliteitsproblemen heeft. Het is geen geklemde zenuw ofzo, want ik heb dat gehad, een geklemde zenuw in mijn schouder, waardoor ik ook krachtsverlies had. Ik heb vooral wat mobiliteitsverlies en de oplossing is driedrmaandelijkse infiltratie. En eigenlijk denk ik: mocht ik meer tijd hebben, zou ik dat waarschijnlijk via meer gerichte oefeningen kunnen beter krijgen. Ik doe ook wat spier- of zo-oefeningen, maar ik maintain om het houdbaar te maken, maar dat ik het beter zou kunnen krijgen.
+
+ALAN: Heb je ooit iets geprobeerd waarbij je echt buiten je comfortzone moest? Fysiek of mentaal?
+
+STIJN: Ja, mijn vrouw is altijd af en toe zo van: eens uit die comfortzone. En wat leerde je dat over jezelf?
+
+ALAN: Ja, dat die dingen die je als moeilijk ervaart, omdat ze buiten je comfortzone liggen, en dus je er weg van blijft — dat het soms toch wel leuk is en toch niet zo moeilijk kan zijn. En je merkt ook dat je op bepaalde dingen... Dus de reden dat ze buiten je comfortzone liggen is dat je er beter van wegblijft. Het gaat twee kanten op. Soms denk ik van: waarom heb ik dat eigenlijk altijd vermeden? En soms denk ik van: dat was de reden dat je dat niet deed.
+
+STIJN: Want water, oceaan, zee, rivier — wat doet dat met je, als je er echt in zit of bij bent?
+
+ALAN: Dat is in onze natuur, dat is gewoon hoe dat we doen. Maar het is niet dat je zo een afkeer hebt van water ofzo. Maaike heeft dat heel sterk van water.
+
+STIJN: Nee, schappelijk. Nee, ik sup graag bijvoorbeeld. En mijn kinderen ook — die gaan duiken.
+
+ALAN: Heb jij eigenlijk al eens gesurfd?
+
+STIJN: Ik heb wel een paar keer zo'n initiatie gedaan, op vakantie. Behalve initiatie is dat dan ook wel gestopt. Maar ik vond dat wel leuk. Ja, het is fysiek uit de aard en dan merk je dat mijn core toch niet... Dus je ontdekt ook vaak jezelf.
+
+ALAN: En had je daar dan bijvoorbeeld wel het gevoel bij het surfen dat je daar vol focus mee bezig moest zijn?
+
+STIJN: Ja, je kunt dat niet half doen. Dus je bent daarmee gefocust op denken, voelen, balans. Dus als je aan het surfen bent, dan kun je je gedachten er eigenlijk niet bij hebben. Ja, oké.
+
+ALAN: Goed. Ik ga u iets meer vertellen nu. Ik wil mijn concept proberen te duiden. Dat is wel een beetje te verwachten eigenlijk.
+
+STIJN: Ja, mijn ding is waar ik momenteel op aan het werken ben.
+
+=========================================================
+DEEL 2 — CONCEPT PITCH EN FEEDBACK
+=========================================================
+
+ALAN: Eigenlijk, wacht hé, hoe ga ik het hier... Wacht, ga ik het nu zo doen? Ja. Ik ga een andere... Ik dacht dat ik nog een pitch had, ik ga het ook... Misschien... Ik ga even kijken wat er nu het best van is. Ik heb gewoon... Ah ja, hier, deze ga ik pakken.
+
+STIJN: Klopt hé. Klopt.
+
+ALAN: Dus ja, technologie versnelt exponentieel en dat verandert ook hoe we werken, hoe sectoren evolueren en hoe ons zenuwstelsel daarmee omgaat. Veel mensen die ik spreek, presteren nog uitstekend, maar voelen dat ze zichzelf wat kwijtgeraakt zijn in het tempo of toch soms. Wipe In — dat is nu de werknaam — bouwt trajecten voor mensen die zichzelf willen heruitvinden op een manier die vol te houden is en die hun talenten en wat ze kunnen betekenen voor anderen weer scherp stelt. Het begint met een diagnostic day, één dag individueel, in beweging en gesprek in de natuur, geen workshop, geen formulier. Op basis van wat geobserveerd wordt — hoe iemand omgaat met stilte, met het onverwachte, met het tempo — volgt er een concrete aanbeveling. Welke activiteit, welke bestemming en welke groep. Daarna volgt er een retreat van zeven dagen. Kleine groep, zes tot acht mensen, handpicked. Activiteit is prescriptief gekozen: surf voor wie moet leren loslaten, freediving voor wie stilte nodig heeft, en trekking voor wie het hoofd wil loskoppelen van prestatiedrang. De belofte is concreet: na zeven dagen weet je wat je werkelijk drijft, reageer je kalmer op wat je niet controleert, en pas je je aan zonder te verstarren. Dat is een beetje het idee.
+
+STIJN: Ja. En is het? En, ja. Wat is uw eerste reactie? Daarop.
+
+ALAN: Ik vind het leuk, zeker. Zeven dagen zal voor veel mensen niet zo evident zijn. Je vraagt relatief wat. Hartelijk. Ja. Op mijn... De zeven dagen is voor veel mensen... Ja. Nee, niet te lang, maar niet zo evident — dat vergt commitment. Dus, dat ding, de kracht zal zijn in een homogene groep of, hoe te klikken. De selectie van... Uit die wandeling merk je dat als je daarin de kracht hebt van: kijk, we gaan uw wandeling... Ze geven zo wat topics over wat zij weten van wat aanraken. Vertrek en wandeling in tweeën. Dus alles zit daarin van: hoe match ik dat? Hoe krijg ik dat? Want uw instroom is breed.
+
+STIJN: En wel, misschien heb ik dat vergeten te duiden — dan moet ik misschien nog even zeggen van hoe ik het nu zie, op dit moment, maar dat kan evolueren. Dat is dat ik mij richt op ondernemers en senior professionals, wel C-levels, echt een leiderschapspositie. Typisch 35-55, maar ik doe de leeftijd er niet zoveel toe, het gaat meer over: heb je controle over je agenda en over je budget? Die uitstekend blijven presteren, maar wel merken dat hun verhaal wat bijstelling vraagt. Dus echt ondernemers die op een inflectiepunt zitten of zo'n kantelpunt, dat ze zeggen van: ik moet even terug afstand nemen, tot mijzelf komen en zien wat mijn volgende stap gaat zijn.
+
+ALAN: Ja, in trekking zie ik het zeker, omdat je daar nog wel groepsdynamiek hebt. Het duiken, het gaan duiken zit je een stuk alleen. Dus dat is natuurlijk voor en na. Dus de activiteit zelf, hoe ik het nu zie, maar dat kan allemaal nog ingevuld worden, is dat elke ochtend bijvoorbeeld doe je de activiteit en dat dan de rest van de dag andere zaken zijn. Ik fiets bij iedereen, omdat ik mee kan babbelen, maar je rijdt naast elkaar, je hebt tijd om te babbelen. Bij sommige mensen komt het een leuk gesprek, bij sommige mensen is dat een gesprek om snel te vergeten, maar dat is niet opgelegd. Maar je moet ook tijd hebben om te babbelen. Dus met het surfen ben je vooral bezig met dat water, die golven, wat komt er. Dus in die trekking zie ik het zeker, omdat je daar de ruimtes hebt. Als je dat doet, dan moet je dus een gedragsverandering of een bewustwording nastreven. De vraag is: is er daarna nog wat ik noemde — nazorg? Dat is typisch, kom je uit een opleiding: yes, daar ben ik op gaan werken. Snap je? Je moet gewoon, daar bots ik toch wel op vast. Het ding dat belangrijk is dat je een trap kunt maken, maar daar maak ik geen progressie. Hoe komt dat? Dus dat er een soort van terugkoppeling is nadien of dat je toch technieken of tools meekrijgt om ook nadien nog toe te passen?
+
+STIJN: Ja, mensen herkennen dat er ergens iets aan moet gewerkt worden, anders stappen ze dat niet in. Je hoopt dat ding te ontrafelen of je op weg te zijn, en dat je er op weg zit. En misschien houdt het nog eens wat steun nodig, een sparringpartner die op de hoogte is.
+
+ALAN: Ik ga het even heel kort uitleggen hoe ik het in eerste instantie zag. Er is ondertussen al wat feedback geweest van een aantal mensen, maar ik ga het u even vertellen zoals het initieel was. Dus die intake, dat is op voorhand een wandeling van bijvoorbeeld anderhalf uur, dan een formele lunch en dan een verdiepingsgesprek van anderhalf uur. En dat zit op de dag. En op basis daarvan is de aanbeveling. Dan heb je een soort van warm-up periode in afwachting van je retreat. Dat is altijd wel op locatie. Dus mijn focus zou in eerste instantie liggen op het surfen. Maar ik zeg het op zich: kan die activiteit variëren. Maar dat zou bijvoorbeeld in Marokko kunnen zijn. Of Lombok of Sri Lanka. Maar dat is al verder natuurlijk. Zeker voor een week.
+
+STIJN: Ja, maar de drempel is veel groter.
+
+ALAN: Ja, en dan bijvoorbeeld de retreat. Ja, dus in die warm-up periode — je hebt bijvoorbeeld al one-to-one gesprekken, dan heb je wel een leesoefening of zoiets, of misschien zelfs iets van fysieke voorbereiding om te doen. En dan heb je de retreat, zes tot acht dagen, zes tot acht deelnemers, waar je in de ochtend altijd je activiteit hebt, bijvoorbeeld surfen. In de namiddag dan een reflectiesessie, of ademwerk of wat dan ook, yoga, meditatie. Waarbij dat er dan ook altijd bijvoorbeeld een coach is, een somatische coach, die niet zozeer coacht vanuit het cognitieve, maar eerder zo gaat voelen waar de spanning in, die we in ons lijf hebben gezet, vastgezet — en daar eigenlijk een stuk ook op gaan werken. Voilà, en dat zou dan inderdaad het programma zijn. De avonden zijn vrij of dan doe je er gewoon uitstappen — een keer de sterrenhemel of een kampvuur op het strand met de gitaar. Dat soort dingen. Dus je zou kunnen zeggen: het heeft wel iets van een surfkamp ook, alleen zit er dan dat coaching aspect nog bij. Kan zowel individuele coaching zijn of in groep. Dat zou ik wel eens willen horen van jou, hoe je daar tegenover staat. En dan eventueel nadien een soort van alumni platform of membership, dat dan de nazorg — om het zo te zeggen — dat je op vaste tijden bijvoorbeeld nog een keer samenkomt of dat je ook onderling met elkaar nog kunt bonden of dat soort dingen. Dus, voilà. Dus dat was eigenlijk een beetje het oorspronkelijke ding. Het idee is een stukje van ja, regeneratief, gericht op actief herstel, positieve impact, een stukje systemisch denken, ook give back. Die immersieve is ja echt de onderdompeling in de oceaan. Dus intensief integraal leren, ervaringsgebaseerd is heel sterk. Dus het idee vooral is even terug te herconnecteren met de natuur, met jezelf, op een bijzondere bestemming. En dus de buitenactiviteit is eigenlijk eerder de katalysator of het middel om dat te gaan doen. En dan begeleid hij dus coaching op maat, somatisch eventueel. Dat was een beetje het oorspronkelijke. Je hebt een achttal mensen. Hoeveel coaches zie je dan?
+
+STIJN: Want als dat op locatie is, dan moet ook de coaching ook op locatie zijn.
+
+ALAN: Ja, wel, dat is op dit moment nog niet helemaal ingevuld inderdaad. Het idee zou zijn — allee, zoals ik het nu zag, is dat je bijvoorbeeld, stel dat we naar een plek in Marokko gaan, dat dan een heel uitzonderlijke locatie is, die ik op voorhand al gespot heb en gecureerd heb, die zeker past. Want het is redelijk high-end gepositioneerd. Dus dat is niet iets dat je gewoon standaard van Booking of van Airbnb kan boeken. Echt wel met lokale mensen die gewoon de hele accommodatie uitbaten, om het zo te zeggen. Ook lokale mensen voor de surfcoaching bijvoorbeeld. Dus mensen die gewoon zijn van in het water te zitten en misschien ook wel een certificaat hebben van internationaal. En dan bijvoorbeeld die somatische coach — dat zou iemand kunnen zijn die ik echt specifiek meebreng van hier. Die daar is en die ook beschikbaar is, soms one-to-one, maar die ook misschien bepaalde collectieve sessies gaat doen. Dus dat is eigenlijk op dit moment nog niet helemaal ingevuld.
+
+STIJN: Ja, dan moet je een balans krijgen: hoeveel coaches heb ik nodig? Want als opeens heel veel mensen individuele sessies nodig hebben, en je bent er misschien maar twee, dan wordt dat tijdsgewijs moeilijk om te managen, of moet je die sessies kort maken. Dus dat is een beetje wat ik denk — dat moet een balans vinden. We zouden kunnen kijken: ofwel doen we in de namiddag een bepaalde activiteit in de buurt, dan is er altijd iemand die afzonderlijk met de coach even bezig is. Dan gaat hij nooit met het volledige team. 's Avonds dan misschien wel voor het diner of zo. Dat zijn dingen die nog ingevuld moeten worden, maar wat ik in eerste instantie van jou zou willen weten is: dat coaching aspect op zich, vind je dat interessant en vind je dat een meerwaarde of niet?
+
+ALAN: Ja, omdat het mij een beetje doet denken aan wat In September doet, waar ik persoonlijk positief tegenover sta. Het is wel zo, wat je hebt, is dat ik zie heel weinig conversatieve mensen. Dus mensen die een bepaald budget hebben, die een bepaalde leeftijd hebben. Dus er zijn avonturiers in Marokko. Dat is voor jou zeer evident, voor mij ook evidenter, maar voor heel veel mensen is dat: Marokko, buiten Europa. Ik denk dat dat barrières opschept voor sommige mensen. De vraag is of als je de juiste mensen bereikt, of dat je niet wat meer mensen zoekt die niet die barrières ervaren. Dus ja, ik kom mij voor te stellen hoe dat In September het deed. Maar je verwacht dus inderdaad dat er een vrij grote groep van mensen zal zijn die misschien gaat afhaken, ofwel op de bestemming ofwel op de activiteit?
+
+STIJN: Ja, ik denk, ik ken wel wat leeftijdsgenoten van ons die eigenlijk wat met zichzelf aan het worstelen zijn. Zouden ze tot de doelgroep kunnen behoren? Ondernemers of mensen op C-level in organisaties die zichzelf de vraag stellen: ik ben nu 50. Ik ben over de helft, maar ik moet nog geen eind. Kan ik dit volhouden? Hoe wil ik dat vormgeven? Dat is een typische levensfase. Dat mannen dan de jonge porsche pakken. Allee, dat is een typisch ding waarbij men zichzelf die vragen stelt. 35 jaar zijn we vaak bezig: gezin opbouwen, blauw zijn, bezig met de balans: hoe krijg ik mijn carrière en mijn gezin in elkaar geplooid. Maar die vragen zou dat voor... Ik ken een aantal vrouwen, die ik niet meteen kan benoemen, maar dat is misschien aan mij — ze zijn weinig sportief. En dan, ja, een vrouw had ook veel meer moeten nadenken van: hoe ga je rust in zo'n week vinden? Ja, ja. Dat zijn allemaal dingen die wel meespelen.
+
+ALAN: Als je ook, als ik gewoon met een vrouw... Ik heb altijd veel meer mannelijke avonturiers, die zeggen: we doen dat. Dus dat is een beetje wat je allemaal pikt — hoe je dat zorg genoeg brengt, als je dan mee groeit in het enthousiasme, om dat inspirerend te maken. Sommige mannen zeggen: yes, ik heb zo'n hoofd gesteld, zo'n hoofd, fucking. Dat is een beetje — maar hoe communiceer je dat, hoe breng je dat, wat voor verwachtingspatroon creëer je er rond. Dat zijn dingen die bepaalde mensen die er nooit aan hebben kunnen doen laten afhaken, ook al is het een fantastisch idee.
+
+STIJN: Ja, oké. Ik ben er dus ook over hoe je dat brengt. Ik had er ook met Nathalie van In September over gehad bij die wandeling. Zij zei: ja, iedereen kan wandelen. Er is niemand die kan zeggen: 5 kilometer wandelen, dat kan ik niet. Zijn er mensen die niet kunnen, maar die zijn zeldzaam. Dus als je het te sportief maakt of te uitdagend maakt, gaan mensen die wel geïnteresseerd zijn in de coaching, misschien zeggen van: goh, dat sportieve luik is misschien een beetje te hoog gegrepen voor mij. Dus het is begrijpbaar waarom je het doet. Het idee van het surfen had ook te maken met — trekking heb je dan misschien iets minder — of met wandelen. Dat is heel open om het zo te zeggen, dus iedereen kan het effectief, maar je zit veel meer in je hoofd. Terwijl met surfen of freediving — het zijn meer extreme sporten als ik het zo mag zeggen — dus je bent veel meer verplicht om te focussen op de activiteit en volledig in de natuurlijke ervaring te gaan. En dat is ook de reden waarom ik dat soort activiteiten gekozen heb, eerder dan fietsen of wandelen of wat dan ook.
+
+ALAN: Maar, allee ja, ik... Nee, maar ik ben gewoon met je mee. Het is niet defensief bedoeld.
+
+STIJN: Nee, nee, nee, nee, maar ik denk van: kijk, mij spreekt het aan. Ja. Maar net omdat het mij aanspreekt, gaat het heel veel mensen niet aanspreken. Ja. Dat is eigenlijk wat ik wil zeggen. Dus het is een beetje... De vraag is vooral: is de niche groot genoeg? Zien genoeg mensen zich daartoe in staat en vinden ze de combinatie haalbaar voor zichzelf?
+
+ALAN: Ja. Ja. Ik denk dat dat... En je wilt ook even, als je eronder gaat in het hoofd, dan moet je even proberen er bovenaan aan te komen en lucht te zoeken. Dat doet je basale overlevingsdrang.
+
+STIJN: Ik ga je misschien een beetje feedback geven van wat ik tot nu toe al gehoord heb — ik heb nog twee of drietal andere mannelijke ondernemers gesproken. En wat ik voel daarin is dat die coaching, zeker in groep of wat dan ook, dat dat echt een drempel is voor velen. Dat je zoiets hebt van: oh nee, dat is niet voor mij. Ofwel doen we coaching gewoon individueel in een vergadersetting of wandelsetting of wat dan ook. Ofwel gaan we surfen. Maar dan is het surfen ook gewoon surfen en dan gaan we voluit in de activiteit. En dan hoeft die coaching allemaal niet — maakt er dan gewoon een enorm intensieve en uitzonderlijke Surf Life ervaring van, dat je echt het surfleven ervaart gedurende een week in al zijn facetten. Wat wil zeggen dat je deep dive, meditatie, yoga — dat alles staat in functie van die activiteit, het surfen — en doet dat gewoon en laat mensen zelf hun conclusies trekken. Want mijn initieel idee was ook van transformatietrajecten. Maar de feedback kwam ook van: ja, op een week tijd, hoe ga jij nu transformatie kunnen realiseren? Bovendien: mensen beslissen zelf of ze willen transformeren of niet, op het moment dat het hen uitkomt. Je kunt dat niet commercialiseren. Het enige wat je kunt doen is gewoon de activiteit aanbieden, waardoor misschien bepaalde mensen wel gaan zeggen van: oké, het heeft iets getriggerd bij mij en ik ga hier wat verder op ingaan.
+
+ALAN: Beide hebben een kracht. Individuele coaching is een kracht. Coaching met wat meer, omdat uit die interacties en mensen die, ondanks hetzelfde topic, er anders naar kijken, u inzichten kunnen geven die vaak minder belerend overkomen. Die keek er zo naar. Misschien heb je toch nog geen slechte gedachte. Dat is zeer weinig invasief en zeer weinig belerend. Maar het is dan een coach die zegt: ik ga je een beetje helpen. Of een coach kan erop inpakken. Beiden hebben hun kracht. Als de groep groot wordt, wordt het heel moeilijk om dieper te gaan. Want mensen zeggen: dit komt te veel in mijn privésfeer. Die andere zeven rond de tafel wil ik dat niet mee delen. Of rond het kampvuur.
+
+STIJN: Ja, ja, ja. Ik denk dat een beetje... Zou jij geneigd zijn? De intake is sowieso individueel. Je hebt dan in een retreat, oké, je komt in de activiteit enzovoort. Je bouwt stilaan, een beetje een band op. Je gaat waarschijnlijk niet met iedereen even intensief zijn. Maar zou jij je kunnen voorstellen in zo'n setting dat je wel bepaalde zaken waar je mee worstelt of wat dan ook deelt in de groep? Of zoiets van: nee, dat is alleen individueel?
+
+ALAN: Dat is een kleine groep, als we gaan kijken: we hebben een aantal mensen die eigenlijk met datzelfde worstelen of hetzelfde beetje vastlopen. Laten we zelf maar kijken, we gaan er anders werken en we weten wat jullie kunnen. En twee, drie personen, want als je te veel hebt, wordt de interactie ook moeilijk. Ja, dus twee, drie is voor mij het maximum eigenlijk.
+
+STIJN: Ja, om dan ook, dan kun je ook erop ingaan. Je kunt zeggen: oké, jij zegt dat, en kun je daar door twee verschillende standpunten, of twee verschillende opinies daarin, of twee verschillende gevoelens die je daarin hebt, op gaan. Natuurlijk als dat met acht is, dan zijn er te veel andere mensen. Dan wordt dat moeilijk, dan start dat gesprek niet. Het is belangrijk om heel goed op voorhand te selecteren dat je mensen zet die... Die eigenlijk met een aantal topics, en sommigen gaan zeggen: ik wil dat met iemand delen. Dan kun je kijken: we hebben mensen die daar rond willen praten en dan kun je zien dat sommigen opengaan en sommigen niks zeggen.
+
+ALAN: Maar stel nu — want ik heb zo een keer even fictief, of een beetje met hulp van AI, een aantal persona's gegenereerd, die zouden kunnen in aanmerking komen. Eén was bijvoorbeeld een ondernemer of een onderneemster die haar staatsbedrijf verkocht heeft en plots eigenlijk in identiteitscrisis komt, omdat ze zich altijd voor honderd procent had vereenzelvigd met haar bedrijf en plots is dat bedrijf verkocht. Oké, what's next? Dat zou iemand kunnen zijn. Kun je die dan samenzetten met bijvoorbeeld iemand die in een leiderschapsrol al 15 of 20 jaar in dezelfde organisatie werkt, al ik weet hoeveel jaar herstructureringen heeft meegemaakt, maar eigenlijk voelt dat ze eigenlijk wel aan het leeglopen is of richting een burn-out aan het gaan is. En dan iemand die misschien, ja, nog perfect functioneert, maar eigenlijk een beetje een leeg gevoel heeft, omdat er meer en meer geautomatiseerd wordt en die zich afvraagt van: oké, wat doe ik hier nog, wat is mijn meerwaarde? Of nog: niet te groot en je verliest je impact, of je hebt het gevoel dat je geen impact meer hebt op de richting. Die mensen zichzelf in vraag laten stellen. Zijn dat mensen die je volgens jou kunt samenzetten of zijn dat drie verschillende profielen?
+
+STIJN: Er zijn bepaalde topics misschien wel, maar het gaat over liefde, over iemand die al vijf jaar dezelfde job heeft, iemand die vijf jaar zijn bedrijf heeft en vijf jaar het heeft verkocht, die snel op zoek is naar iets nieuws. En de ene staat erin van: ik ben eigenlijk wel een beetje verbonden met die organisatie. En de andere zegt: ik heb dat eerst met die organisatie losgelaten. Dus het kantelpunt is wel het verbindende aspect eigenlijk.
+
+ALAN: Ja, en dan, soms gaat het zo dat het zo ver uit elkaar ligt, dat het samenbrengen geen zin heeft. En soms gaat er dan vandoor, ja eigenlijk, ook al zijn dat heel andere sectoren, en die sector is niet zo uniek als die altijd is. We denken normaal als mensen dat ze heel uniek zijn. We zijn een kind van onze tijd, we denken zoals we opgevoed zijn. Dus ja, zoals je niet altijd zegt: zijn we toch niet altijd zo uniek. We hebben ook heel wat patronen die terugkomen. Je hebt na het al — en geen twee gevallen zijn hetzelfde en dat is misschien heel verschillend, maar een aantal deelcomponenten kunnen, niet altijd scherp, maar er zou toch genoeg overlap kunnen zijn. Maar als je allemaal zoekt met mensen die net hun bedrijf verkocht hebben en op zoek zijn naar iets nieuws, dan is het een moeilijke poel om in te vissen.
+
+STIJN: Ja, ja, inderdaad. En de coaching zelf — wat zijn uw verwachtingen daarin? Eerder cognitief of meer somatisch?
+
+ALAN: Voor mezelf de combinatie. Ik doe aan jouw lichaam denken, omdat je dan op ademhaling focust, op dat soort... Ik hou graag naar de kinesist, omdat die bepaalde punten die vastzitten, die voel je een stuk een beetje herboren. Je hebt dat al aangeprezen, ja. Ja, precies. Dus, ik sta ervoor open. Dus een beetje, ik vind ademhalingsoefeningen en gekoppeld daaraan, eigenlijk wel goed. Yoga is daarin gegrond.
+
+STIJN: Ja, alweer het is interessant om te horen dat je dat zegt, want persoonlijk vind ik dat zelf ook. Dus ik heb inderdaad al met een aantal ondernemers gebabbeld, die zeiden van: ja nee, dat is te... ik ga dat niet in groepen doen, ik ga dat niet opstaan. Ik weet dat, In September is er een keer een dagvullende sessie gedaan. En er zat ook een yogasessie in. En dan zie je het grote verschil. Er doen meer vrouwen aan yoga dan mannen. Dus er waren heel veel vrouwen van: ah yoga, ja. En dan had je zo van mannen: wow, yoga. Dat is toch niet voor mij? Ehm, doe jij yoga?
+
+ALAN: Ik doe af en toe yoga. Oeh, doe je af en toe yoga. Dat hangt veel af van je omgeving, hoe dat iedereen ook fantastische ervaringen terugkwam. Voor sommige mensen is een yogasessie ver uit hun comfortzone. Dat is voor iemand anders perfect in zijn comfortzone. Maar dat is wel leuk om te zien dat... En dat is van mensen van: dat was nog zo slecht niet. Het lijkt wel bijna alsof dat een criterium zou kunnen zijn om te selecteren van: die gaan meegaan of die gaan niet meegaan. Mannen die yoga willen doen of daar voor openstaan, die gaan waarschijnlijk ook openstaan voor coaching enzovoort. Niet noodzakelijk, maar mensen die... het gaat om hoe ver komt die yoga in zijn comfortzone. Als je al je leven enkel competitieve sporten gedaan hebt om voor jezelf of met je team de beste punten te scoren, dan is yoga buiten comfortzone.
+
+STIJN: Yoga gaat niet om: ik kan het ver voorover buigen, dat gaat yoga niet.
+
+ALAN: Ja, ja, nee, nee, nee, het is dat. Maar veel mensen denken dat wel. Dan zie je die zo. Maar dat gaat dan niet om, het gaat niet om hoe lenig dat je bent. Nee, nee, absoluut. Maar mensen die nooit yoga hebben gedaan, denken dat dat zo is.
+
+STIJN: Nee, nee. Maar goed, ja, dat kun je wel allemaal uitleggen, maar ze moeten wel openstaan om dat te doen natuurlijk.
+
+ALAN: Ja. Wacht, je kunt starten met ademhalingsoefeningen. Ja, dat is zo. Dan heb je mijn vrienden in het gras aanlopen en dan ben je eigenlijk al een beetje yoga aan het doen zonder dat je het weet. Allee, een truc om mensen yoga te laten doen zonder dat ze het beseffen. Maar wat zijn uw verwachtingen rond de coach? Allee, ik wil zeggen van: ja, je hebt heel veel coaches natuurlijk. Mensen die, op zich kan bij wijze van spreken iedereen zeggen dat die coach is. Wat is er voor jou nodig om geloofwaardig te zijn? Of stel dat ik zeg van: oké, het is mijn coaching — wat is het aspect dat u kan overtuigen om te zeggen: oké, dit zie ik wel zitten? Of: nee, hier haak ik op af?
+
+STIJN: Het is niet zo makkelijk om te antwoorden, ga ik eerlijk zijn. Het makkelijke antwoord is: als coach, waar je je wel voor openstelt, waar je een soort klik of een soort vertrouwen voelt. Wat dat bepaalt, dat je in je hoofd zegt: ik ga mij openstellen — is denk ik voor iedereen een beetje anders. Als je aan mij zit te vragen, wat moet er dan zijn? Voor mij is dat een coach die niet belerend is, maar die door een halve vraag te stellen, bij een half punt, je een beetje in de spiegel voorhoudt. En zie je dat als iemand die heel ervaren moet zijn en al een stuk verder staat in zijn traject dan u? Of kan er bij wijze van spreken iemand zijn die ook al een traject doorlopen heeft, maar misschien een stapje verder staat?
+
+ALAN: Dat moet voor mij geen grijze sjamaan zijn. Dat kan evengoed een jonge gast zijn. Zelfs jonger als u — dat zou op zich geen probleem zijn.
+
+STIJN: Oké, en ja, en die ja... Ik zou eigenlijk, je hoeft geen ICF-diploma te hebben, internationaal coaching certificaat, voor mij niet, want aan diploma's of certificaten en papieren hecht ik minder waarde. Echt nee. Het is vooral iets waar je je comfortabel bij bent. En voor sommige mensen moet dat een grijze sjamaan zijn, met dat vertrouwen en zo'n baard. Men mag dat een jonge blonde sjamaan zijn, dat maakt mij niet zozeer uit. Maar het is zo iemand, ja... Maar je moet wel het gevoel hebben van: die heeft toch op een bepaald niveau meer ervaring dan jij, of kan meer helpen. En bij voorkeur ook uw taal spreken?
+
+ALAN: Ja, ik denk dat dat wel. Ja, ik denk dat taal... Taal is vooral als je dan dingen wilt benoemen en je moet te hard zoeken van hoe zou je het in het Engels verwoorden, hoe ga ik dat juist brengen. Als het niet je moedertaal is, is dat moeilijker hé. En ook van: eigenlijk de nuance en hoe dat iets niet zo evident is. En de assumptie dat bij iedereen zijn Engels goed is, ook al is dat een CEO — die zou ik niet maken.
+
+STIJN: Ja, dat is goed. Die zou ik eigenlijk niet maken. Ja, dat heb ik... En voor het intakegesprek, stel nu — ik ben maar even hypothetisch bezig, en je mocht heel eerlijk zijn daarin — stel dat ik het intakegesprek zou doen, zou dat voor jou oké zijn? Of zou jij zoiets hebben van: nee, dat moet echt iemand zijn die coachingervaring heeft? Ik heb wel wat coachingervaring, maar ik heb daar geen formeel diploma van.
+
+ALAN: Nee, nee, maar ik denk, voor mij geloof ik werkelijk in dit gesprek. Als je zegt: we hebben meerdere coaches, dat je op zijn minst twee van die coaches in dat intakegesprek ziet. Dat je ook zelf een beetje het is: elkaar leren kennen van twee kanten ook. Maar zou je dat niet intimiderend vinden als er twee mensen naast je staan, bij wijze van spreken?
+
+STIJN: Wie zegt dat er altijd twee moeten... Ah ja, zo. Ah, zou je dat altijd kunnen doen? Ja. Zeker. Hoe haalbaar dat is, heb ik geen idee van, maar dat is ook een kunst van: kijk, we gaan er zo aan. Kijk straks doet er nog iemand anders... Ja, het zal iemand anders zijn die dan... En dan kunt u dat samen doen, of kunt u ook samen een stukje partner-coaching doen? Dat je een stukje meer op het cognitieve werkt, en een stukje meer op het lichamelijke, bijvoorbeeld.
+
+ALAN: Ja, ik moet dat zo zeggen: dat is eigenlijk wat je... Ja, omdat de meeste mensen zijn van: ik wil eigenlijk een intake. Je weet dat ze naar je gaan in dat gesprek heel facetten openzetten. Dus doordat we het eindelijk met meer doen, geef je de mogelijkheid van: we gaan op verschillende facetten gaan werken. En uw persoonlijke interesse en ervaring ligt meer misschien in één facet. Terwijl dat voor een kandidaat heel relevant kan zijn, maar dat ander facet is voor mij belangrijker. Dat weet je op die manier. Ja, dat is dat. Dus ik zou dat als een meerwaarde percipiëren dat je bij de intake misschien meer dan één persoon doet.
+
+STIJN: En bestemmingen? Want je sprak daarnet over Europa, Marokko is net buiten Europa. Je hebt gesproken over de duur van de bestemming. Heb je daar bepaalde zaken over dat je daarin wil kwijt? Dit wel of dit niet?
+
+ALAN: Als je al twee dagen aan het reizen bent, dan wordt dat de weg te veel. En zou het logisch kunnen zijn dat je zegt: oké, de trajecten naar Marokko bijvoorbeeld zijn 5-7 dagen? Ga je naar Lombok bij wijze van spreken, dan is het minimum 2 weken, ofzo, of 10 dagen. Maar dat wordt natuurlijk wel al heel lang om niet op je bedrijf aanwezig te zijn.
+
+STIJN: Ja, het is altijd... Soms is dat goed dat er een afstand is, omdat dat de afstand soms wat mogelijkheid creëert. Zou dat voor u een meerwaarde zijn? Van zo verder weg te zijn?
+
+ALAN: Goh, niet noodzakelijk. Ik denk dat het veel belangrijker is de setting waarin je terechtkomt. Of dat nu Marokko is, of dat nu Lombok is, of dat dat een ander Aziatisch land is, of dat dat Zuid-Afrika is, bij wijze van spreken. Ik denk dat het verhaal is: de locatie moet het juist faciliteren. Maar het is niet zo dat je zou zeggen van: ah, Marokko — nee, dan haak ik af. Maar Bali of Lombok ofzo, dat zou ik wel zien zitten als alternatief. Nee, uiteindelijk ja, de mensen die je gaat aantrekken: als je zegt we gaan surfen, dan gaat dat ook mensen aantrekken die nog nooit gesurfd hebben, of die al één keer hebben gesurfd.
+
+STIJN: Ja, wel, het is inderdaad nul tot drie jaar, het is niet mensen die al jaren surfen. Het is niet dat we zeggen: we gaan naar Nazaré voor de big wave-sessie. Allee, dat is een ander publiek, hè?
+
+ALAN: Ja, ja, absoluut. Allee, ik denk dat het vooral is van: je kunt, je moet alles ook wel bekijken, dat je kunt zeggen: als we ze surfen, zijn er mensen die nog niet kunnen surfen en mensen die al een beetje kunnen surfen, dat die beide daar een beetje weg kunnen.
+
+STIJN: Ja, sowieso, maar daar kun je wel op richten. Marokko is september-oktober goed voor beginners.
+
+ALAN: Ja, dat moet je alles voor bekijken. Voor jou, als jij gaat zetten, is dat belangrijk. Vaak is de locatie bepaald door het type golf. Ik denk dat dat voor beginners... voor beginners is dat minder gevaarlijk.
+
+STIJN: Ja, het is dat. Nee, oké, goed. Ik ga misschien heel snel, want we zijn eigenlijk al wel lang bezig. En jij moet ook bijna naar huis. Als je geen visie wilt hebben met mij. Maar ik ga misschien, als het goed is, nog snel een paar dingetjes aftoetsen. Gewoon activiteiten waarderen. Surfcoaching, ja of nee?
+
+ALAN: Ja.
+
+STIJN: Ja? Oké. Breathwork — hoe moet je je dat voorstellen? Gestructureerd ademen voor focus en herstel. Dus oefeningen echt...
+
+ALAN: Ja, dat is wel...
+
+STIJN: Cold exposure, dus een beetje Wim Hof-achtig, even in de kou.
+
+ALAN: Dat is voor mij minder aangenaam, maar als je zegt van: ben ik een couch potato en ik wil dat even zien en welk drempel dat licht brengt, is dat wel een goede. Ja, nee, vraagteken. Ja, eigenlijk wel, maar ertussen. Ik zal tussen ja en nee zetten.
+
+STIJN: Facilitatie, reflectie, begeleiden groepsgesprekken — wat bracht de dag naar boven?
+
+ALAN: Ja, groepsgesprekken — wat bracht de dag naar boven — dat is een beetje de balans zoeken, want als mensen gerichte vragen hebben, mensen hebben veel uitgehad, maar misschien is dat voor hen persoonlijk en niet zo noodzakelijk dat je het recht van de groep moet weten. Dat is een beetje wat voor die persoon een big deal zou kunnen zijn — want de rest zou kunnen zijn van: is dat jouw big deal? Worst case scenario: dan wordt die van even terug weer weggeblazen. Eerder niet? Ik denk, ja, kleine groep, maar de hele groep samen, een therapie, een groepstherapie — zoals in Amerikaanse context, die uitwisseling — dat zie ik niet gaan in Europa. Dat is niet zo goed gedaan.
+
+STIJN: Oké, goed, dus twee à drie had je gezegd, hè.
+
+ALAN: Oké. Individuele begeleiding, lichaamsgerichte sessie op basis van wat de week vraagt.
+
+STIJN: Ja, dat gaat automatisch komen. Mensen hebben zich een beetje overbelast fysiek. Dan... ik dacht dat ze toch... En dan... ik ga misschien niet meer gaan surfen, want ik heb veel lasten en veel pijn. Dus tegen de zin van relief — van massage of dit of dat. Ja, oké.
+
+ALAN: Community service — daar heb ik eigenlijk nog niet over gesproken, maar dat is eigenlijk vanuit het idee van: oké, je zit ergens in een lokale community. Als je het een beetje regeneratief wilt bekijken — oké, je wilt iets meer teruggeven dan dat je genomen hebt, als ik het zo mag zeggen. Staat er iets voor hulp, bijvoorbeeld. Nou ja, dat kan van alles zijn. Dat kan beachcleaning zijn bij wijze van spreken. Dat kan zijn dat je een keer een lokaal project gaat bezoeken dat regeneratief is en waar de mogelijkheid is om te investeren, als je daar interesse voor hebt. Dat je dat zeker zegt. Dat je ook los bent voor jezelf bezig, maar dat je dat ook een soort sociaal...
+
+STIJN: Ja, dat zou je niet afschrikken. Nee, ik denk een beetje van handen in het werk steken met mensen, dat werkt wel. Maar een plek gaan bezoeken om die mensen die met schulden zitten wat te steunen, ook wel eens onrealistisch, is soms misschien wat opgelegd.
+
+ALAN: Ja, oké. Persoonlijk afrondingsgesprek, integratiegesprek op de laatste dag?
+
+STIJN: Ja, ik denk dat je sowieso... je moet met je, iemand is met een bepaalde doelstelling of ding, moet je op het einde toch een retrospectie doen van: ja, heeft dit nu geholpen? En ook van: is er verdere nazorg, of wat voor nazorg? Is er een natraject noodzakelijk, of gewenst, of komen er ideeën terug om te kunnen zijn dat die van die groep zeggen: ja, al de max, kunnen we dat binnen zes maanden opnieuw doen?
+
+ALAN: Ja, dat gaat. Dat moet je activeren. Het was zo bijzonder, ik wilde hem in zes maanden tot u anders. Wanneer kan dat hier? Ik heb ook al mensen gehoord die zeiden van ja, die in dienstverband werken maar een beperkt aantal vakantiedagen per jaar hebben. Die zeggen: ja, die dagen gebruik ik dan liever om met mijn familie weg te gaan. Dat is niet echt een issue voor u?
+
+STIJN: Nee, maar dus, je hebt daar een geval van in bezit en je hebt daar een geval van jezelf bestrijden.
+
+ALAN: Oké, en wat ik ook al gehoord heb als bezwaar, wat ik zelf ook al gemerkt heb, is dat bij jongere ondernemers soms het aspect van jonge kinderen wel nog speelt. En dat denk ik ook, want dat was een beetje mijn ding. Ik heb tot nu toe alleen maar mannen gesproken, maar ik denk dat over het algemeen vrouwen veel meer openstaan voor ook het coaching-aspect. Dat schijnt gewoon al zo te zijn. Er zijn veel meer activiteiten die coachen en surfen combineren voor vrouwen, veel jongere vrouwen ook. Maar die zitten natuurlijk ook vaak met het aspect van de kinderen, dat toch wel vaak nog veel meer speelt voor een vrouw dan voor een man om weg te gaan. Wel jongere vrouwen — ik heb al in mijn leven, mijn kinderen hebben niet meer zo echt mij nodig. Ze hebben hun eigen leven, dat is hun eigen leven leiden, en dat moeten ze ook zijn, maar ze moeten niet altijd meer bij mij zijn. Als je kinderen jonger zijn, als ze in de lagere school zitten, dan moet je meer aanwezig zijn. En dan...
+
+STIJN: Mijn vrouw zegt: ik ga kijken, ik ga kijken, ik ga kijken.
+
+ALAN: En vooral als ze... Nee, maar ik dacht na de eerste drie gesprekken van: oei, ik ga hier. Ofwel is het inderdaad voor mannen, en dan richt ik het op Surf Life, ofwel moet ik dringend een aantal oudere vrouwelijke ondernemers spreken, die sportief zijn ook nog eens. Want effectief, Maaike of Cindy — die gaan dat niet doen, denk ik. Cindy, ik mag dat misschien zo... Nee, maar de barrière voor hen is groot, om als ze vaak gaan denken: had ik dat fysiek wel kunnen? Ja, of Maaike, die zegt vlakaf van: ja nee, die golven, dat is veel te scary voor mij. We zijn in de redenering van: ga ik dat fysiek wel kunnen? Dat is een beetje het aspect.
+
+STIJN: Ja. Zo is het dus zo. Ja. Allee.
+
+ALAN: Ja. Ik vlieg daarna niét. Maar...
+
+STIJN: Bij vrouwen zitten we ondertussen ook in het fietsen veel meer avontuurlijker. Dat was vroeger een mannen item. Nu zitten er veel meer vrouwen. We hebben ondertussen ook al wat te noemen uit de culinaire groep. Dat fietsrijtje 20 kilometer om met meer eten. Dat babbeltje en die andere aspecten daarin. En elkaar beter leren kennen. En nieuwe trajecten hebben gefietst. Dus dat zie je wel. Het is altijd wel eens hoe jonge vrouwen met kleine kinderen zo moeilijk in zo'n groep zijn. Of je moet veel dichter bij huis blijven en kortere sessies doen. Een weekend of wat dan ook.
+
+ALAN: Ja, twee dagen, dat is ook als ik... Oké. Ja, ik denk dat dat voor hen moeilijk te realiseren valt. Ja, alright. Nog snel een aantal andere puntjes en dan gaan we afronden. Want als je dit zou overwegen, een week, kleine groep, bijzondere bestemming aan de oceaan, welk prijspunt lijkt je realistisch? Ja, wat we nu besproken hebben, ook met de coaching enzovoort.
+
+STIJN: Je moet duizend euro per dag, hè?
+
+ALAN: Duizend euro per dag, ja. Ik denk dat ik zo... Ja, oké. Ah, ja, dat is een beetje zo van... Zonder de vluchten.
+
+STIJN: Goh, van te vallen, maar het is ook niet duur om te vliegen. Het is een beetje van een nieuw kader. Mensen beseffen wel: je hebt goede coaching, dat daar een prijskaartje tegenover staat.
+
+ALAN: Ja. En onder welk bedrag zou je twijfelen aan de kwaliteit? Wat is goedkoop om goed te zijn?
+
+STIJN: Ja, dat is heel subjectief, dat zal voor iedereen anders zijn.
+
+ALAN: Ja, inderdaad. Ik heb wel een beetje een idee van waar ik het zou positioneren, maar het is wel eens goed om te kunnen... Ja... Ik ga je zelfs ook de omgekeerde vragen: boven welk bedrag haakt je buikgevoel af?
+
+STIJN: Het is ook van beide zijden. Ik heb natuurlijk... Ik denk dat als het minder dan 500 euro per dag is, dat ik daar externen zie aan mijn engagement, goede coaches, en dat daar rond — dat lijkt mij moeilijk om dat kwalitatief in te richten. Als je natuurlijk in Marokko kan doen, kun je een heel goed ding hebben die eigenlijk niet zo duur is. De cost of living is daar anders, maar je coaches, je logistiek en alles rond, vraagt een investering om dat op te zetten. Ja, absoluut. En aan de andere kant — maximum bedrag — dat hangt natuurlijk ook heel veel samen met hoe je het positioneert. Ja, hoe je dat positioneert. En voor een bepaald doelpubliek moet je 5.000 euro per dag vragen. Om dan hun kwaliteitsperceptie te matchen.
+
+ALAN: Ja, ja. Dus een beetje: de vraag is wanneer zit je dan op die heldere kop te focussen?
+
+STIJN: Ja, ja. En is die heldere kop groot genoeg?
+
+ALAN: Ja. Mijn gevoel is dat de groep veel kleiner zal worden naarmate de mensen die het zien zitten, als je daarboven van vijf dagen hebt, als je daar exclusief vlucht boven de 7.500 gaat duwen, dan gaan veel mensen van: bedoeld is het misschien wel veel geld. Over 7.500 voor 5 dagen. Natuurlijk, de vraag is — en ik kijk daarnaar als ondernemer — een van mijn vennootschappen, ik situeer die kost anders dan iemand die in dienstverband is en zegt: ik ga in mezelf investeren. Voor mij is dat een kost en een aftrekbare beroepskost.
+
+STIJN: Ja, een aftrekbare beroepskost. Dus, ook al is dat hetzelfde bedrag, uw perceptie rond wat de effectieve kost is, is anders. Want voor mij, als ik het via een vennootschap betaal, is de kostbeleving vanuit schap 40% lager. Uw weggezegd.
+
+ALAN: Ja. Dus ja, dat is een heel andere perceptie dan iemand die inderdaad op C-level in dienstverband is en 7.000 euro moet betalen. Bijvoorbeeld iemand die uit de vennootschap betaalt, afhankelijk van de vuurkracht van de vennootschap — is dat soms peanuts.
+
+STIJN: Ja, ik heb nu grofweg in de positionering gewoon om toch een soort van inkomenscategorie erop te plakken: je zegt mensen die 100 tot 120.000 euro per jaar verdienen.
+
+ALAN: Ja. Ja. Ja. Ja. Ja. Ja. Ja. Ja. Oké. Wie of wat beslist of je ja zegt? Jezelf, je partner, je agenda of je budget?
+
+STIJN: Mijn overleg met mijn partner. Dat zijn dingen die ik graag wel met mensen die... Ja, en zij zou dat niet erg vinden dat jij een week weg bent en dat zij gewoon thuis is?
+
+ALAN: Nee, maar dat vinden wij niet zo erg. Ik heb ook al andere mensen gehoord die zeiden van: ah ja, nee. Mijn vrouw zou dat niet zien zitten als ik alleen ben zonder dat zij dat... Ja, maar ik denk dat dat samenhangt met de persoonlijkheid. Ik ben ook al gaan skiën, zo dat ik mij heb gezegd. Misschien gaan zij ook eens hun vriendinnentrip doen of weet ik wat.
+
+STIJN: Ja, want Stijn doet inderdaad ook zoiets. Is dat, is dat, is dat niet alleen? Ja, zo wat? Ik doe ook dingen alleen, we zijn geen siamese tweeling. Maar natuurlijk, dat is niet hoe iedereen erin staat.
+
+ALAN: Ja, ja, ja. Sommigen zullen misschien wel nog even weg willen zijn van hun partners?
+
+STIJN: Ja, laten we dat zeggen. Ah, dus... Oké, misschien nog heel snel een paar vragen stellen, want ik denk: we hebben al heel lang bezig geweest. Ik wil u niet nog langer ophouden. Maar ik ga misschien, als het goed is, nog snel een paar dingetjes aftoetsen. Urgentie — hoe dringend voelt deze behoefte? Van 1 tot 5. 5, zeer dringend. In mijn huidige fase, voor mij natuurlijk is de behoefte eerder laag. Omdat ik voor mezelf denk dat ik ongeveer wel op dat gebied de balans gevonden heb. Dat is heel persoonlijk. Eén, twee?
+
+ALAN: Twee.
+
+STIJN: Relevantie — hoe goed sluit dit aan bij jouw situatie? Dat is een beetje dezelfde — twee. Ik heb het zo goed dat ik daar momenteel niet zozeer mee worstel. Hadden ze mij dat vijf, zes jaar geleden gevraagd, was dat anders geweest. Dan zou dat meer urgent geweest zijn. Ja, zou dat veel meer naar vier of vijf geweest zijn. Maar dat komt allemaal af.
+
+ALAN: Ja, oké.
+
+STIJN: Geloofwaardigheid — hoe geloofwaardig is de aanpak? Dat kan ik niet zeggen. Je moet het totale pakket zien. Ik denk dat ik een beetje vertelde wat ik wil doen. Maar hoeveel daarin ga je geloofwaardigheid definiëren?
+
+ALAN: Ja.
+
+STIJN: Surf als middel — bevrijdend of barrière? Voor mij bevrijdend, voor veel mensen barrière.
+
+ALAN: Ja.
+
+STIJN: Ik ga wat zeggen — ik ga wel twijfelen, maar ik weet eigenlijk al dat ik bij het opstaan mijn schouder af en toe problemen heb. Ja. Dus dat ik geen Piet Stuntman ga zijn daarin. En dat, maar ik vind dat niet erg. Als je gaat fietsen of trekken, ga je veel meer mensen meekrijgen waarschijnlijk. Dan is het ook een ander gegeven natuurlijk. Ik denk, fietsen is dan een zwaar bevestigd gegeven. Ja. Trekken en zo. Ja, oké. Een beetje natuur en avontuur, dat is een beetje...
+
+ALAN: Ja. Hoe waarschijnlijk boek je iets als dit? Dat zal dan ook eerder laag zijn, op dit moment. Misschien een paar jaar terug was dat hoog.
+
+STIJN: Ecologische zaken nog even — hoe speelt de ecologische impact mee als je nadenkt over een intensieve reis? Is dat een actieve overweging of meer iets wat je achteraf...
+
+ALAN: Ecologisch, als je aan de andere kant moet reizen, heb je een impact. Maar ik vind dat geen reden om... Maar als je moet in een land zoals Marokko komen, dan is het wel iets wat je met respect voor dat land doet. Ik vind dat het belangrijkste. En misschien een goede uitwisseling hebben met de lokale gemeenschap. Maar ik heb ecologie nog niet zo snel als goede reden gevonden om niet te vliegen.
+
+STIJN: Stel dat een aanbieder de vliegtuigemissies per deelnemer publiceert en garandeert dat 40% van de omzet lokaal blijft. Hoe zou je dat ervaren?
+
+ALAN: Dat lijkt mij veel. Ik denk dat het zwaartste punt zal bij de coaches liggen. En dat ik ook omkijk, natuurlijk ja. Maar een derde lijkt mij realistischer. En ook geloofwaardiger — als je dat te hoog opduwt, dan maak je dat vragen opwekt van: hoe kan dit? Dus je denkt dat een derde van de omzet lokaal zal lijden?
+
+STIJN: Nee, dat zal lokale dingen zeggen. Lokale verhuurders, lokale dingen, dat is een beetje... Want heel succes in de kost en de ontwikkeling van dat programma en de coaching, dat is de tijd die ervoor gespendeerd wordt, die voor de ondernemer niet tastbaar is en heel moeilijk in te schatten is.
+
+ALAN: Absoluut. Is er iets wat ik je nog niet gevraagd heb dat wel relevant is?
+
+STIJN: Nee, ik kan niet meteen zeggen: daar is een punt waar we het niet over gehad hebben. Wat een beetje andere vraag is: hoe ga je voor de instroom zorgen?
+
+ALAN: Ja, dat is eigenlijk een beetje mijn volgende vraag nog aan u. Ken je twee of drie mensen voor wie dit thema erg leeft? En ik zeg het: ik heb al een aantal mannelijke ondernemers gesproken. Ideaaliter zoek ik ook nog een aantal vrouwelijke onderneemsters. 40-55 leeftijdsklasse ongeveer, die wel wat sportief zijn. Misschien geen jonge kinderen meer hebben. Ken je toevallig iemand die daarin past, die aan die beschrijving matcht?
+
+STIJN: Ik moet eerlijk zeggen dat ik zelf ook al zeg. Dat ligt niet als een puntje van mijn tong. Het moeten ondernemers zijn of niet?
+
+ALAN: Ondernemers of C-levels, maar mensen die wel voldoende autonomie hebben om te zeggen: oké, ik ben een week weg.
+
+STIJN: Ja, maar dat is een gemaakte keuze. Ik zie al vrije tijd als ondernemer. Je hebt het gevoel dat je meer keuze hebt, maar je hebt het ook beperkt. Ik ken al mensen die het niet zo goed doen, maar die... Maar die is net gescheiden en dat is een budgetkwestie. Snap je? Dat is ook co-ouderschap. En dat is van: wat nu, ik moet mijn leven opnieuw vorm geven, ik ben bezig met mijn carrière en dat soort dingen. Maar ja, een huis, en dan merk je dat de budgetafweging dat veel — ook al zijn het goede verdieners — is dat niet een moment om dat te besteden? Ja, ik zou zeggen die zouden waarschijnlijk wel sportief zijn. Maar die is net gescheiden, ja, niet direct. We zijn voor een weekend naar de zee geweest. Vorig weekend had ik een nieuw appartement gehuurd voor een paar vriendinnen die van Cindy kwamen slapen. En de ander was erbij en zei: fuck, dat moet geld kosten, dat ga ik nu niet betalen. Dat is zo, ik heb niet gezegd dat het veel kost, dat maakt eigenlijk niet zoveel uit, maar dat maakt hoe mensen keuzes maken nu.
+
+ALAN: Ja, ja, ja. Oké. Dus ik kan er wel echt zo van nadenken, maar nu zo direct... Ja, oké, dat is goed. Mocht iemand te binnen schieten, mag je het mij gerust laten weten.
+
+STIJN: Ja. En anders krijg ik er zelf nog wel een beetje. Dus, nee, voilà, ik denk dat dat ongeveer is. Dank je wel. Dat is een stuk uitgebreider dan ik voorzien had, maar ik vind het wel fijn dat je zo uitgebreid hebt geantwoord.
+
+ALAN: Nee, ik vind het een boeiend onderwerp, ondernemer. Samen werken met andere coaches, die zeggen van: ik heb daar heel veel over nagedacht. Want dat zou fantastisch zijn. Je moet mensen gaan moeten via verwijzingen hebben te doen. Of online targeten, maar hoe krijg je dat? Ja, alweer — initieel had ik, want ik heb bepaalde dingen, zowel wat gespaard als ook met Cloud, vaak als pairing partner. Nee, mensen die adviesraden doen en mensen die eigenlijk KMO's en ondernemingen bij een verandering begeleiden. Want die zien ook vaak: ja, de issue ligt bij of de... Het is meer een onderneming, het zijn ook de ondernemers erachter die aan wat... Ja, maar adviesraden zijn typisch niet meer voor de kleine KMO's, de echt kleine KMO's. Dus daar is het, ja, als je maar, als je dan op een bepaald punt zit en je zoiets gaat beperkt, dan is er ook steeds meer en meer nood aan, denk ik.
+
+STIJN: En hoe zou ik daarmee in contact komen, denk je?
+
+ALAN: Ik kan er niet meteen op komen. Ik zal bijna via VOKA ofzo gaan, maar die gaan dat ook niet zomaar doorgeven, want waarschijnlijk zal iedereen die een business heeft en die dat soort mensen zoekt wel proberen via die weg. Ja, ik zeg, ja. Als we zeggen, heb ik ook de Family Office en Private Equity. Die participeren in de onderneming. Die ook wel vaak het gevoel hebben van: dat zit daar goed niet. Maar die ook niet altijd, ja. Ja, het is ook niet de bedoeling natuurlijk om mensen te pakken die al in een zware crisis zitten, want dan is het vaak ook al te laat waarschijnlijk. Nee, maar het gaat dan vaak over mensen die het ook wel voelen van: oké. Binnen die ondernemingen, je hebt een externe aandeelhouder aan boord, om nog te groeien, ook al meer rites — soms goed dat je je niet meer verbonden voelt als kapitein met het schip. Omdat jij evolueert. Vaak is dat dat een oprichter de CEO is, maar vaak is dat niet altijd de beste CEO. Vaak doet die liever iets anders, maar omdat je een oprichter bent in de rit gereden, ben je CEO geworden. Dat gebeurt ook wel frequent. Je neemt de rol op omdat je die toegewezen wordt. Niet omdat je er energie van krijgt.
+
+STIJN: Ja, dat is waar. Dat is een woord dat je hoort. Als je jong bent, denk je dat je CEO klinkt mooi. En dat is dan een woord dat je de CEO niet wil zijn. Ik wil het liefst de CEO niet zijn. Maar als je kijkt, hoe noemen ze — waar Cooke ook in geparticipeerd heeft, die in de beurs noteren zijn, waterverwerking — Biopac, nee, Ecopack. Ja, degene die eigenlijk geboomd heeft, was nu initieel CEO en is nu terug CEO omdat hij eigenlijk vanuit de technologie kwam. Ja, ja, ja. Dat is ook niet zonder slag en stoot en is waarschijnlijk onder een aantal persoonlijke moeilijkheden gegaan.
+
+ALAN: Ja.
+
+STIJN: Maar dat is het type ook al, ook al zijn ze er nog groot aan meegehouden of ze er nog heel sterk op inzetten: je rol ook herzien, je eigen positie terug uitvinden. Ik denk dat je het al afwekkende bent binnen ondernemingen, ook al ben je de ondernemer erachter.
+
+ALAN: Ja, absoluut.
+
+STIJN: Oké. Zo gevraagd: mijn staf, moet ik de management direct laten opvangen? Dat moet ik zelf. Ja, dat maakt het ook iets makkelijker om 4/5e te gaan werken als je dat weet. Niet los daarvan, maar de vraag is welke rol je kunt pakken dan. Je hebt binnen vijf jaar... Stijn is niet de organisatie, dus ja, als je wil kunnen loslaten, moeten we daar wel iets voor doen.
+
+ALAN: Oké, nee, goed. Nee, maar dus ja, en hoe zou ik aan dat soort bedrijven of organisaties geraken? Is dat via VOKA?
+
+STIJN: VOKA is er wel. Als je VOKA-lid wordt, kun je types in de relatiebeheerder van zo'n hoe dan ook... Dus kunnen daar heel veel vragen aan stellen. En dan een aantal... Ja... Van netwerken, hè.
+
+ALAN: Ja. Wat is het goede punt, of de goede plek, of waar voelt hij goed bij om te netwerken? Dat is het andere punt.
+
+STIJN: Ja. Ja, dat is niet dat ik van natuur gemakkelijk netwerk, maar dat is wel eigen. Ja, ehm... Ja... Terug, ik overweeg alumni-lid te worden. Ja, dat is allemaal... De vraag is juist: waar voelt u goed bij? Ik ben ook geen pro-natuur groot netwerker. Maar ik moet soms in... oké, ja, ik zit nu ook in. We hebben ons vroeger al iets gemaakt. Ik heb het fietsen genoemd. Of wat dingen, op bepaalde topics. Ook al is dat betalend extra, ga ik daarnaar, omdat je in die setting mensen vindt die daarnaar gaan, die ook daarmee bezig zijn. En je kunt daar makkelijk en zo leer je al wat mensen kennen.
+
+ALAN: Oké, cool. Zo gaat het allemaal, hè? Yes, alright. En dan de schaalbaarheid, dat is natuurlijk nog een ander verhaal ook.
+
+STIJN: Ja, natuurlijk, je moet het even opbouwen, dat je het meer dan een keer op de markt kunt doen, als je het vol krijgt. Dus eerst eens een eerste keer doen. En dan, als je de aanpak, de week, als het allemaal functiont, moet je het kunnen in een herhaalbaar businessmodel omzetten.
+
+ALAN: Ja, maar ik ga sowieso nog een aantal mensen bevragen en dan overweeg ik misschien als dat positief is, misschien toch een keer in het najaar een MVP te doen. Ergens een klein retreatje in Marokko te organiseren en zien wat ik daar leer. Het zal waarschijnlijk nog een klein groepje zijn en misschien nog een beetje in opbouw sowieso. Een beetje zoeken van wat werkt, wat niet. Ik denk dat dat de weg is om het verder te...
+
+STIJN: Ja.
+
+ALAN: Alright.
+
+STIJN: Ja, goed. Ik ben naar de...
+
+=========================================================
+EINDE TRANSCRIPT
