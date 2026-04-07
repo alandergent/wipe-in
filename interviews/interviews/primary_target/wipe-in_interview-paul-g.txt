@@ -1,0 +1,128 @@
+INTERVIEW TRANSCRIPT — PAUL G. — GECORRIGEERD
+Sprekers: Alan (interviewer) | Paul (geïnterviewde)
+Taal: Engels/Vlaams mix — originele taal per spreker behouden
+=========================================================
+
+ALAN: Ja. Oké. Dus ik ga je niet te veel context geven in de eerste plaats, want... We geven de game weg.
+
+PAUL: Ja, ja.
+
+ALAN: En dan zal ik je na een tijdje iets meer vertellen en dan vraag ik voor feedback. Maar ik wilde je eerst een paar algemene contextvragen stellen. Kun je me beschrijven wat een typische... Wat kan ik zeggen? Ik ben aan het ontwikkelen van een soort ervaring voor een bepaalde doelgroep. Dat is heel veel over wat het gaat. De eerste dingen zijn in feite een beetje over de context. Dus kun je me vertellen hoe een typische week voor jou eruit ziet, professioneel en persoonlijk?
+
+PAUL: Ja, dus maandag wake ik de kinderen, breng ze naar school, eten, de normale zaken zoals gewoonlijk. En dan ga ik vaak na het werk met de hond een walk doen. En dan kom ik hier zitten in mijn studie en begin ik te werken. Waarschijnlijk om negen uur. En mijn dag is... Nou, ik ga door. Ik hoop dat ik doorgaan kan. Maar veel van mijn dag is over de telefoon. Dus ik bedoel niet telefoon, maar Google Meet. We ontmoeten het team. We hebben een morning stand-up met het team. Ik werk met een kleine team. Maar er zijn ook andere meetings met het leiderschap. Bijvoorbeeld op maandag is er de senior leadership. En dan ontmoet ik de tech leaders en product managers. Ik zit op het SLT, senior leadership team. Er zijn er vijf of zes van ons op dat team. We praten over crises en de dingen die we moeten doen, zoals richting en alles. Macro-economie, ja. En dan met de technische leiders en productleiders — dat zijn er 15, 20. Het is meer om de leiding te geven. Het is, om eerlijk te zijn, een onzekere vergadering. Er zijn veel vergaderingen die gewoon zijn omdat iemand het een goed idee vond. Je bent niet zeker wat het doel is. Het is een beetje ongelooflijk.
+
+ALAN: Ja, te veel, te veel. Gewoon zitten in een vergadering.
+
+PAUL: En dan heb ik veel one-to-ones, want ik heb one-to-ones met alle mensen die aan mij rapporteren. We hebben er 10 directe rapporten — ik denk dat het 10 of 12 zijn, ik moet het niet tellen. Dus elke twee weken heb ik een 1-to-1 met elk van hen, soms zelfs elke week. Dus ik heb er heel veel van. En dan hebben we heel veel productmeetings — dat is waar we echt over praten. We noemen het refinement. We hebben een idee: we willen een researcher wizard ontwikkelen. Een deel van de tool die kan helpen mensen nieuwe assets te ontdekken. We willen een gemakkelijke manier om daarop in te stappen. We weten dat dat een nood is. Er is een kleine groep van ons, 3 of 4, die echt probeert na te denken en te beslissen hoe dat zou werken, voordat het goed kan worden ingepland voor de developers. En de rest van de tijd heb ik een project waar ik mijn handen aan heb — een developer project. En ik ben nooit echt op het kritieke pad daarvan. Het is meer een interesse. Dus wat betreft work-life balance: 's ochtends heb je een bepaalde routine en 's avonds is het minder gestructureerd.
+
+ALAN: Ja.
+
+PAUL: Ik ben altijd om zes of half zeven klaar. We eten altijd samen met de familie en ik ben een beetje off. En soms pak ik de laptop op, afhankelijk van... Als ik 's avonds werk, is het meestal minder omdat ik het gevoel heb dat ik het moet doen en meer omdat ik iets wil verbeteren. Het is al lang geleden dat ik de laptop 's avonds moest nemen omdat ik een deadline had of omdat ik het gevoel had dat er te veel te doen was. Het is meestal meer dat de dag en de vergaderingen achter de rug zijn en ik een vredig moment heb. Dus ik neem het uit interesse, in plaats van uit stress. En hoeveel ik dat doe of niet, hangt eigenlijk af van of ik iets interessants aan het werken ben of niet. Als ik iets interessants aan het werken ben, wil ik veel sneller verdergaan. Als ik niets heb dat echt in mijn flow zit, dan laat ik mijn laptop hier.
+
+ALAN: Oké, maar als ik het goed begrijp, is je week best vol. Je hebt niet veel controle over je agenda, of heb je dat?
+
+PAUL: Niet echt, nee. Vooral maandag en woensdag. Een ding dat ik deed, is dat ik de recurrente meetings op maandag en woensdag zette. Dus mijn maandag en woensdag lijken erg druk, maar dan verliezen ze meer ruimte in de rest van de week. Maar sommige dagen heb ik twaalf vergaderingen.
+
+ALAN: Maar kort?
+
+PAUL: Ja, een half uur. Minimum is het meestal een half uur. De meeste zijn een half uur, sommige een uur. Het is zeldzaam dat er een langere of kortere is. En dan ook reizen. Dus periodiek moet je reizen naar Londen of Bristol.
+
+ALAN: Is dat vaak, twee keer per maand?
+
+PAUL: Twee keer per maand. En dat is dan voor een week?
+
+ALAN: Nee, dat is voor... Het hangt ervan af. Londen kan ik in een dag doen. Dus ik ga vaak voor een lange dag. Soms overnacht ik in Londen. Als ik naar Bristol ga, zijn het meestal twee nachten. Ik ga vaak 's ochtends, werk tot 's avonds, doe een volle dag op kantoor en vertrek de volgende ochtend. Ik ga altijd met de trein.
+
+PAUL: Maar wat is de balans tussen moeten en willen?
+
+ALAN: Met reizen, bedoel je?
+
+PAUL: Nee, op een gemiddelde manier. Bij de meeste van mijn vergaderingen moet ik. Er zijn niet veel vergaderingen die ik wil. Dat is vooral de laatste weken. Ik wil echt veranderen naar een meer hands-on rol. 90% van de vergaderingen moet ik. En ik wil een manier vinden om eruit te geraken, zodat ik pure, clean days kan hebben en gewoon vergaderingen wanneer ik ze nodig heb — in plaats van dingen die gewoon ingepland worden.
+
+ALAN: Ja, oké. Dus je hebt al een beetje de volgende vraag beantwoord. Ben je op het punt van verandering of zou je zeggen dat je in een stabiele fase zit?
+
+PAUL: Als 10 stabiel is en 0 het punt van verandering, dan ben ik op min 2.
+
+ALAN: Min 2, oké. Dat is echt... En wild. Maar de hele tijd bewegen, of is het gewoon...?
+
+PAUL: Ja, bewegen. Ja, dat is bijna wat zo vervelend is. Niet alleen verandert de situatie veel, maar ook mijn motivatie. Van één moment kan ik mezelf ervan overtuigen dat ik wil blijven en ben ik enthousiast over het project. En twee dagen later ben ik klaar om te stoppen en op te hangen. Het oscilleert. Het is vervelend.
+
+ALAN: En wat brengt het in beweging?
+
+PAUL: Een heel frustrerende gesprek met het management zal me willen laten vertrekken. Maar dan de herbevestiging van het project waaraan ik werk en het enthousiasme daarover — en het potentieel — maakt me willen blijven. En als het management me zegt dat ik wat ik wil kan krijgen, maakt dat me enthousiast. En dan volgt er een ander gesprek dat me doet twijfelen of ik het misschien niet kan krijgen.
+
+ALAN: En als je kijkt naar de afgelopen 12 maanden, wat gaf je de meeste energie en wat kostte je de meeste energie?
+
+PAUL: Wat me de meeste energie gaf, zou zijn het enthousiasme over het product en de architectuur waaraan ik werk. Nieuwe technieken voor problemen oplossen, en de invloed van AI — wat AI-assisted development kan zijn. Dus in termen van tijd? Ja, niet alleen dat, maar ik denk dat het tijd bespaart, maar het voelt alsof... Als je een software-engineer bent die end-to-end werkt, zoals sommigen van ons — ik ben bijna hetzelfde als het product — dan is het als een soort god-mode. Je kunt zo veel met zo weinig. Dus ik heb genoten van het experimenteren met wat dat betekent. Het is ook interessant dat ik niet meer code schrijf. Ik spreek gewoon met de computer en de computer schrijft de code. En ik mis, gelukkig, ik mis de craftsmanship...
+
+ALAN: De vaardigheid.
+
+PAUL: Ja, het is veel meer zoals onderzoeken. Er is wel wat craftsmanship, want je moet het echt goed aansturen. Je kunt het niet als een black box behandelen, zoveel als sommige websites je kunnen doen geloven. Het kan niet complex worden gebouwd, maar je kunt de black boxes kleiner maken. Dat is de analogie die ik gebruik. Je kunt beslissen hoe groot je de black boxes wilt, maar je hebt nog steeds black boxes. Maar ja, ik heb de craftsmanship gemist. Maar aan de andere kant is het interessant — ik heb het gevoel dat ik kan blijven werken zelfs als ik echt erg vermoeid ben, want je kunt je intentie nog steeds aan de AI communiceren en de AI schrijft het, terwijl...
+
+[DEEL TRANSCRIPT ONVOLLEDIG — GROQ HEEFT DE TRANSCRIPTIE HIER AFGEBROKEN]
+
+ALAN: Ja super, oké Paul. Ik ga je nog een paar heel korte vragen stellen, want ik weet dat ik al lang over tijd ben.
+
+PAUL: Ik heb een paar vragen.
+
+ALAN: Dank u wel. Ik ga het nogmaals vragen, maar kijk het niet vanuit een zorgsituatie, maar ook van de tracking. Wat zou je de urgentie geven? Hoe dringend voelt deze behoefte? 1 tot 5, 1 niet urgent, 5 zeer urgent.
+
+PAUL: 4.
+
+ALAN: Relevantie. Hoe goed past dit bij jouw situatie?
+
+PAUL: In zijn puurste zin — 5.
+
+ALAN: Geloofwaardigheid. Hoe geloofwaardig is de aanpak?
+
+PAUL: Ja, ze zijn erg geloofwaardig. Je kunt eerlijk zijn. Ja, ik denk dat ik feedback had over de coaching, maar in zijn pure vorm — ja, het is een heel goed idee.
+
+ALAN: Surf as a means — liberating or a barrier?
+
+PAUL: Liberating.
+
+ALAN: Purchase intent. How likely are you to book something like this?
+
+PAUL: Ik zou het wel willen, maar ik weet niet of ik het kan afstemmen met familie en tijd. En dat zet het waarschijnlijk op 50-50. Dus drie?
+
+ALAN: Ja, drie. Oké, goed. En dan een paar korte vragen over de ecologische eerlijkheid. We hebben het al over het onderwerp gehad. Hoe speelt de ecologische impact mee als je over zo'n intensieve reis nadenkt?
+
+PAUL: Heel hoog, ja. Voor mij is het, ja, het is moeilijker. Het is een actieve overweging. Ja, en het is niet echt nodig om ver te gaan. Ik denk dat je veel voordelen kon krijgen met dezelfde reis die in Schotland was. Zelfs voor het surfen is het misschien wat minder. Je kunt ook in Cornwall surfen.
+
+ALAN: Ja, misschien een beetje minder. Ja. Vind je dat een aanbieder die de vliegtuigemissies van een deelnemer berekent en garandeert dat 40% van de omzet bij de lokale gemeenschap blijft — hoe zou je dat ervaren?
+
+PAUL: Ja, het zou goed zijn als er iets groener was. Ik ben altijd een beetje sceptisch over carbon offsetting. Maar de dingen die ik bedacht had — bijvoorbeeld dat je een dag of een halve dag iets doet voor de lokale gemeenschap als groep — dat zou een deel van de geloofwaardigheid zijn.
+
+ALAN: Ja, omdat het ook in de waarden van de organisatie zit.
+
+PAUL: Ja, dat zou leuk zijn. En voor een gegeven moment was ik aan het denken dat je bijvoorbeeld een lokaal initiatief bezoekt van een regeneratief project dat ze doen of iets. En uiteindelijk de mogelijkheid om te investeren als mensen willen.
+
+ALAN: Ja, iets van dat soort. Ja. Oké. Goed. Is er iets wat ik je vandaag nog niet heb gevraagd dat je denkt dat relevant is?
+
+PAUL: Niets springt me bij.
+
+ALAN: Maar ken je twee of drie mensen die dit thema ook zouden aanspreken? Bijvoorbeeld wat ik nu zie is dat ik mijn vijfde interview heb. Morgen heb ik er nog één en dan heb ik er zes. Maar we zijn allemaal mannen.
+
+PAUL: Ja.
+
+ALAN: En wat ik ook zie is dat, vooral als je kijkt naar de combinatie van surfen en coaching, er initiatieven zijn, maar vaak zijn het vrouwen die het doen, jonge vrouwen, ook in combinatie met meditatie en yoga, enz. Maar ook korte formules, waarschijnlijk omdat ze ook jonge kinderen hebben. Maar ik dacht: ja, waarschijnlijk vrouwelijke ondernemers tussen 35 en 55 — als ze 35 of 40 zijn, zullen ze waarschijnlijk afhaken als ze jonge kinderen hebben, omdat ze te dichtbij zitten. Maar misschien vrouwen die iets ouder zijn en best sportief zijn — of meer outdoorsy — misschien een marathon lopen of iets — dit soort vrouwen misschien ook interessant zijn. Maar ik ken bijna niemand die ik zou kunnen zeggen: oké, ik heb nu misschien iemand die ik kan vragen. Dus ik weet niet of je mensen in je hoofd hebt — mannen kunnen ook — maar of vrouwen specifiek, zoals 40-55 jaar oud, ondernemersgericht, buitensportief, in voor een reis zoals deze.
+
+PAUL: Ja, er is niet zo veel dat me te binnen schiet. Er is ook iets over het gemengd zijn — als het gemengd was, geeft het een beetje een andere vibe. En ook met partners — ik denk dat er dan een extra... Het is gewoon een andere... Het is een andere ding dat gepitcht wordt. Als het gewoon vrouwen was, dan is het echt... Dit is een afwijkende...
+
+ALAN: Dus voor jou voelt het kleiner of...?
+
+PAUL: Ja, bijna gemakkelijker. Het is een beetje minder complex als soort ding. Maar ja.
+
+ALAN: Oké, dat is duidelijk. Heel erg bedankt. Het is een hele marathon geweest. Ik had niet verwacht dat het zo lang zou duren, maar ik ben heel blij dat je...
+
+PAUL: Ja, mijn plezier. Het lijkt me leuk om het te ontdekken. Volgende week moet ik een hike doen.
+
+ALAN: Ik heb nog een kleine attentie voor jou.
+
+PAUL: Het is een goede present. Wauw. Oké, bloemen. Ik heb er nog twee. Ik ga ze aan de gang.
+
+=========================================================
+EINDE TRANSCRIPT
+
+Noot: dit interview verliep grotendeels in het Engels — de originele taal is behouden zoals gesproken.
+Noot: een groot middenstuk van de Whisper-transcriptie was afgebroken/onvolledig. Enkel het beschikbare materiaal is gecorrigeerd.

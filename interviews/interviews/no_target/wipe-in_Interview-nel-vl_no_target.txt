@@ -1,0 +1,302 @@
+INTERVIEW 7 – NEL VL
+Gecorrigeerde transcriptie met sprekers (Groq + manuele correctie)
+====================================================
+Datum: 27 maart 2026
+Interviewer: Alan
+Geïnterviewde: Nel
+
+====================================================
+
+ALAN: Oké, goed. Had ik het gezegd? Nee. Nee, normaal niet. Dus goed. Merci dat ik even sowieso u aan een interview mag maken. Ja, ik ben ook heel nieuwsgierig. Dus ja, ik ga nog niet te veel zeggen. Ik heb aan de telefoon ook nog niet zoveel gezegd. Dus ik ben... ik heb mijn ontslag gegeven. Ik ben nu in, ja, verkenningsfase van een nieuw project. Ik heb al een paar pistes overlopen. Maar ik probeer eigenlijk, van zodra dat ik denk: dat is een piste waar ik wel zin in heb en waar ik denk van, hier kan ik wel iets mee — van zo snel mogelijk eigenlijk een paar interviews te doen met mensen in die richting, om een beetje voeling te krijgen van: ja, zit hier iets in? Is het sowieso de moeite om daar verder energie in te steken? En vandaar dat ik dacht, ik ga eens even... Maar dus eigenlijk dacht ik van: eerst met een aantal algemene vragen te starten, als dat goed is. Ik heb hier zo'n soort van vragenlijstje voorbereid. Het zijn redelijk veel vragen, dus ik zou zeggen: je beslist zelf hoeveel informatie dat ge geeft. Als er een vraag bij is waarvan je zegt van, heb ik eigenlijk niet veel op te zeggen, dan skippen we die gewoon. Dus eerst en vooral misschien een beetje algemeen zo, de persoonlijke context enzovoort. Hoe ziet een typische week eruit, zowel professioneel als privé?
+
+NEL: Een typische week is altijd anders en altijd druk. Ik heb dat graag. Ik werk globaal, dus inclusief Japan, US, Australië.
+
+ALAN: Want u werkt met PACE?
+
+NEL: Met PACE, het CRO, de clinical research organization. Amerikaans, hoofdkwartier in Cincinnati, Ohio. En dus ik begin maar rond half tien, tien uur, maar dan eindig ik ook maar altijd om zeven uur, half acht, acht uur.
+
+ALAN: Ah ja.
+
+NEL: Omdat dan de US wakker wordt natuurlijk. En in de namiddag zijn die drukker bezig. En dus dat is heel gevarieerd, want het loopt — ja, tijdsgewijs is het ook gevarieerd, maar de inhoud is ook gevarieerd. Dus je kan me niet zo goed beschrijven een typische werkdag. Maar het gaat de hele tijd om het coördineren van wat moet gebeuren en probleemoplossingen. Als je niet kunt tegen probleemoplossingen, dan moet je dat soort job niet doen. En het is een Amerikaans bedrijf, heel internationaal, dus dat betekent eigenlijk dat het constant in beweging is. Dus als jij vanmorgen begint aan je job, dan heb je een wolk van 100, 120 mails. Dan ga je prioriteiten zoeken.
+
+ALAN: Ja, oké. Het is niet zo dat jullie echt global werken in de zin dat er verschillende business units zijn die maken dat je meer regionaal gefocust bent?
+
+NEL: Of er is al eens een kleinere studie en een kleinere klant die zegt: ik wil een fase 1-studie doen, testen van medicijnen op gezonde vrijwilligers. En dat is dan in één unit, want we hebben ook een fase 1-unit in het bedrijf in de US. Maar dat kan ook in Leuven of Antwerpen gebeuren, bijvoorbeeld. Maar dat is eerder zeldzaam.
+
+ALAN: Ja, oké. En hoeveel controle heb je eigenlijk over je eigen agenda?
+
+NEL: Over controle heb ik dan niet zoveel. Wat moet gebeuren, moet gebeuren. Maar ik heb dan wel controle over: als ik mij dan 's avonds boek — om 7 uur, om 6 uur al is er een padeltoernooi dat begint om 6 — dan regel ik me wel. Maar ik doe dat niet routinematig. Ik doe dat alleen als dat nodig is. Dan stuur ik me verder, werk ik gewoon waar nodig is.
+
+ALAN: Ja, oké. Goed. En wat is zo'n beetje de verhouding tussen moeten en willen op een gemiddelde dag?
+
+NEL: Tachtig willen en twintig moeten. Misschien zelfs maar tien moeten. Ik denk soms: wat zou ik op pensioen, wat zou ik dan willen doen? Want ik doe dat eigenlijk ook wel graag.
+
+ALAN: Ja? En ben je veel op verplaatsing of werk je veel van thuis?
+
+NEL: Sinds corona minder. Ik bedoel klanten bezoeken en zo zijn sindsdien minder. Of ons team gaat, we hebben een meeting met 20 teams, face-to-face, en 10 zijn bijna remote. En verder: als je zegt we werken fulltime in office, we mogen één dag per week van thuis.
+
+ALAN: Oké, ja. Goed. En als je zegt: ik ga eens een week of twee weken met verlof — is dat iets dat lang op voorhand gepland moet zijn?
+
+NEL: Nee, je plant dat van zodra je het weet, maar dat kan ook wel. Dat hoeft niet per se lang op voorhand. Het maximum is wel twee weken. Je gaat dan twee weken in een rij. Dat is de policy.
+
+ALAN: Dat is de policy, ja. Oké, goed. En gaat dat dan ook internationaal, die verplaatsingen?
+
+NEL: Ja, meestal. Naar de klant.
+
+ALAN: Oké, goed. Sta je momenteel op een punt van verandering of zit je eerder in een stabiele fase?
+
+NEL: Stabiele fase.
+
+ALAN: Oké. Als je terugkijkt op de voorbije 12 maanden, wat heeft u het meeste energie gegeven en het meeste gekost?
+
+NEL: Het meeste energie geeft dat als we met een team naar een bid event gaan en dan dat project binnenhalen. En wat energie kost: ik heb een heleboel mensen die aan mij rapporteren, en die zijn eerder jong en niet zo ervaren.
+
+ALAN: Twintigers dan?
+
+NEL: Ja, twintigers of begin dertig. En die zijn zo veeleisend en zo naïef. Die vragen echt veel, die willen altijd maar krijgen. Die geven niet veel terug. Dat kost veel energie.
+
+ALAN: Ja, toch wel. En is dat vooral bij die jonge generatie? Daar valt dat het meeste op?
+
+NEL: Ja, bij die jongeren. De laatste tien jaar — hoe evolueert dat? Stabiliseert niet echt. Ze hebben het wel allemaal zo van: je hebt toch recht op? En ik wil, ik wil, ik wil. En niet allemaal, maar echt een helft. En onbeleefd zijn ze ook. Die sturen mails met... kom maar. Aan een klant van twee keer zwaar, maar ook aan mij, maar ook aan een klant. En dan moet je die bijna opvoeden. Dat vraagt veel energie. Die hebben echt aandacht nodig, maar die kunnen daar niet echt aan doen.
+
+ALAN: Wanneer voelde je voor het laatst dat je wist waar je stond en waar je naartoe ging?
+
+NEL: Ik voel dat ik dat elke dag weet.
+
+ALAN: Ja, oké. Zoals je zegt dat je in een stabiele fase zit. Hoe investeer je normaal in je eigen ontwikkeling?
+
+NEL: Wij hebben sowieso een training and development department, dus je moet dat eigenlijk niet zelf regelen. Dat wordt allemaal geregeld. Je moet elk jaar alle SOPs reviewen, sommige zijn met examen, sommige niet. En dat is constant erbij. En dan hebben we drie keer per jaar HR die van die trainingscursussen geven.
+
+ALAN: Wordt dat internationaal geregeld?
+
+NEL: Ja, globaal. Allemaal remote. Sinds COVID meer en meer remote. Voor trainingen was het sowieso altijd remote, of het is self-training, of het is face-to-face via video, of het zijn recordings. En vroeger deden wij soms wel eens iets via Cevora — ik weet niet of je dat kent, zoiets Belgisch voor kleine tot middelgrote bedrijven, gratis. De kwaliteit vond ik niet miraculeus. En verder voor mijn eigen ontwikkeling: ik lees. Ik ben altijd met mensen bezig. Maar lezen, ook professionele boeken? Af en toe eens een. Maar dat is niet de hoofdzaak.
+
+ALAN: Ok. Er zijn mensen die misschien 3000 euro betalen voor een online opleiding.
+
+NEL: Nee, dat doe ik niet.
+
+ALAN: Nee, ok. Heb je ooit al geïnvesteerd in een ervaring puur voor jezelf, niet voor je rol of je cv?
+
+NEL: Ah ja, zoals vakantie enzo natuurlijk. Of mijn werk. Ja, maar dan echt wel meer vakantie of ontspanning, niet zozeer om iets nieuws bij te leren of een bepaald ding te ontwikkelen. Oké, goed.
+
+Als je in dat werk werkt, je krijgt constant nieuwe projecten. De ene gaat over IgA-nefropathie, de andere indicatie is een gecompliceerde urinary tract infection. En dan komt er een studie in Crohn's disease, en dan in ulceratieve colitis. Dus je moet heel de tijd bijscholen. Je moet al zoveel, dat ik als ik thuis kom, doe ik echt soms iets kei dom op tv. Om even te ontladen. Of een film ofzo. Maar meestal, omdat ik niet goed slaap, want ik heb narcolepsie, dus ik kan niet goed tv kijken. Ik moet altijd in beweging bezig zijn. Dus ga ik meestal wel tennissen, padelen of fietsen.
+
+ALAN: En heb je dat altijd al gehad?
+
+NEL: Ja, die diagnose is 22 jaar geleden gesteld, maar ik moet dat dus altijd al gehad hebben. Dus ik heb zo'n geluk gehad met autorijden, bijna in de gracht. En dat betekent dat je eigenlijk makkelijk in slaap valt als je niet actief bezig bent? Ja, ik val ineens uit. En een autocabine is spannend. Ik moet schrijven, maar ik moet genoeg babbelen.
+
+ALAN: Mag ik dan maar gerust iets schrijven? Ik zal u proberen aan de gang te houden. Goed. Wat heeft de versnelling van technologie, AI, automatisering, digitalisering concreet veranderd in jouw werk of uw sector? Want ik begrijp dat jullie echt een platform zijn.
+
+NEL: Ja, dus er is een firma, een biotech firma die zegt: wij hebben nu al die testen op dieren gedaan, dat zijn de resultaten, wij willen nu vervolgens testen op mensen. En eerst is dat meestal jonge gezonde vrijwilligers, kleine groepen. Fase 2 zijn grote groepen zieke mensen en dan kijken ze naar farmacodynamiek en farmacokinetiek: van waar gaat die drug in uw lijf naartoe en heeft dat nevenwerkingen? En is daar verbetering? Door outcomes zoals questionnaires of lab resultaten die aantonen: hier is verbetering. Wij krijgen die vraag van de klant en wij voeren dat dan uit. Onze statisticalists, onze medical writers schrijven dat protocol, onze medical doctors die bij ons werken zijn betrokken. En die zeggen: we hebben denk ik, om dit te bewijzen, een pool van 1000 patiënten nodig. En die willen ook op de markt in Azië-Pacific, dus we doen Japan erbij, en China, Zuid-Korea, Australië, en zeker US en Canada. Want ze willen ook op de Amerikaanse markt. Dan de studies in Europa: hoeveel landen zullen we nemen? Waar komt die gecompliceerde urineweginfectie veel voor? En als je daar een antibioticum moet testen, dan moet je dat niet doen in Griekenland en Italië, want iedereen is daar resistent geworden, want daar hebben ze dat veel te veel voorgeschreven. Als voorbeeld. Maar dat weten dan die medics, en die zeggen: ah nee, we gaan naar die landen. En dan, als we dat project winnen en die klant zegt: ja, doe maar, dan wordt het protocol geschreven. Dus: hoe ga ik de studie doen en wat zit er allemaal in? Met alle hypotheses op voorhand. En dan moet dat ingediend worden bij ethische comités en overheden. Die zeggen: ah ja, je mag dat op mijn Belgen doen, in dit land mag je dat doen. En het ethisch comité van bijvoorbeeld Gasthuisberg zegt: we gaan aan de patiënt vragen hoeveel urine en hoeveel bloed er genomen wordt. Als die goedkeuring er is — en dat is dan voor privacy, dat delen we niet — dan gaan mensen van onze ploeg uitleggen aan die artsen en verpleegkundigen hoe dat moet. Als er een patiënt binnenkomt, dan moeten die dat doen. En dan komen die data in een elektronisch dossier en dan gaat je CRA, Clinical Research Associate, checken in die ziekenhuizen: is dat wel een echte mens? Want die artsen krijgen daar geld voor. En ook voor de accuraatheid en de veiligheid van de patiënten. En daar heb je dan, vroeger toen ik als CRA werkte was dat papieren patiëntendossiers. Nu is dat elektronisch. En vroeger was dat in drie kleuren. Dus je kunt nu filteren voor outliers. Als de site intypt dat iemand geboren is in 2023, dan is dat een typfout. Dat was 1923. Dan kun je geautomatiseerde queries sturen met flags.
+
+ALAN: Dus dat AI dat automatisch corrigeert al dan?
+
+NEL: Met AI? Nee nee, want met AI is het gevaar ook van die privacy om te beginnen, want je zit in patiëntendossiers van het ziekenhuis. En die zeggen: maar jij komt niet filteren in mijn database, hè? Dus dat is nog niet zo evident. Iedereen roept dat trouwens, denk ik, zo in het algemeen. Ik had een vriendin die werkte in — niet chips, maar blockchain. En dan konden ze aan hun varkensvlees zien waar dat varken geboren was, wat het gegeten had, hoeveel gram. Maar dat was nog maar in zijn kinderschoenen en ondertussen is dat bedrijf al diep gegaan. Dat was één van die projecten die die deden. Maar dus ik denk dat voorlopig wordt er heel veel opgehold over AI. Dat gaat als praktijk ook in onze branche. Het raakt misschien wat van de sector af omdat jullie vrij gereguleerd zijn.
+
+ALAN: Ja, ja.
+
+NEL: En ik denk dan ook dat we er wel mee bezig zijn, want we hebben zo'n VP AI aangenomen, bijvoorbeeld. En ik denk dat, zoals bij de industriële revolutie, er eerder een shift zal zijn, maar de tandartsen zijn toch niet echt verdwenen. Nee, het gaat in jobs veranderen. Maar voorlopig is dat eigenlijk: weet je wat ze gebruiken? Die assistenten die moeten meeting minutes nemen, want dat moet in de trial master file, want alles wat er gebeurt moet gedocumenteerd blijven. Als dat medicijn op de markt is, dan kunnen er alsnog inspecties komen van de FDA en de EMA, de European Medicines Agency. Dus dat moet allemaal gedocumenteerd zijn. En zo hebben ze bijvoorbeeld recent een AI tool aangereikt vanuit onze IT voor de minutes, voor uw recordings.
+
+ALAN: Oké, dat is al vrij vergaand dan.
+
+NEL: Ja, dat is toch maar mager, vind ik. Naar de normen binnen. En ik denk dat ze later misschien wel kunnen met AI zo filteren, patiënten zoeken die in die studie passen. Maar je hebt toch altijd dat menselijk aspect, want je wilt een mens aanspreken en uitleggen.
+
+ALAN: Maar jullie klanten zijn dus typisch farmaceutische bedrijven?
+
+NEL: Ja, en biotech, biotechnologie. En dat is meestal voor een medicijn op de markt komt, of ook als het er al op is. Als het er al op is, dan zijn dat opvolgstudies. Die zijn heel groot maar dat zijn observationele studies meestal. Soms zit er ook een interventionele tussen, maar niet veel. Die studies zijn ook nodig om die certificering te behouden en in de apotheek te geraken.
+
+ALAN: Goed. Ken je het gevoel dat je een beslissing neemt die vroeger misschien logisch leek en nu niet meer, of dat je daar nu meer over twijfelt? Door de versnelling van technologieën bijvoorbeeld. Merkt u dat als je nu naar je job kijkt ten opzichte van vroeger?
+
+NEL: Ah, nee. Door ervaring beslissen veel sneller. Dat is mijn manier van denken geworden. Efficiënter geworden, zou ik het zeggen.
+
+ALAN: Wanneer heb je voor het laatst iets gedaan waarbij het resultaat er niet toe deed, alleen het doen zelf?
+
+NEL: Vorige week ben ik gaan skiën.
+
+ALAN: Oké, dat was gewoon vakantie dan. All right. En zijn er dingen die uw omgeving, uw sector, uw netwerk de afgelopen twee jaar van u heeft aangenomen, die niet meer kloppen?
+
+NEL: Nee. Misschien informatie die ik gegeven heb toen en die nu niet meer klopt? Of hoe dat men naar jou kijkt, dat ze misschien denken: ah, Nel is zo en zo, maar dat dat eigenlijk niet meer klopt. Maar dat heb je altijd, hè. Maar dat is een perceptie. Je kunt daar soms niet veel aan doen, en dan maak je jezelf eigenlijk kei ongelukkig als je er te veel bij stilstaat. Als ik de kans heb, zal ik wel uitleggen van: ik bedoel dat zo en zo. Maar ik ga daar niet te hard door zitten nadenken. Maar dat zal zeker zo zijn. Je werkt dan op één studievloer met 375 mensen over heel de wereld. Er zitten zeker een paar tussen die zeggen: ah, die zaag. Of: ah, die amateur. Of: ah, ik heb die niet graag.
+
+ALAN: Ja, oké. Wat is op dit moment het grootste probleem waar je nog geen goede oplossing voor hebt? Werksgezwijs, hè?
+
+NEL: De integratie van het Belgische team binnen, samen met de UK, Frankrijk en Oost-Europa. En dat is omdat er één vice-president is ontslagen en er een nieuwe is aangenomen die heel hard vanuit zijn eiland werkt. Die vinden zichzelf ook meer waard. Wat ik dan zeg: stuur een keer de Clinical Operations Lead Manager of de project coordinators, dan gaan die dat appreciëren dat die ook betrokken worden in discussies en vragen kunnen stellen. En dan zegt mijn baas: ah ja, dat is wel een goed idee. Dus ik kan zo dingen aanbrengen. En mijn doel is dat heel dat team zich geïntegreerd voelt in het geheel. Onder die nieuwe baas vanuit de UK. Want ik heb de indruk — die heeft ook nog nooit gemanaged vanuit de UK. En ik heb ook al gemeld aan HR: die moet zich gedragen, want die durft soms hobbelen. En hij zegt dan: nee maar, dat is omdat we hier met de director samen zitten en dat is een free forum. Maar dat mag een free forum zijn, maar ik vind dat niet goed. En ik heb dat ook gezegd toen ik hem live zag. Maar ik had het ook al aan HR gemeld. Ik zeg daarbij: ik begrijp wel waar hij van komt, maar hij moet dat afleren. Of je zegt er dan bij: nu ga ik iets lof zeggen, het is niet echt gemeen, maar ik moet er toch eens uit. Maar niet tegen zo'n jonge mensen, begin dertigers, die hij director heeft gemaakt, en dan zo'n attitude. Dat wordt gewoon echt kankerend voor die mensen. Die denken: zo moet dat.
+
+ALAN: Ja, oké. Maar dus dat is eigenlijk meer een bedrijfsprobleem. Maar het is niet iets waar je echt van wakker ligt, in de zin van: je ziet dat en je probeert dat te masseren in de juiste richting?
+
+NEL: Ja, zo. Van wakker liggen, nee. Maar ik ben zover dat ik van niks wakker lig werkgewijs. Want het gras is niet groener bij een ander. Er zijn overal wel issues en problemen en dat hoort erbij.
+
+ALAN: Stel dat je morgen 10.000 euro zou kunnen besteden aan iets wat één probleem fundamenteel oplost. Waar zou dat naartoe gaan?
+
+NEL: Ja, aan datzelfde, aan die integratie.
+
+ALAN: En hoe zou je dat dan specifiek besteden?
+
+NEL: Je zou een face-to-face meeting doen die er goed over gaat, drie dagen lang.
+
+ALAN: Een face-to-face meeting met iedereen?
+
+NEL: Ja, dat werkt altijd, dat is ongelooflijk. Ik heb dat met klanten met studies ook al gehad, of programma's, verschillende studies van één klant. Eén in myasthenia gravis en een ander in IgA-related diseases. En dat draaide echt vierkant en die frustreerden zich. En mijn team was gefrustreerd tot wij, ik denk in juni 2023, met heel ons team naar hun team zijn gereisd. En sindsdien draait dat echt heel goed, en is iedereen tevreden. En dat maakt veel uit, want je zit daar veel uren van de dag mee samen. Dus daar zou ik dan dat geld insteken.
+
+ALAN: Ik heb de indruk dat, gebaseerd op wat we tot nu toe besproken hebben, dat alles vrij stabiel is. Dat je je eigenlijk nergens echt heel druk in maakt, stressgewijs, dat alles onder controle is. Is dat iets dat vooral voor u geldt of heb je dat algemeen in het bedrijf ook zo?
+
+NEL: Nee, toch niet. Dat hangt echt van de persoon af.
+
+ALAN: Ja, oké. Goed. Wat doe je om fysiek scherp te blijven of te ontladen?
+
+NEL: Ik hoor het nu al zeggen: padelen. Ja, padelen, echt. Elke week? Ja, ja, ja. Drie, vier, vijf keer een week. Nu dus niet, want ik heb mijn enkel. Vier weken rustig. En dan ga je op zoek naar iets anders om intussen te kunnen doen? Nee, nee. Ik ga dan met mijn fiets rijden.
+
+ALAN: Heb je ooit iets geprobeerd waarbij je echt uit je comfortzone moest gaan, fysiek of mentaal?
+
+NEL: Ja, ik heb eens een Vespatour gedaan.
+
+ALAN: Een Vespatour? Echt? In Haspengouw ofzo?
+
+NEL: In Limburg. Aan het kasteel van Ordingen, denk ik dat dat vertrekt. Nee, ik ga dat nooit meer doen. Ik heb als kind geen bromfiets gehad. Dat ding is met jou weg, hé, als je er niet aan gewend bent. En die Vespa, je zit daar zo op een stoeltje met je beentjes bij elkaar. Ik voelde mij niet veilig. En dan begon het te regenen, en dat was het einde.
+
+ALAN: En dan zat je achterop of reed je zelf?
+
+NEL: Nee, ik reed zelf. Want ik herinner mij vroeger, Stef had toch zo'n moto? En daar zat jij toch mee achterop? Ja, maar dat was iets anders. Dat was een moto, hé. Een Vespa is zo'n mobiletto. We waren met tien vrienden. Na drie uur rijden en toekomen, heb ik heel hard gehuild van ontlading: oef, ik ben hier af en ik ben niet doodgegaan. Ik dacht echt: ik ga vallen. Dat vond ik niet plezant. Ik probeer van alles, maar dat vond ik niet fijn. Want je moest ook voor je vertrok, zo'n test doen: ik doe maar 50 meter en dan een draaibocht maken en 50 meter terug rijden. En dan zei die verhuurder: meneer, ja, het is goed, jij mag mee. En dus toen zei hij: doe dat nog eens. Iedereen was al geweest en ik was de voorlaatste. En die dacht: die kan dat niet, die heeft geen vertrouwen — doe dat nog eens. En ik nog eens. En dan: ja, het is goed. Dat begon al niet goed, hé.
+
+ALAN: Ja. Oké. En wat is het aan die gegeven situatie dat u dan zo onzeker of gestresseerd maakt?
+
+NEL: Het gevoel dat je het zelf niet onder controle hebt. Ik was daar niet handig in. En ik dacht altijd maar aan de gevolgen. Want skiën doe ik al van mijn vijf jaar. Maar dat controleer je zelf: hoe rap, hoe hard. Toch dan heb je toch meer de controle. Ik vond dat nu echt erg. Ik had die vaardigheid niet.
+
+ALAN: Ja. Wat doet water, oceaan, zee, rivier met u als je er in zit of erbij bent?
+
+NEL: Dat vind ik wel relax. Is dat iets dat je opzoekt of eerder niet? Niet per se. Maar als dat er is, dan heb ik daar mijn deugd van. Ik heb altijd kou, maar als dat er is, dan heb ik daar mijn deugd van.
+
+ALAN: Heb je ooit gesurft?
+
+NEL: Ja, windsurfen.
+
+ALAN: Ah, windsurfen. Dus iets waarbij je volledig overgeleverd bent aan externe kracht.
+
+NEL: Ja, dat is tof. Dat vind ik exciting. Zeilen heb ik ook al verschillende keren gedaan. Dat is tof, ja. Dat geeft wel uitdaging.
+
+ALAN: Maar gewoon golfsurfen heb je nog niet gedaan?
+
+NEL: Nee, nee, daar ben ik nog niet aan gekomen.
+
+ALAN: Kitesurfen ofzo, zijn dat dingen dat u aanspreekt?
+
+NEL: Ja, ja, toch wel.
+
+ALAN: En skiën doe je, maar snowboarden niet?
+
+NEL: Nee, snowboarden niet. Ik ben bij gewoon skiën gebleven. Want dan zit je op je kont en je moest allemaal ook opnieuw beginnen, en daar had ik gewoon geen zin in.
+
+ALAN: Goed. Ga ik even mijn concept of propositie voorstellen. Maar ik heb gezien dat ik het had willen voorlezen maar ik heb het niet afgedrukt, dus ik ga het eventjes zo proberen doen. Mijn ogen zijn al niet meer zo goed, dus ik ga een leesbril. Nee, maar ik denk dat het wel zal lukken.
+
+Dus, Wipe In — dat is de werknaam nu. Ik ga beginnen met het probleem.
+
+Technologie maakt je efficiënter. Dat verandert hoe we werken, hoe sectoren evolueren en hoe ons zenuwstelsel daarmee omgaat. Je omgeving verwacht meer, je levert het ook. Maar ergens onderweg ben je jezelf kwijtgeraakt. Niet dramatisch, niet zichtbaar, maar voelbaar. Je weet wie je bent, maar niet altijd meer vanuit wie je opereert. Wipe In — dat is de werknaam — creëert de condities waarin je dat weer kunt voelen. Niet via gesprekken over jezelf, maar via een onderdompeling in een omgeving die je dwingt aanwezig te zijn. Een zorgvuldig gecureerde week in een uitzonderlijke setting. Surf life als middel, niet als doel. Een kleine groep van mensen die hetzelfde herkennen. Geen plenaire sessies, wel gerichte begeleiding op maat in een doordacht samengesteld duo of trio, of optioneel individueel. Dus geen programma dat je vertelt wie je moet worden, maar een ervaring die je laat voelen wie je altijd al was — en die blijft nadat de golven zijn gaan liggen. Het is specifiek gericht naar ondernemers en C-level executives op een kantelpunt. Dus met controle over hun eigen agenda en budget. Typisch 35-55, hoewel die leeftijd er niet zoveel toe doet. Die wel uitstekend blijven presteren, maar merken dat het verhaal dat ze schrijven eigenlijk wat bijstelling vraagt. Dus geen burn-out ofzo, wel een sluipend gevoel dat wat vroeger vanzelf ging nu meer kost — niet in wat ze doen, maar in waarom ze het doen.
+
+NEL: Nou ja, ik heb er wel zoveel. Ik heb er minder last van zelf. Ik ben altijd zo geweest van: ik doe wat ik moet doen. Dat is niet erg. Als je naar de kelder moet om iets te gaan halen, moet je dat gaan halen. Dat maakt toch niet. Maar ik zie het wel veel in mijn bedrijf dan? Of rondom u? Die zeggen van: ah, moet ik dan nu heel mijn leven nog dit doen? En die zijn ook vijftig plus. En dan is dat moeilijk om nog echt te veranderen. Of veertig, of midden veertig. Ik zou iets anders willen doen, maar dan heb je daar geen ervaring, dan moet je van nul beginnen, en dan brengt dat minder op. En dan is er zo één vriend die doet rewilding. En ik denk dat ik een neef heb die ook zo dingen doet, zoals vakanties, met mensen — vanuit hun bedrijf of privé — om die zo te resetten, zal ik zeggen. Zoals lange wandeltochten. Hier dan in België? Nee, ik denk dat die neef dan in Spanje. En die rewilding ook, dat is soms in de Ardennen, maar soms gewoon hier. En soms ook in het buitenland. En dat is voor bedrijven dan? Of ook individueel? Maar ook individueel. Maar ik denk dan: misschien dat die dat laten sponsoren door hun eigen bedrijf. Onze Amerikanen gaan dat niet. Die zijn daar niet zo voor open? Voor dat soort activiteiten specifiek? Nee, dat is te soft. Of te veel natuur ofzo. Amerikaanse bedrijven: als je er niet in orde bent, dan moet je helemaal weg. Ja, performantie. Die zijn niet zo empathisch.
+
+ALAN: Nee. Oké. Maar dat stoort u niet eigenlijk?
+
+NEL: Nee, maar ik ben ook niet zo bezig met... Ik doe dat wel graag, mijn werk. Wat zou een mens anders doen? En dat hebben denk ik veel jongeren wel: ah, mijn work-life balance. En dan denk ik: maar waarom wil je daar niet eens over nadenken? Je moet toch wel werken, anders kun je niet eten. Dat is echt een shift, hé. En ze hebben allemaal burn-out en bore-out en al heel snel. En die jonge mensen moeten ook heel de tijd goed gedaan, goed gedaan. Dat is erg. En dan komen ze elk half jaar: wanneer heb ik promotie? Wanneer heb ik opslag? Je moet wel eerst leren te stappen en dan leren te lopen.
+
+En nu zie ik dat ook heel fel in de UK waar die nieuwe baas van mij zo heel jong volk heeft gepromoot. En daar is er bijvoorbeeld iemand van 36 die executive director is. En dan heeft hij een klein jaar dat hij veel minder business binnenhaalt. En dan is hij daar echt depressief van, en niet meer gemotiveerd. Maar hij is veel te jong, veel te snel gepromoveerd. Dan gelukt het niet meer. Die beseffen niet meer. Ik zeg dat soms ook tegen die dames die mij rapporteren. En dan zeggen ze: ja, ik moet toch voor mijn eigen ontwikkeling. Ik zeg: je moet eigenlijk in de eerste plaats voor de ontwikkeling van het bedrijf doen. Wat moet gebeuren, moet gebeuren. Anders is er geen bedrijf. En sommigen: ja, maar ik wil niet op zo'n long-term project dat zeven jaar duurt. Wat is dan de uitdaging? Ik zeg: dat weet jij nog niet, want je hebt dat nog nooit gedaan. Dat is niet het enige project dat je doet. Je krijgt er andere kleinere ook bij die sneller gaan. Maar ook daar zitten uitdagingen aan — als een studie dan is van 25.000 patiënten cardiovasculair, met veel overlijdens en bepaalde adverse events die moeten adjudicaten door drie mensen. Als die twee niet overeen komen met nummer drie, dan moet dat centraal geregeld worden. Zulke nieuwigheden. Maar voel je ook vrij om ergens anders naartoe te gaan, dat kan ook. Maar het gras is niet groener bij een ander. En dan zeggen die: oh, ben er blij om. Ik zeg dat nu ook tegen mijn kameraden die dan in andere jobs zitten. Je moet soms echt ook kijken naar wat er wel is. Ik heb hier een firmawagen, ik woon maar op een half uur rijden. Ik mag één dag per week van thuis, maar ik mag ook flex. Er zijn ook zoveel dingen die er wel zijn.
+
+ALAN: Ja, oké. Maar dus om even terug te komen naar je ding — je hebt gezegd van: ja, dat is niet direct iets voor mij. Maar ik zie wel veel mensen rondom mij die daar wel waarschijnlijk op zouden intekenen. Die daar nood aan hebben. Zijn dat dan vooral mensen met een verantwoordelijke functie?
+
+NEL: Ja, ja, ja. Bijvoorbeeld iemand in business development, die moet de targets halen, die moet de klanten, maar heeft het dan niet in de hand of die klant ons gaat kiezen of niet. Je gaat daar met een ploeg van 20 man een verhaal doen en hopen dat wij winnen. En dan zeggen die: nee, je bent niet gekozen, want uw datamanagementkost was te hoog. Dat heeft die business developer niet in de hand. Dat zijn gewoon onze modellen zo. En dan raakt die gefrustreerd. Ondertussen heeft die dan een gezin met twee kinderen en is hij een huis aan het bouwen. En wil die ook nog denken aan zichzelf, gaan sporten, een keer gaan shoppen, een keer met vriendinnen. En dan moet die naar Basel, en dan ineens ergens anders naartoe. En dan denkt die: oef, nu heb ik een week verlof. En dan stuurt er een nieuwe klant op een vrijdag om 6 uur een nieuwe request for proposal. Dan moet die dan nog in gang steken zodat haar back-up dat gaat opvangen voor die week dat ze weg gaan zijn. Maar dat gaat dan niet altijd. Dus die geraken overbelast.
+
+Iemand anders is een man waar die vrouw heel veel druk op legt: jij bent de kostwinner, waarom verdien jij niet meer? Die heeft twee kinderen met autisme, één dat dan begint te puberen en eigenlijk er niet meer bij wil zijn. En die doet die job niet zo graag. Die zegt: ah, ik ben nog zo beu, altijd die klanten pleasen in de service business. Ik zou zo graag iets anders willen doen, maar ik zou niet weten wat. En ja, hij kan ook niet, want zijn vrouw zal het niet toestaan als hij dan minder verdient. Dus die voelen zich in een hoek geduwd. Dat is misschien ook tot zijn eigen besef komen dat hij weer in zijn eigen kracht moet staan.
+
+Maar dat zijn mensen die dat wel op individuele basis zouden moeten doen, want het bedrijf gaat daar zelf niet naartoe. Ik ken eigenlijk geen bedrijven die dat wel doen. Nee? Nee. Maar natuurlijk, het is wel zo als je met een ondernemer van een KMO zit, die wel met zo'n identiteitscrisis zit. Iemand die een goed boerenbedrijf heeft gehad, dat verkocht heeft, en dan plots in een zwart gat valt omdat hij zich zo vereenzelvigd heeft met dat bedrijf dat hij plots een soort identiteitscrisis heeft: wie ben ik eigenlijk? En zich terug even tot zichzelf moet komen om de volgende stap te zetten. Maar die zal dan zelf de financiële middelen hebben en willen uitgeven. Dat is een beetje de doelgroep waar ik op mik. Dan moet je naar de high-level, de grotere verdieners of C-level profielen. Maar dan wel in bedrijven die bereid zijn om dat te betalen voor hun mensen. Maar dat gaat dus minder in de Amerikaanse bedrijven. Je ziet dat bij sommige bedrijven wel meer — banken, die doen dat. Er heeft iemand op ziek verlof wezen, en dan past die bank dan nog bij op de ziekenkassen. Maar of ze dat nu nog doen, want er is overal crisis, dat weet ik niet.
+
+En er is er nog een die werkt bij VDAB, die zie ik altijd op rewilding-posts, bezig met zijn eigen houtblokken te sleuren. Misschien dat zulke bedrijven daar wel. Mijn mama was bedrijfspsycholoog en die heeft bijvoorbeeld Colruyt zo geholpen om te groeien, als die met 30 waren tot als die met 600 waren. Maar dat was één van de enige bedrijven die daar wel geld in wilden steken.
+
+ALAN: Uw mama zou niet direct een functie krijgen binnen zo'n Amerikaans concern?
+
+NEL: Dat was als consultant. Dat is geen return on investment voor een bedrijf, dat is gewoon een weggesmeten kost. Maar als bedrijven zo gaan denken van: die empathie hebben en die burn-out willen voorkomen, dan steken die daar mogelijk wel geld in. Het ding is natuurlijk ook: het is een beetje zo gegroeid bij mij. Ik heb zelf een burn-out gehad, zeven, acht jaar geleden. Toen zat ik even thuis en dan ben ik eigenlijk gaan leren surfen in Bali. En ik moet eerlijk zeggen, dat heeft mij wel heel veel geholpen op dat moment om er bovenop te komen. Dat is zo'n beetje het zaadje geweest om daarna te zeggen van: oké, misschien wil ik daar wel iets mee doen.
+
+De logische eerste stap is van gaan naar mensen die een burn-out gehad hebben. Maar het is ook wel zo dat zeker als dat mensen zijn in dienstverband, waarom zouden die daar veel geld in steken? Want uiteindelijk, ze krijgen een ziekteuitkering ondertussen. En uiteindelijk maakt het voor de werkgever niet zoveel uit of ze drie maanden langer thuis zijn of niet.
+
+ALAN: Maar dat weet ik nog zo niet. Want die zijn wel... ik ken er nu twee zo, hé. Die business development dame die heeft al een vriendin die nu een echte burn-out heeft. Die willen terug, hoe rapper hoe liever. Want die hebben burn-out gekregen omdat dat zo type-A-persoonlijkheden zijn. Die willen met die bananen meegaan, niet opgepakt worden — dus die kunnen er niet tegen wat hun overkomt. Dus die willen wel heel snel terug. En dan gaan die te snel terug, en dan vallen die terug als ze niet oppassen. Dus die moeten dan zo afgeremd worden door die therapeuten. En die vallen dan op 60% van hun loon.
+
+Maar het is misschien toch meer te nuanceren dan dat ik dacht. Want ik dacht: als ik dan iets doe, dan kan ik beter focussen waar de pijn het grootst is. Namelijk bij bedrijfsleiders die uitvallen en waar het bedrijf bij wijze van spreken zonder kapitein zit. Dat is een veel kritischere fase. Dus vandaar dat ik mij meer in die richting gericht heb. Maar goed. En als je zo kijkt naar de activiteiten, bijvoorbeeld surfen — jou zou dat wel aanspreken. Maar als je dan zegt van: ik ken verschillende mensen in mijn bedrijf die misschien wel in aanmerking komen voor zoiets — zie je die als sportief genoeg om op een surfplank te kruipen?
+
+NEL: Ja.
+
+ALAN: Ja?
+
+NEL: Ja. Dat heb ik ook al wel regelmatig opgevangen, dat mensen zeggen van: goh ja, surfen is al heel specifiek. Als je gaat trekken of wandelen, daar kunnen natuurlijk veel meer mensen aan meedoen. Iedereen kan wandelen. Ja, dat is een beetje zoals bij de rewilding. Ja, surfen gaat naar een niche. Maar je kunt dat uitbreiden met van alles anders op dat water of bij dat water. Of het volledige idee... Weet je wat er nog een was dat ik ken? Ik ken iemand met een elektrisch wiel, zo'n wiel met twee voetjes om je voeten op te zetten.
+
+ALAN: Ah, zo'n Segway-achtig ding?
+
+NEL: Ja, maar gewoon een wiel, zonder stuur. En die gaf daar training in om mensen hun evenwicht terug te laten vinden. Letterlijk, maar ook figuurlijk. Dat trekt ook ergens op. Maar het is wel weer technologie.
+
+ALAN: Wat ik nu nog zei: het idee was van, initieel dacht ik: oké, ik richt mij op die ondernemers, C-level profielen, en ik doe daar een soort van intakegesprek mee, waarbij je enerzijds een beetje meer voeling krijgt met die persoon, ook daar een somatische coach bij betrekt, omdat die dan ook niet per se naar het cognitieve kijkt maar meer ook naar de lichaamstaal — wat vertelt het lichaam, zijn er daar misschien spanningen of wat dan ook. En op basis daarvan dan bepalen: is dat iemand die best gaat gaan surfen, of beter gaat gaan duiken bij wijze van spreken?
+
+NEL: Of gaat dat mensen afschrikken? Straks smijten we er allemaal uit. Dan zijn er niet veel klanten meer over.
+
+ALAN: Hoe bedoel je? Omdat het dan te selectief is ofzo?
+
+NEL: Ja, je gaat er al niet veel hebben, want het is een nichemarkt. Nu het idee was van vrij high end en voor 6 tot 8 mensen. Maar je gaat er misschien geen acht bijeen krijgen pas na vijf maanden. Dus er zit wel een wachtperiode. Je moet dan vinden die dat willen en kunnen betalen en een beetje in hetzelfde schuitje zitten. En als je dan gaat creëren... Zoals die Crocs — die gingen toch ook failliet want die schoenen gaan niet kapot. Als iedereen één of twee paar heeft, dan stop je met verkopen. Dus je moet ook denken aan verkopen.
+
+ALAN: Ja, nee, dat is waar. Dus nu de dag van vandaag is het wel zo dat je veel gemakkelijker breder en internationaler kunt gaan sourcen, waardoor je misschien wel op kortere termijn groepjes kunt vinden. Maar goed, blijft wel een belangrijke uitdaging. In plaats van dat je een somatische coach laat bepalen of dat eigenlijk iets goed is voor u — die beslissing, want je bent dat toch niet. Ik zeg nu over echt mensen van ondernemers of C-level die gewoon op een kantelpunt zitten. Die zeggen van: oh, ik moet even afstand nemen. Ik moet even tot mezelf komen. Een beetje voor mij. Dan zeggen die toch nog... Dus je moet dat gewoon verkopen.
+
+Ik heb tot nu toe vooral met mannen gesproken. Alleen maar met mannen. Het is eigenlijk wel opmerkelijk om te zien. Sommigen die zeggen van: goh, laat al die coaching maar voor wat dat is. Laat het maar gewoon een toffe week zijn waar we ons volledig kunnen inuitleven. Dus eerder het concept van Surf Life: je gaat surfen, maar ook alles wat rond dat surfleven zit. Breathwork, cold exposure, noem maar op, maar alles in functie van dat surfen. En vandaar dus echt een soort van Surf Life. En breathwork, en bijvoorbeeld yoga of zo kun je ook doen. Maar dan moet je dat optioneel houden, zodat ze dan niet moeten meedoen.
+
+NEL: Ja, dat kan. Maar ik wil zeggen: ik zou kunnen heel fel inzetten op die Surf Life-ervaring en dat dan heel curated gaan doen in een heel bijzondere setting, alles perfect daarop afgestemd qua look and feel. En daar dan op richten en die coaching er niet in steken, of misschien heel lichtjes optioneel of subtiel verweven. Want er gaan er wel zijn die dan op dag drie zeggen: ik wil misschien toch daar eens mee. Maar dat dat zo open blijft, want anders gaat dat mensen afschrikken. En eerder individueel dan misschien in een groep van vier, vijf, zes mensen?
+
+ALAN: Ja.
+
+NEL: En dan denk ik dus aan mensen van 45 plus. Ik weet niet, die jonge mensen zijn daar misschien wel voor open, maar wij vinden het al rap zweverig. Echt zo, wat ik nu merk gewoon, is van: inderdaad, met nu die mensen te spreken die ondernemers zijn, sommigen hebben zoiets van: mag wel wat coaching zijn, maar individueel of met twee of drie, als een soort van legitimatie ook naar het thuisfront — van: ik ga ergens naartoe, naar een bestemming, om ook even aan mezelf te werken. Maar bij vrouwen zie je vaak wel dat er op dit moment toch veel twintigers en dertigers zijn die zo surfen en dat combineren met yoga en meditatie. Maar dat zijn dan meestal weekends van drie, vier dagen. Waarschijnlijk ook omdat ze nog jonge kinderen hebben. Maar in die leeftijdsgroep daarboven, 40-45 plus — ja, dat is wezenlijk anders. Wij zijn ook zo opgevoed: wat moet gebeuren, vooruit. Ben jij ziek? Dan ga jij vandaag om 7 uur slapen. Dat was allemaal zo niet anders. We staan toch anders in het leven. Maar als je ze kunt laten ontdekken, dan zijn ze wel positief over, denk ik. Maar daarom moet je niet een coach laten bepalen. Je moet die gewoon verkopen, meepakken, en dan gaat die dat nadien bevestigen.
+
+ALAN: Ja, ja, ja. Dat is wel zo. Meer subtiel erin verweven, hé. Want het was ook iemand die zei... In het begin zag ik het eerder inderdaad als een soort van transformatietraject, maar op een week kun je dat niet. En bovendien kwam de commentaar ook van iemand: ik weet daar al superveel van, dus ik zou eerder ambetant worden als ik dan iemand voor mij krijg die er niet zoveel van weet.
+
+NEL: Die zegt echt van: zet volledig in op die Surf Life en beloof daar ook niks rond. Mensen gaan wel voelen van: dit is wel tof eigenlijk. En misschien gaan ze nadien getriggerd zijn om nog iets meer te doen. En ook: misschien de terminologie gewoon basic houden. En ja, het zal vooral gaan om te verkopen, denk ik.
+
+ALAN: Right, goed. Ja, ik had hier zo nog — ja, dat is natuurlijk allemaal een beetje in de veronderstelling dat jij potentieel tot de doelgroep zou behoren, maar aangezien je niet echt op een kantelpunt zit, is dat niet echt het geval. Maar gewoon zo qua activiteiten: surfcoaching, breathwork, cold exposure, yoga — zijn dat zaken dat je denkt: dat zouden wij niet kunnen?
+
+NEL: Ademen wel. Surfen, daar is gewoon wat mee. Ademen wel.
+
+ALAN: Wat was dat? Cold exposure, dat is zo een beetje zoals Wim Hof, ken je dat zo? Dat je echt in een ijsbad zit of zo, waardoor je dat ook cardiovasculair traint.
+
+NEL: Oh nee, daar zou ik wel aan stressen in plaats van gewoon rustig te worden.
+
+ALAN: Oké.
+
+NEL: En yoga, sommige, ik ben daar zelf niet voor, ik vind dat zwevenpoelen. Doe me maar gewoon ademen. Dat noemde ik gewoon ademen. En dat doe je in yoga ook, hé. En dat werkt. En dat is ook wetenschappelijk onderlegd. Daar zijn publicaties van, dat kun je ook gebruiken om te verkopen. Dan zo gewoon: ik ging eens naar een TRE, tension release exercises. Ik had een diepe bilspier die in krampen schoot, en uitstralingspijn, en ik kon niet meer padelen. En ik dacht: ik ga naar de kinesist. En die deed zo drukpuntmassage, en dat deed pijn. Maar dat deed wel, maar daarvan moest ik ineens keihard wenen. Ik kon dat niet tegenhouden. En die zegt: ja, dat is niet erg, dat is normaal. Dat is omdat je dingen losmaakt in je lijf. Ik zeg: wat moet ik dan doen? Moet ik naar de psycholoog? Iedereen heeft toch een rugzak en een levensverhaal. Allee, daarom moet ik nu toch niet zo reageren. Ja, maar ja, dat is normaal. We hebben hier een therapeute en die doet TRE. Ja, oké. Ik dacht: ik zal daar dan eens bij gaan. Dat was ook maar zo ademen en dan twintig keer door je benen bewegen. Niet te traag, dat deed niks cardiovasculair. Dan moest je op je rug gaan liggen met je voetzolen tegen elkaar en je knieën zo uit elkaar. En dan het bibberen, ja, dat was dan het effect. Ik voel me daarna wel oké, na zo'n drie kwartier. Maar ik denk dat dat meer door dat ademen kwam dan door dat blabla. Dat moest ik voor mijn aandoening elk jaar doen, voor die narcolepsie, naar mijn neurologen. Die bouwt dan spanning op door die simpele kleine oefeningen, en dan laat dat los. Dus dat klopt wel, maar of dat dan zo effectief is, dat weet ik niet. Die kinesist wou aan die diepe bilspieren. Dus ik lag met mijn neus in zo'n gat op een tafel. En het deed heel erg pijn, maar dat kwam ineens los. Na drie keer dacht ik: laat het al. Was dat dan meer de manier waarop het gegeven werd? Of dat het zo zwaar was? Ik vroeg dan: en wat heb jij van achtergrond? Ja, die en die cursus. En dan vroeg ik: en hoe werkt dat dan? Maar die legde dan niet uit. En ik denk dat veel van die zielen ook graag een waarom hebben. En als iemand het woord yoga zegt, dan heb ik ook zoiets van: ooh, geitenwolle sokken, zweverige boel, nee. Terwijl als je nu zegt: ademhalingsoefening, gewoon, simpel, dan denk ik: ah ja, ja, ja. Als je dat doet — en je kunt daar literatuur van opzoeken, dat is ook onderbouwd — en als je dat doet, heeft dat effect. Maar die TRE, na een half uur later was dat dan terug foutu, hè. Je hebt daar geen voldoening van. Je hebt je niet ingespannen, je hebt geen doel bereikt, je hebt geen spel gewonnen. Je hebt daar gewoon liggen ademen. En o jee, is het nu nog niet gedaan. Maar je hebt die yoga ook in soorten. Je hebt van die heel sportieve met flik-flaks enzo. Acro yoga enzo.
+
+ALAN: Ja, ik weet niet. Oké, dus begeleiding in duo's of trio's of individueel, ja, dat moet ik wel bekijken. Met de opties, dat is goed als je die opties laat. En dan een ander aspect, dat is zo van de community service — dat is meer dat je aan de lokale gemeenschap ergens iets bijdraagt. Je vliegt naar Marokko heen en terug om te gaan surfen, dat je daar ook een halve dag beach cleaning doet of wat dan ook. Om toch echt als een stukje iets bij te dragen. Eerder iets teruggeven dan: gewoon ik kom hier, ik pak uw golven, bij wijze van spreken.
+
+NEL: Ja, dat vind ik wel leuk. Alleen maar allemaal optioneel houden, uiteraard.
+
+ALAN: En het idee was er ook van: iemand die zei van gewoon een ganse week zonder smartphone, digital detox. Dat is ook dan een optie dat je kunt zeggen: we laten dat ding liggen in de voormiddag ofzo. Maar iedereen vindt dat ontspannend? Zeker jongeren denk ik niet.
+
+NEL: Ik zou dat kunnen. Maar dan 's avonds wel. Of enkel tussen tien en vier in de namiddag leggen we dat ding weg. Ik heb al veel van die tech ondernemers gehoord die zeiden van: ah ja, ze moeten dat inderdaad wel doen. Ja, maar helemaal niks. Sommigen willen dan toch nog naar huis bellen of hun kinderen volgen of iets.
+
+ALAN: Mag je dat niet opleggen? Dan wordt dat zo kleuterig. Of moet dat zo overeenkomen?
+
+NEL: Ja, op de keuze bijna.
+
+ALAN: Allright, goed. Maar dat idee aandienen, want sommigen komen er niet op. Het is natuurlijk hier ook weer opgesteld in functie van: als jij dit zou overwegen — een week, kleine groep, bijzondere bestemming aan de oceaan — welk prijspunt lijkt u realistisch? Exclusief vluchten. Zeven dagen, zes dagen.
+
+NEL: Ja, of wel. Zeg anders de prijs per dag? Nee, dat kan ik niet. Ik moet namelijk denken aan: ik ga zo op padelvakantie. En dan doe je ook, we gaan padelen. En tussendoor doen we een keer de namiddag naar dat stadje rijden, omdat je lijf niet meer kan op dag vier. We hebben dat al twee keer gedaan, en telkens in een hotel wel. En ik ben nu aan het denken, en dat was vijf dagen de eerste keer, zes dagen vorig jaar. En ik denk dat dat 1400 was. Dan het hotel met ontbijt en padellessen, terreinen en lessen, of 1200. En als je dan ook nog 's avonds gaat eten en een keer iets gaat doen, dan kom je aan 2000. En vluchten ook nog, ja, ik denk. Maar dat was Spanje, dat was niet zo ver. We zaten dan aan zoiets van een 2000 totaalpakket zonder vluchten. Die vlucht was dan maar 250 of zo. En dat was voor zes dagen.
+
+ALAN: En was dat dan een gewoon hotel of luxe?
+
+NEL: Dat was een gewoon hotel. Daarvoor hadden we voor dezelfde prijs maar vijf dagen, want dat was een luxe hotel. Dat had wel een zwembad en een groot ontbijtbuffet, maar ik vond het interieur wat... Was dat die in Spanje? Ja, want padel is groot in Spanje.
+
+ALAN: Goed. En stel nu dat je dat als een bedrijf zou doen, zou je dan qua prijsklasse ook verwachten dat dat in die prijsklasse zit?
+
+NEL: Ja, natuurlijk, omdat je dat klein doet. Die Chris belles bijvoorbeeld... Waarom doe je dat dan niet op Tenerife? En toen zei die: ja, ik doe dat soms op Tenerife, maar dan kunnen jullie niet met zes komen naar Tenerife. Want zijn return on investment is dan veel lager als hij zelf zijn reis en hotel moet betalen en dan leraren moet regelen. Dus dan doe hij dat alleen voor groepen van 25. Dus die prijs is... ja. Als je met een kleine groep doet, moet je misschien een prijs... Want hoeveel? Welke groep was dat gericht op? Zes mensen? Ja, toch een klein groepje dan.
+
+ALAN: Speelt ecologische impact mee als je zo'n reis...
+
+NEL: Ik niet, ja. Je stapt op een vliegtuig en die ecologische blabla is al weg. Nee, maar jongeren misschien wel, maar ik niet. Maar die jonge mensen zijn allemaal zo: ah, ik eet geen vlees, en dan: mama, breng mij eens naar de stad. Weet je? Maar bij mij zou dat niet maken.
+
+ALAN: Ja. Maar dat moet ik ook alleen maar aftoetsen: als dat echt iets is waar je zelf zou op intekenen. Maar ik denk dat dat niet echt het geval is, zo begrijp ik het.
+
+NEL: Nee, nee, ik heb dat nu niet nodig. Ik zeg het: ik regel dat voor mezelf zodat ik niet in die situatie beland. Preventief. Je gaat skiën, een eigen weekend naar de zee. Maar je plant dat dan al lang op voorhand? Ik doe dat omdat ik zo ben. Ja, vastgelegd met die vrienden. Die heeft drie kinderen — die moeten dan hun man met die kinderen en alles geregeld hebben. Daarom hebben we dat zo vroeg gedaan. En dan gaat ze nog een weekend naar de zee in juni en dan gaan we met zes naar Italië. Jij plant veel korte mini-vakanties tussendoor. Ja. En ik ga nu ook misschien een week naar Brazilië in het voorjaar. Maar dus ik zeg het: ik doe zo variatie in mijn leven, om gezond te blijven. Want dat is altijd mijn werk. En dit is een telefoon van mijn werk. Dus ik check dat de hele tijd: 's avonds, 's nachts, 's morgens, ook op vakantie. Want dat geeft mij net rust. Want als ik dan terugkom, heb ik niet 2000 e-mails om door te gaan. Want dat is echt fast pace. En ook dan kijk ik: die vraagt dat alleen aan mij.
+
+ALAN: Maar haakt dat dan nooit helemaal af?
+
+NEL: Ja, maar ja, ik heb daar precies geen last van.
+
+ALAN: Oké. Goed. All right. Oké, goed. Dan denk ik dat we er ongeveer wel door zijn. Bedankt dat je alles met plezier hebt willen meegeven.
