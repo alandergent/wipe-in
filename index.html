@@ -486,6 +486,15 @@
     .takeaway__list li { padding-left: 1.5rem; border-left: 3px solid var(--accent); color: var(--muted); font-size: 0.95rem; }
     .takeaway__list li strong { display: block; color: var(--text); margin-bottom: 0.4rem; font-size: 1.05rem; }
 
+    /* ── Social proof ─────────────────────────────────────────────── */
+    .quotes__grid { display: grid; grid-template-columns: 1fr 1fr; gap: 2.5rem; margin-top: 3rem; }
+    @media (max-width: 700px) { .quotes__grid { grid-template-columns: 1fr; } }
+    .quote__card { background: var(--white); border-left: 3px solid var(--accent); padding: 2rem 2rem 1.6rem; border-radius: 0 6px 6px 0; box-shadow: 0 2px 18px rgba(14,61,94,0.07); }
+    .quote__card p { font-size: 1rem; color: var(--text); line-height: 1.7; font-style: italic; margin-bottom: 1.4rem; }
+    .quote__card footer { display: flex; flex-direction: column; gap: 0.15rem; }
+    .quote__card footer strong { font-size: 0.9rem; color: var(--ocean); font-style: normal; font-family: var(--ff); }
+    .quote__card footer span { font-size: 0.78rem; color: var(--muted); font-style: normal; text-transform: uppercase; letter-spacing: 0.04em; }
+
     /* ── Story bio ───────────────────────────────────────────── */
     .story__bio { font-size: 0.88rem; color: var(--muted); font-style: italic; margin-bottom: 1.6rem; }
 
@@ -1147,6 +1156,45 @@
         <strong>Inspirerende sparringpartners die hetzelfde herkennen</strong> — Een nieuwe groep gelijkgestemden — op dezelfde golflengte, gevormd door dezelfde week. Partners om snel mee te kunnen sparren zonder al te veel 'onboarding'.
       </li>
     </ul>
+  </div>
+</section>
+
+<!-- ── SOCIAL PROOF ──────────────────────────────────────────────── -->
+<section class="section section--alt" id="social-proof">
+  <div class="container">
+    <div class="section-header">
+      <p class="section-header__eyebrow"
+         data-nl="Wat anderen zeggen"
+         data-en="What others say"
+         data-fr="Ce que disent les autres">Wat anderen zeggen</p>
+      <h2 data-nl="Herkenbaar?"
+          data-en="Sound familiar?"
+          data-fr="Ça vous parle?">Herkenbaar?</h2>
+    </div>
+    <div class="quotes__grid">
+      <blockquote class="quote__card">
+        <p data-nl="Dat geeft me de reset die ik nodig heb. Ik denk beter als ik in een open, rustige omgeving ben. Minder stimuli, meer ruimte."
+           data-en="That gives me the reset I need. I think better when I'm in an open, calm environment. Less stimuli, more space."
+           data-fr="Ça me donne le reset dont j'ai besoin. Je réfléchis mieux dans un environnement ouvert et calme. Moins de stimuli, plus d'espace.">
+          Dat geeft me de reset die ik nodig heb. Ik denk beter als ik in een open, rustige omgeving ben. Minder stimuli, meer ruimte.
+        </p>
+        <footer>
+          <strong>Gary V.B.</strong>
+          <span data-nl="CEO &amp; founder" data-en="CEO &amp; founder" data-fr="CEO &amp; fondateur">CEO &amp; founder</span>
+        </footer>
+      </blockquote>
+      <blockquote class="quote__card">
+        <p data-nl="Niet alleen de situatie verandert voortdurend, ook mijn motivatie. Het oscilleert. Het is vervelend. Even terug tot mezelf komen in de juiste condities zou me helpen om bewust de volgende stappen te zetten."
+           data-en="Not only does the current situation change a lot continuously, also my motivation does. It is oscillating. It is frustrating. Taking a moment to naturally ground myself in the right circumstances would help me to deliberately move forward."
+           data-fr="Non seulement la situation change constamment, mais aussi ma motivation. Ça oscille. C'est frustrant. Prendre un moment pour me recentrer naturellement dans les bonnes conditions m'aiderait à avancer délibérément.">
+          Niet alleen de situatie verandert voortdurend, ook mijn motivatie. Het oscilleert. Het is vervelend. Even terug tot mezelf komen in de juiste condities zou me helpen om bewust de volgende stappen te zetten.
+        </p>
+        <footer>
+          <strong>Paul G.</strong>
+          <span data-nl="Senior Tech Lead" data-en="Senior Tech Lead" data-fr="Senior Tech Lead">Senior Tech Lead</span>
+        </footer>
+      </blockquote>
+    </div>
   </div>
 </section>
 
