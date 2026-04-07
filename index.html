@@ -488,7 +488,8 @@
 
     /* ── Social proof ─────────────────────────────────────────────── */
     .quotes__grid { display: grid; grid-template-columns: 1fr 1fr; gap: 2.5rem; margin-top: 3rem; }
-    @media (max-width: 700px) { .quotes__grid { grid-template-columns: 1fr; } }
+    .quote__card--wide { grid-column: 1 / -1; }
+    @media (max-width: 700px) { .quotes__grid { grid-template-columns: 1fr; } .quote__card--wide { grid-column: auto; } }
     .quote__card { padding: 0 0 0 1.4rem; border-left: 2px solid var(--accent); }
     .quote__card p { font-size: 1.1rem; color: var(--text); line-height: 1.8; font-style: italic; margin-bottom: 1.4rem; }
     .quote__card .quote__attr { display: flex; flex-direction: column; gap: 0.15rem; }
@@ -1192,6 +1193,17 @@
         <div class="quote__attr">
           <strong>Paul G.</strong>
           <span data-nl="Senior Tech Lead" data-en="Senior Tech Lead" data-fr="Senior Tech Lead">Senior Tech Lead</span>
+        </div>
+      </blockquote>
+      <blockquote class="quote__card quote__card--wide">
+        <p data-nl="&ldquo;Ik ben eigenlijk nogal vergroeid met die rol die ik had. Identiteitscrisis, mag ik het zo noemen? Ja, ik denk het wel. Ik heb daar 20 jaar alles aan gegeven. &mdash; Op dat vlak is surfen een ideale activiteit: je bent alleen maar bezig met hoe kan ik hier recht staan en recht blijven.&rdquo;"
+           data-en="&ldquo;I've actually grown quite attached to the role I had. An identity crisis, can I call it that? Yes, I think so. I gave everything to it for 20 years. &mdash; In that sense, surfing is an ideal activity: you're only focused on how can I stay upright here.&rdquo;"
+           data-fr="&ldquo;Je me suis vraiment fondu dans le rôle que j'avais. Une crise d'identité, puis-je l'appeler ainsi ? Oui, je le crois. J'y ai tout donné pendant 20 ans. &mdash; À cet égard, le surf est une activité idéale : vous êtes uniquement concentré sur comment puis-je rester debout ici.&rdquo;">
+          &ldquo;Ik ben eigenlijk nogal vergroeid met die rol die ik had. Identiteitscrisis, mag ik het zo noemen? Ja, ik denk het wel. Ik heb daar 20 jaar alles aan gegeven. &mdash; Op dat vlak is surfen een ideale activiteit: je bent alleen maar bezig met hoe kan ik hier recht staan en recht blijven.&rdquo;
+        </p>
+        <div class="quote__attr">
+          <strong>Bart D.M.</strong>
+          <span data-nl="Medeoprichter &amp; CTO" data-en="Co-founder &amp; CTO" data-fr="Co-fondateur &amp; CTO">Medeoprichter &amp; CTO</span>
         </div>
       </blockquote>
     </div>
