@@ -1381,6 +1381,9 @@
 </audio>
 
 <script>
+  if (location.protocol !== 'https:' && location.hostname !== 'localhost') {
+    location.replace('https:' + location.href.substring(location.protocol.length));
+  }
   /* ── Language ─────────────────────────────────────────────── */
   const langs = ['nl', 'en', 'fr'];
   let currentLang = 'nl';
