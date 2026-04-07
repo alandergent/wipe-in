@@ -625,6 +625,26 @@
       #sound-toggle svg { width: 22px; height: 22px; }
     }
   </style>
+
+  <!-- ── Google Analytics 4 ─────────────────────────────────────── -->
+  <!-- Vervang G-XXXXXXXXXX door jouw GA4 Measurement ID -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-XXXXXXXXXX');
+  </script>
+
+  <!-- ── Microsoft Clarity ──────────────────────────────────────── -->
+  <!-- Vervang XXXXXXXXXX door jouw Clarity Project ID (10 tekens) -->
+  <script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+      c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+      t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+      y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "XXXXXXXXXX");
+  </script>
 </head>
 <body>
 
@@ -1511,6 +1531,8 @@
         'Status':          '🟡 To review'
       });
       if (res.ok) {
+        if (typeof gtag !== 'undefined') gtag('event', 'intake_form_submit', { event_category: 'conversion' });
+        if (typeof clarity !== 'undefined') clarity('set', 'conversion', 'intake');
         form.style.display = 'none';
         var s = document.getElementById('intake-success');
         if (s) s.style.display = 'block';
@@ -1537,6 +1559,8 @@
         'Status':         '🟢 Active'
       });
       if (res.ok) {
+        if (typeof gtag !== 'undefined') gtag('event', 'waitlist_signup', { event_category: 'conversion' });
+        if (typeof clarity !== 'undefined') clarity('set', 'conversion', 'waitlist');
         form.style.display = 'none';
         var s = document.getElementById('waitlist-success');
         if (s) s.style.display = 'block';
@@ -1587,6 +1611,7 @@
         audio.volume = vol;
         audio.play().catch(function() { setOff(); });
         setOn();
+        if (typeof gtag !== 'undefined') gtag('event', 'sound_on', { event_category: 'engagement' });
       } else {
         audio.pause();
         setOff();
