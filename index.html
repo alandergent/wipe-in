@@ -86,6 +86,19 @@
       background-repeat: repeat;
     }
 
+    /* ── Destination themes ────────────────────────────────────── */
+    /* Morocco — okergeel, terracotta, zellige */
+    [data-destination="morocco"] {
+      --sand: #f5deb5;
+      --foam: #e8c49c;
+    }
+    [data-destination="morocco"] .section--sand,
+    [data-destination="morocco"] .section--alt,
+    [data-destination="morocco"] #social-proof {
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='60' height='10'%3E%3Cpath d='M0 5 C15 2 15 2 30 5 C45 8 45 8 60 5' stroke='%23c87840' stroke-opacity='0.10' stroke-width='1' fill='none'/%3E%3C/svg%3E");
+      background-repeat: repeat;
+    }
+
     /* ── Navigation ───────────────────────────────────────────── */
     nav {
       position: fixed;
@@ -666,7 +679,11 @@
     })(window, document, "clarity", "script", "w83tz92g6l");
   </script>
 </head>
-<body>
+<!-- ══ DESTINATION THEME ══════════════════════════════════════════
+     Verander dit om de paginasfeer aan te passen aan de bestemming.
+     Beschikbare opties: morocco
+     ══════════════════════════════════════════════════════════════ -->
+<body data-destination="morocco">
 
 <!-- ── Sound Toggle ─────────────────────────────────────────────── -->
 <button id="sound-toggle" aria-label="Toggle ocean sound" title="Ocean sound">
