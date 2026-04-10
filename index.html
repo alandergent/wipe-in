@@ -87,14 +87,17 @@
     }
 
     /* ── Destination themes ────────────────────────────────────── */
-    /* Morocco — okergeel, terracotta, zellige, saffraan */
+    /* Morocco — zellige cobalt, saffraan, terracotta */
     [data-destination="morocco"] {
-      --sand:   #f5deb5;
-      --foam:   #e8c49c;
-      --accent: #d4904a;
+      --sand:   #f2d898;
+      --foam:   #e8b870;
+      --accent: #d48820;
     }
     [data-destination="morocco"] #oceaan,
-    [data-destination="morocco"] #faq { background: #006B52; }
+    [data-destination="morocco"] #faq { background: #1a4a90; }
+    [data-destination="morocco"] #praktisch { background:
+        linear-gradient(140deg, rgba(100,40,10,0.84) 0%, rgba(140,65,20,0.76) 100%),
+        url('https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1920&q=80&fit=crop') center/cover no-repeat; }
     [data-destination="morocco"] .section--sand,
     [data-destination="morocco"] .section--alt,
     [data-destination="morocco"] #social-proof {
@@ -716,7 +719,7 @@
      Verander dit om de paginasfeer aan te passen aan de bestemming.
      Beschikbare opties: morocco | portugal | srilanka
      ══════════════════════════════════════════════════════════════ -->
-<body data-destination="srilanka">
+<body data-destination="morocco">
 
 <!-- ── Sound Toggle ─────────────────────────────────────────────── -->
 <button id="sound-toggle" aria-label="Toggle ocean sound" title="Ocean sound">
