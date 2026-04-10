@@ -92,7 +92,13 @@
       color: var(--white);
       letter-spacing: 0.12em;
       text-decoration: none;
+      display: flex;
+      align-items: center;
+      gap: 0.55rem;
     }
+    .nav-logo img { height: 28px; width: auto; }
+    .footer-logo { display: flex; align-items: center; gap: 0.4rem; }
+    .footer-logo img { height: 20px; width: auto; opacity: 0.55; }
 
     .nav-controls {
       display: flex;
@@ -676,7 +682,7 @@
 
 <!-- ── Navigation ──────────────────────────────────────────────────── -->
 <nav>
-  <a href="#" class="nav-logo">WIPE IN</a>
+  <a href="#" class="nav-logo"><img src="images/wipe-in_logo_white.png" alt="WIPE IN logo">WIPE IN</a>
   <div class="nav-controls">
     <div class="lang-buttons">
       <button class="lang-btn" id="lang-btn-1" onclick="switchLang(this)">EN</button>
@@ -1467,7 +1473,7 @@
 
 <!-- ── Footer ──────────────────────────────────────────────────────── -->
 <footer>
-  <span class="footer-logo">WIPE IN</span>
+  <span class="footer-logo"><img src="images/wipe-in_logo_white.png" alt="WIPE IN logo">WIPE IN</span>
 <span>© 2026 Alan Dergent · <a href="mailto:alan@wipe-in.com" style="color:inherit;">alan@wipe-in.com</a></span>
 </footer>
 
