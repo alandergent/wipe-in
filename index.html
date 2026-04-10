@@ -120,18 +120,21 @@
       background-repeat: repeat;
     }
 
-    /* Sri Lanka — tropisch groen, warm koraalzand, gouden tropen */
+    /* Sri Lanka — vlaggroen #00534E, tropisch oranje, vanille */
     [data-destination="srilanka"] {
       --sand:   #f2e8c8;
-      --foam:   #aad4b4;
-      --accent: #c8b040;
+      --foam:   #a8cec8;
+      --accent: #c87818;
     }
     [data-destination="srilanka"] #oceaan,
-    [data-destination="srilanka"] #faq { background: #007A62; }
+    [data-destination="srilanka"] #faq { background: #00534e; }
+    [data-destination="srilanka"] #praktisch { background:
+        linear-gradient(140deg, rgba(120,55,0,0.84) 0%, rgba(160,80,10,0.76) 100%),
+        url('https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1920&q=80&fit=crop') center/cover no-repeat; }
     [data-destination="srilanka"] .section--sand,
     [data-destination="srilanka"] .section--alt,
     [data-destination="srilanka"] #social-proof {
-      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='60' height='10'%3E%3Cpath d='M0 5 C15 2 15 2 30 5 C45 8 45 8 60 5' stroke='%23388060' stroke-opacity='0.10' stroke-width='1' fill='none'/%3E%3C/svg%3E");
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='60' height='10'%3E%3Cpath d='M0 5 C15 2 15 2 30 5 C45 8 45 8 60 5' stroke='%2300534e' stroke-opacity='0.10' stroke-width='1' fill='none'/%3E%3C/svg%3E");
       background-repeat: repeat;
     }
 
@@ -719,7 +722,7 @@
      Verander dit om de paginasfeer aan te passen aan de bestemming.
      Beschikbare opties: morocco | portugal | srilanka
      ══════════════════════════════════════════════════════════════ -->
-<body data-destination="morocco">
+<body data-destination="srilanka">
 
 <!-- ── Sound Toggle ─────────────────────────────────────────────── -->
 <button id="sound-toggle" aria-label="Toggle ocean sound" title="Ocean sound">
