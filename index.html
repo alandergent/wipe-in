@@ -111,6 +111,18 @@
       background-repeat: repeat;
     }
 
+    /* Sri Lanka — tropisch groen, warm koraalzand, kaneel */
+    [data-destination="srilanka"] {
+      --sand: #f2e8c8;
+      --foam: #aad4b4;
+    }
+    [data-destination="srilanka"] .section--sand,
+    [data-destination="srilanka"] .section--alt,
+    [data-destination="srilanka"] #social-proof {
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='60' height='10'%3E%3Cpath d='M0 5 C15 2 15 2 30 5 C45 8 45 8 60 5' stroke='%23388060' stroke-opacity='0.10' stroke-width='1' fill='none'/%3E%3C/svg%3E");
+      background-repeat: repeat;
+    }
+
     /* ── Navigation ───────────────────────────────────────────── */
     nav {
       position: fixed;
@@ -693,9 +705,9 @@
 </head>
 <!-- ══ DESTINATION THEME ══════════════════════════════════════════
      Verander dit om de paginasfeer aan te passen aan de bestemming.
-     Beschikbare opties: morocco | portugal
+     Beschikbare opties: morocco | portugal | srilanka
      ══════════════════════════════════════════════════════════════ -->
-<body data-destination="portugal">
+<body data-destination="srilanka">
 
 <!-- ── Sound Toggle ─────────────────────────────────────────────── -->
 <button id="sound-toggle" aria-label="Toggle ocean sound" title="Ocean sound">
