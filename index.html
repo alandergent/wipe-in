@@ -105,6 +105,24 @@
       background-repeat: repeat;
     }
 
+    /* Morocco Majorelle — Majorelle blauw, terracotta, blush, sable */
+    [data-destination="morocco-majorelle"] {
+      --sand:   #f0c4b0;
+      --foam:   #f2d8b8;
+      --accent: #c05028;
+    }
+    [data-destination="morocco-majorelle"] #oceaan,
+    [data-destination="morocco-majorelle"] #faq { background: #1a3a8a; }
+    [data-destination="morocco-majorelle"] #praktisch { background:
+        linear-gradient(140deg, rgba(140,50,20,0.84) 0%, rgba(160,65,25,0.76) 100%),
+        url('https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1920&q=80&fit=crop') center/cover no-repeat; }
+    [data-destination="morocco-majorelle"] .section--sand,
+    [data-destination="morocco-majorelle"] .section--alt,
+    [data-destination="morocco-majorelle"] #social-proof {
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='60' height='10'%3E%3Cpath d='M0 5 C15 2 15 2 30 5 C45 8 45 8 60 5' stroke='%23c05028' stroke-opacity='0.10' stroke-width='1' fill='none'/%3E%3C/svg%3E");
+      background-repeat: repeat;
+    }
+
     /* Portugal — azul profundo, terracota, arena, olijfgroen */
     [data-destination="portugal"] {
       --sand:   #eed8c2;
@@ -723,9 +741,14 @@
 </head>
 <!-- ══ DESTINATION THEME ══════════════════════════════════════════
      Verander dit om de paginasfeer aan te passen aan de bestemming.
-     Beschikbare opties: morocco | portugal | srilanka
+
+     (geen attribuut)    → originele neutrale huisstijl
+     morocco             → zellige / kobalt + saffraan + oker
+     morocco-majorelle   → Majorelle blauw + terracotta + blush
+     portugal            → azul profundo + terracotta + arena
+     srilanka            → vlaggroen + tropisch oranje + vanille
      ══════════════════════════════════════════════════════════════ -->
-<body data-destination="portugal">
+<body data-destination="morocco-majorelle">
 
 <!-- ── Sound Toggle ─────────────────────────────────────────────── -->
 <button id="sound-toggle" aria-label="Toggle ocean sound" title="Ocean sound">
