@@ -1,0 +1,37 @@
+# WIPE IN — robots.txt
+
+# AI training crawlers: not allowed
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: PerplexityBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: OAI-SearchBot
+Disallow: /
+
+# Search engine indexing: allowed
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# All others: allowed
+User-agent: *
+Allow: /
