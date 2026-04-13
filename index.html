@@ -130,16 +130,16 @@
     }
 
     /* ── Destination themes ────────────────────────────────────── */
-    /* Morocco — zellige cobalt, saffraan, terracotta */
+    /* Morocco — zellige oker + Majorelle blauw + terracotta (finale versie) */
     [data-destination="morocco"] {
       --sand:   #f2d898;
       --foam:   #e8b870;
       --accent: #d48820;
     }
-    [data-destination="morocco"] #oceaan,
-    [data-destination="morocco"] #faq { background-color: #1a4a90; }
+    [data-destination="morocco"] #oceaan { background-color: #1a3a8a; }
+    [data-destination="morocco"] #faq    { background-color: #896a1a; }
     [data-destination="morocco"] #praktisch { background:
-        linear-gradient(140deg, rgba(100,40,10,0.84) 0%, rgba(140,65,20,0.76) 100%),
+        linear-gradient(140deg, rgba(20,45,130,0.84) 0%, rgba(30,60,160,0.76) 100%),
         url('https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1920&q=80&fit=crop') center/cover no-repeat; }
     [data-destination="morocco"] .section--sand,
     [data-destination="morocco"] .section--alt,
@@ -163,24 +163,6 @@
     [data-destination="morocco-majorelle"] .section--alt,
     [data-destination="morocco-majorelle"] #social-proof {
       background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='60' height='10'%3E%3Cpath d='M0 5 C15 2 15 2 30 5 C45 8 45 8 60 5' stroke='%23c05028' stroke-opacity='0.10' stroke-width='1' fill='none'/%3E%3C/svg%3E");
-      background-repeat: repeat;
-    }
-
-    /* Morocco Mix — zellige oker + Majorelle blauw + terracotta */
-    [data-destination="morocco-mix"] {
-      --sand:   #f2d898;
-      --foam:   #e8b870;
-      --accent: #d48820;
-    }
-    [data-destination="morocco-mix"] #oceaan { background-color: #1a3a8a; }
-    [data-destination="morocco-mix"] #faq    { background-color: #896a1a; }
-    [data-destination="morocco-mix"] #praktisch { background:
-        linear-gradient(140deg, rgba(20,45,130,0.84) 0%, rgba(30,60,160,0.76) 100%),
-        url('https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1920&q=80&fit=crop') center/cover no-repeat; }
-    [data-destination="morocco-mix"] .section--sand,
-    [data-destination="morocco-mix"] .section--alt,
-    [data-destination="morocco-mix"] #social-proof {
-      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='60' height='10'%3E%3Cpath d='M0 5 C15 2 15 2 30 5 C45 8 45 8 60 5' stroke='%23c87840' stroke-opacity='0.10' stroke-width='1' fill='none'/%3E%3C/svg%3E");
       background-repeat: repeat;
     }
 
@@ -793,7 +775,7 @@
      portugal            → standaard huisstijl (koel, Atlantisch)
      srilanka            → vlaggroen + tropisch oranje + vanille
      ══════════════════════════════════════════════════════════════ -->
-<body data-destination="morocco-mix">
+<body data-destination="morocco">
 
 <!-- ── Sound Toggle ─────────────────────────────────────────────── -->
 <button id="sound-toggle" aria-label="Toggle ocean sound" title="Ocean sound">
