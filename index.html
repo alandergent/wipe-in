@@ -642,6 +642,10 @@
     .intake-form__group textarea::placeholder { color: rgba(255,255,255,0.22); }
     .intake-form .btn { width: 100%; margin-top: 0.8rem; border: none; cursor: pointer; }
 
+    /* ── Form error message ──────────────────────────────────── */
+    .form-error { color: #e07070; font-size: 0.88rem; margin: 0.5rem 0 0.8rem; }
+    .form-error a { color: var(--accent); }
+
     /* ── Form success messages ───────────────────────────────── */
     .form-success { max-width: 500px; margin: 1.5rem auto 0; padding: 1.5rem 2rem; border: 1px solid rgba(255,255,255,0.15); background: rgba(255,255,255,0.06); text-align: left; }
     .form-success__title { color: var(--accent); font-size: 0.75rem; letter-spacing: 0.15em; text-transform: uppercase; margin-bottom: 0.5rem; }
@@ -1571,6 +1575,12 @@
         <label data-nl="Wat brengt je naar WIPE IN?" data-en="What brings you to WIPE IN?" data-fr="Qu'est-ce qui vous amène à WIPE IN?">Wat brengt je naar WIPE IN?</label>
         <textarea name="motivatie"></textarea>
       </div>
+      <p class="form-error" style="display:none;"
+         data-nl="Er liep iets mis. Stuur je aanvraag rechtstreeks naar alan@wipe-in.com."
+         data-en="Something went wrong. Send your request directly to alan@wipe-in.com."
+         data-fr="Une erreur s'est produite. Envoyez votre demande directement à alan@wipe-in.com.">
+        Er liep iets mis. Stuur je aanvraag rechtstreeks naar <a href="mailto:alan@wipe-in.com">alan@wipe-in.com</a>.
+      </p>
       <div class="intake-form__actions">
         <button type="submit" class="btn btn--primary"
                 data-nl="Vraag intake aan"
@@ -1603,6 +1613,10 @@
         <input type="hidden" name="source" value="wipe-in waitlist" />
         <input type="hidden" name="language" id="waitlist-language" value="nl" />
         <input type="email" name="email" required placeholder="jouw@email.com" />
+        <p class="form-error" style="display:none;"
+           data-nl="Er liep iets mis. Probeer opnieuw."
+           data-en="Something went wrong. Please try again."
+           data-fr="Une erreur s'est produite. Veuillez réessayer.">Er liep iets mis. Probeer opnieuw.</p>
         <button type="submit"
                 data-nl="Hou me op de hoogte"
                 data-en="Keep me posted"
@@ -1705,9 +1719,13 @@
         if (s) s.style.display = 'block';
       } else {
         if (btn) btn.disabled = false;
+        var err = form.querySelector('.form-error');
+        if (err) err.style.display = 'block';
       }
     } catch (e) {
       if (btn) btn.disabled = false;
+      var err = form.querySelector('.form-error');
+      if (err) err.style.display = 'block';
     }
   });
 
@@ -1733,9 +1751,13 @@
         if (s) s.style.display = 'block';
       } else {
         if (btn) btn.disabled = false;
+        var werr = form.querySelector('.form-error');
+        if (werr) werr.style.display = 'block';
       }
     } catch (e) {
       if (btn) btn.disabled = false;
+      var werr = form.querySelector('.form-error');
+      if (werr) werr.style.display = 'block';
     }
   });
 
