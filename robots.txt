@@ -35,3 +35,5 @@ Allow: /
 # All others: allowed
 User-agent: *
 Allow: /
+
+Sitemap: https://wipe-in.com/sitemap.xml
