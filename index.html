@@ -622,7 +622,7 @@
     .practical__card ul { list-style: none; padding: 0; margin: 0; }
     .practical__card ul li { font-size: 0.88rem; color: var(--muted); line-height: 1.65; padding-left: 1rem; position: relative; margin-bottom: 0.2rem; }
     .practical__card ul li::before { content: '·'; position: absolute; left: 0; color: var(--accent); font-weight: bold; }
-    .praktisch__frame { background: #000; padding: 1.2rem; background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='60' height='10'%3E%3Cpath d='M0 5 C15 2 15 2 30 5 C45 8 45 8 60 5' stroke='white' stroke-opacity='0.04' stroke-width='1' fill='none'/%3E%3C/svg%3E"); background-repeat: repeat; }
+    .praktisch__frame { background: #000; padding: 1.2rem; background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='60' height='10'%3E%3Cpath d='M0 5 C15 2 15 2 30 5 C45 8 45 8 60 5' stroke='white' stroke-opacity='0.04' stroke-width='1' fill='none'/%3E%3C/svg%3E"); background-repeat: repeat; overflow-x: hidden; }
     .location__strip { margin-top: 1.2rem; }
     .location__main-img { width: 100%; height: auto; display: block; margin-bottom: 1.2rem; }
     .location__bottom { display: grid; grid-template-columns: 1fr 1fr; gap: 1.2rem; }
@@ -731,6 +731,7 @@
       .section    { padding: 4.5rem 0; }
       .hero       { padding: 8rem 1.5rem 5rem; }
       nav         { padding: 1.2rem 1.5rem; }
+      .practical__grid { grid-template-columns: 1fr; }
     }
 
     /* ── Phase surf background ───────────────────────────────────── */
