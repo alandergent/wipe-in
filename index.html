@@ -103,9 +103,7 @@
     .section    { padding: 7rem 0; }
     .section--alt  { background: var(--foam); }
     #oceaan    { background: #005D66; }
-    #praktisch { background:
-        linear-gradient(140deg, rgba(20,60,40,0.82) 0%, rgba(30,80,50,0.75) 100%),
-        url('images/section-background_beach-aerial.jpg') center/cover no-repeat; }
+    #praktisch { background: #143c28; }
     #oceaan .section-header__eyebrow,
     #praktisch .section-header__eyebrow  { color: rgba(255,255,255,0.55); }
     #oceaan .section-header h2,
@@ -618,9 +616,10 @@
     .practical__card ul li { font-size: 0.88rem; color: var(--muted); line-height: 1.65; padding-left: 1rem; position: relative; margin-bottom: 0.2rem; }
     .practical__card ul li::before { content: '·'; position: absolute; left: 0; color: var(--accent); font-weight: bold; }
     .location__strip { margin-top: 2.5rem; }
-    .location__images { display: grid; grid-template-columns: 3fr 2fr; gap: 0.75rem; }
-    .location__img { width: 100%; height: 320px; object-fit: cover; display: block; }
-    .location__caption { margin-top: 1.5rem; color: rgba(255,255,255,0.82); font-size: 0.95rem; line-height: 1.75; text-align: center; max-width: 680px; margin-left: auto; margin-right: auto; }
+    .location__main-img { width: 100%; height: 380px; object-fit: cover; display: block; margin-bottom: 0.75rem; }
+    .location__bottom { display: grid; grid-template-columns: 45fr 55fr; gap: 0.75rem; align-items: center; }
+    .location__secondary-img { width: 100%; height: 260px; object-fit: cover; display: block; }
+    .location__caption { color: rgba(255,255,255,0.82); font-size: 0.95rem; line-height: 1.75; padding: 0 0.5rem; }
 
     /* ── Card & science icons ────────────────────────────────── */
     .card-icon { display: block; margin-bottom: 1rem; }
@@ -709,8 +708,9 @@
       .for-who__grid       { grid-template-columns: 1fr; }
       .ocean-grid          { grid-template-columns: 1fr; }
       .practical__grid     { grid-template-columns: repeat(2, 1fr); }
-      .location__images    { grid-template-columns: 1fr; }
-      .location__img       { height: 240px; }
+      .location__main-img     { height: 260px; }
+      .location__bottom       { grid-template-columns: 1fr; }
+      .location__secondary-img { height: 220px; }
       .science__list       { grid-template-columns: 1fr; gap: 2rem; }
       .phase               { grid-template-columns: 60px 1fr; gap: 1.2rem; }
       .story__avatar       { aspect-ratio: 3/4; width: 100%; }
@@ -1327,16 +1327,16 @@
     </div>
 
     <div class="location__strip">
-      <div class="location__images">
-        <img src="images/location_terrace-pool.jpg" alt="Terras met uitzicht op de oceaan en de kliffen" class="location__img">
-        <img src="images/location_beach-aerial.jpg" alt="Luchtfoto van de kustlijn bij Mirleft" class="location__img">
-      </div>
-      <p class="location__caption"
+      <img src="images/location_terrace-pool.jpg" alt="Terras met uitzicht op de oceaan en de kliffen" class="location__main-img">
+      <div class="location__bottom">
+        <img src="images/location_beach-aerial.jpg" alt="Luchtfoto van de kustlijn bij Mirleft" class="location__secondary-img">
+        <p class="location__caption"
          data-nl="Geen resort of een hotel. Een ruim en karaktervol huis op de kliffen, met een prachtig terras dat uitkijkt over de oceaan. 'A pool with a view', een weelderige tuin, een vast kookteam, en het geluid van golven als constante achtergrond. Zuid-Marokko zoals je het nog nooit zag. En op drie minuten wandelen van het strand."
          data-en="No resort, no hotel. A spacious and characterful house on the cliffs, with a stunning terrace overlooking the ocean. A pool with a view, a lush garden, a permanent cook team, and the sound of waves as a constant backdrop. Southern Morocco like you have never seen it. Three minutes on foot from the beach."
          data-fr="Pas de resort, pas d'hôtel. Une maison spacieuse et de caractère sur les falaises, avec une magnifique terrasse donnant sur l'océan. Une piscine avec vue, un jardin luxuriant, une équipe culinaire permanente, et le bruit des vagues en fond sonore constant. Le sud du Maroc comme vous ne l'avez jamais vu. À trois minutes à pied de la plage.">
         Geen resort of een hotel. Een ruim en karaktervol huis op de kliffen, met een prachtig terras dat uitkijkt over de oceaan. 'A pool with a view', een weelderige tuin, een vast kookteam, en het geluid van golven als constante achtergrond. Zuid-Marokko zoals je het nog nooit zag. En op drie minuten wandelen van het strand.
-      </p>
+        </p>
+      </div>
     </div>
   </div>
 </section>
