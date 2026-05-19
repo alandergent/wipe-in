@@ -114,7 +114,7 @@
       #oceaan .section-header p          { white-space: nowrap; max-width: none; }
     }
     #oceaan .for-who__card h3, #oceaan .for-who__card p,
-    #praktisch .practical__card h3, #praktisch .practical__card p { color: var(--ocean); }
+    #praktisch .practical__card h3, #praktisch .practical__card p, #praktisch .practical__card ul li { color: var(--ocean); }
     #faq { background: #005D66; }
     #faq .section-header__eyebrow        { color: rgba(255,255,255,0.55); }
     #faq .section-header h2              { color: #fff; }
@@ -614,6 +614,9 @@
     .practical__card h3 { font-family: var(--ff); font-size: 1.05rem; font-weight: 400; color: var(--ocean); margin-bottom: 0.8rem; padding-bottom: 0.7rem; border-bottom: 1px solid rgba(14, 61, 94, 0.1); }
     .practical__card p { font-size: 0.88rem; color: var(--muted); line-height: 1.65; }
     .practical__card .practical__note { margin-top: 0.6rem; font-size: 0.82rem; font-style: italic; }
+    .practical__card ul { list-style: none; padding: 0; margin: 0; }
+    .practical__card ul li { font-size: 0.88rem; color: var(--muted); line-height: 1.65; padding-left: 1rem; position: relative; margin-bottom: 0.2rem; }
+    .practical__card ul li::before { content: '·'; position: absolute; left: 0; color: var(--accent); font-weight: bold; }
 
     /* ── Card & science icons ────────────────────────────────── */
     .card-icon { display: block; margin-bottom: 1rem; }
@@ -1260,31 +1263,40 @@
       <div class="practical__card">
         <span class="card-icon"><svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7z"/><circle cx="12" cy="9" r="2.5"/></svg></span>
         <h3 data-nl="Wanneer en waar" data-en="When and where" data-fr="Quand et où">Wanneer en waar</h3>
-        <p data-nl="Regio Mirleft, Zuid-Marokko · vliegen op Agadir&lt;br&gt;26 september – 3 oktober 2026&lt;br&gt;22–25°C · consistente golven"
-           data-en="Mirleft region, South Morocco · flying to Agadir&lt;br&gt;26 September – 3 October 2026&lt;br&gt;22–25°C · consistent waves"
-           data-fr="Région de Mirleft, Sud-Maroc · vol vers Agadir&lt;br&gt;26 septembre – 3 octobre 2026&lt;br&gt;22–25°C · vagues régulières">
-          Regio Mirleft, Zuid-Marokko · vliegen op Agadir<br>26 september – 3 oktober 2026<br>22–25°C · consistente golven
-        </p>
+        <ul data-nl="&lt;li&gt;Regio Mirleft, Zuid-Marokko · vliegen op Agadir&lt;/li&gt;&lt;li&gt;26 september – 3 oktober 2026&lt;/li&gt;&lt;li&gt;22–25°C · consistente golven&lt;/li&gt;"
+            data-en="&lt;li&gt;Mirleft region, South Morocco · flying to Agadir&lt;/li&gt;&lt;li&gt;26 September – 3 October 2026&lt;/li&gt;&lt;li&gt;22–25°C · consistent waves&lt;/li&gt;"
+            data-fr="&lt;li&gt;Région de Mirleft, Sud-Maroc · vol vers Agadir&lt;/li&gt;&lt;li&gt;26 septembre – 3 octobre 2026&lt;/li&gt;&lt;li&gt;22–25°C · vagues régulières&lt;/li&gt;">
+          <li>Regio Mirleft, Zuid-Marokko · vliegen op Agadir</li>
+          <li>26 september – 3 oktober 2026</li>
+          <li>22–25°C · consistente golven</li>
+        </ul>
       </div>
 
       <div class="practical__card">
         <span class="card-icon"><svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M2 13c2-5 4-5 6 0s4 5 6 0 4-5 6 0"/><path d="M4 18c2-2 3-2 4 0"/></svg></span>
         <h3 data-nl="Surf Life Experience" data-en="Surf Life Experience" data-fr="Surf Life Experience">Surf Life Experience</h3>
-        <p data-nl="7 dagen – 6 nachten&lt;br&gt;Max. 7 deelnemers, handpicked&lt;br&gt;Dagelijks surfen, namiddagprogramma op maat, avonden zonder agenda&lt;br&gt;Programma samengesteld in functie van de groep"
-           data-en="7 days – 6 nights&lt;br&gt;Max. 7 participants, handpicked&lt;br&gt;Daily surfing, tailored afternoon programme, evenings without agenda&lt;br&gt;Programme assembled around the group"
-           data-fr="7 jours – 6 nuits&lt;br&gt;Max. 7 participants, sélectionnés&lt;br&gt;Surf quotidien, programme d'après-midi sur mesure, soirées sans agenda&lt;br&gt;Programme composé en fonction du groupe">
-          7 dagen – 6 nachten<br>Max. 7 deelnemers, handpicked<br>Dagelijks surfen, namiddagprogramma op maat, avonden zonder agenda<br>Programma samengesteld in functie van de groep
-        </p>
+        <ul data-nl="&lt;li&gt;7 dagen – 6 nachten&lt;/li&gt;&lt;li&gt;Max. 7 deelnemers, handpicked&lt;/li&gt;&lt;li&gt;Dagelijks surfen, namiddagprogramma op maat, avonden zonder agenda&lt;/li&gt;&lt;li&gt;Programma samengesteld in functie van de groep&lt;/li&gt;"
+            data-en="&lt;li&gt;7 days – 6 nights&lt;/li&gt;&lt;li&gt;Max. 7 participants, handpicked&lt;/li&gt;&lt;li&gt;Daily surfing, tailored afternoon programme, evenings without agenda&lt;/li&gt;&lt;li&gt;Programme assembled around the group&lt;/li&gt;"
+            data-fr="&lt;li&gt;7 jours – 6 nuits&lt;/li&gt;&lt;li&gt;Max. 7 participants, sélectionnés&lt;/li&gt;&lt;li&gt;Surf quotidien, programme d'après-midi sur mesure, soirées sans agenda&lt;/li&gt;&lt;li&gt;Programme composé en fonction du groupe&lt;/li&gt;">
+          <li>7 dagen – 6 nachten</li>
+          <li>Max. 7 deelnemers, handpicked</li>
+          <li>Dagelijks surfen, namiddagprogramma op maat, avonden zonder agenda</li>
+          <li>Programma samengesteld in functie van de groep</li>
+        </ul>
       </div>
 
       <div class="practical__card">
         <span class="card-icon"><svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><circle cx="12" cy="12" r="9"/><path d="M8 12l3 3 5-6"/></svg></span>
         <h3 data-nl="Inclusief" data-en="Included" data-fr="Inclus">Inclusief</h3>
-        <p data-nl="Privékamer in een karaktervol huis met panoramisch uitzicht op de oceaan en de kliffen (zeezicht of tuinzicht)&lt;br&gt;Alle maaltijden bereid door een vast kookteam ter plaatse&lt;br&gt;Surfcoaching en surfmateriaal&lt;br&gt;Volledig namiddagprogramma in de regio&lt;br&gt;Vervoer van en naar de luchthaven"
-           data-en="Private room in a characterful house with panoramic views of the ocean and the cliffs (sea view or garden view)&lt;br&gt;All meals prepared by a permanent cook team on site&lt;br&gt;Surf coaching and surf equipment&lt;br&gt;Full afternoon programme in the region&lt;br&gt;Transfers to and from the airport"
-           data-fr="Chambre privée dans une maison de caractère avec vue panoramique sur l'océan et les falaises (vue mer ou vue jardin)&lt;br&gt;Tous les repas préparés par une équipe culinaire permanente sur place&lt;br&gt;Coaching surf et matériel de surf&lt;br&gt;Programme d'après-midi complet dans la région&lt;br&gt;Transferts vers et depuis l'aéroport">
-          Privékamer in een karaktervol huis met panoramisch uitzicht op de oceaan en de kliffen (zeezicht of tuinzicht)<br>Alle maaltijden bereid door een vast kookteam ter plaatse<br>Surfcoaching en surfmateriaal<br>Volledig namiddagprogramma in de regio<br>Vervoer van en naar de luchthaven
-        </p>
+        <ul data-nl="&lt;li&gt;Privékamer in een karaktervol huis met panoramisch uitzicht op de oceaan en de kliffen (zeezicht of tuinzicht)&lt;/li&gt;&lt;li&gt;Alle maaltijden bereid door een vast kookteam ter plaatse&lt;/li&gt;&lt;li&gt;Surfcoaching en surfmateriaal&lt;/li&gt;&lt;li&gt;Volledig namiddagprogramma in de regio&lt;/li&gt;&lt;li&gt;Vervoer van en naar de luchthaven&lt;/li&gt;"
+            data-en="&lt;li&gt;Private room in a characterful house with panoramic views of the ocean and the cliffs (sea view or garden view)&lt;/li&gt;&lt;li&gt;All meals prepared by a permanent cook team on site&lt;/li&gt;&lt;li&gt;Surf coaching and surf equipment&lt;/li&gt;&lt;li&gt;Full afternoon programme in the region&lt;/li&gt;&lt;li&gt;Transfers to and from the airport&lt;/li&gt;"
+            data-fr="&lt;li&gt;Chambre privée dans une maison de caractère avec vue panoramique sur l'océan et les falaises (vue mer ou vue jardin)&lt;/li&gt;&lt;li&gt;Tous les repas préparés par une équipe culinaire permanente sur place&lt;/li&gt;&lt;li&gt;Coaching surf et matériel de surf&lt;/li&gt;&lt;li&gt;Programme d'après-midi complet dans la région&lt;/li&gt;&lt;li&gt;Transferts vers et depuis l'aéroport&lt;/li&gt;">
+          <li>Privékamer in een karaktervol huis met panoramisch uitzicht op de oceaan en de kliffen (zeezicht of tuinzicht)</li>
+          <li>Alle maaltijden bereid door een vast kookteam ter plaatse</li>
+          <li>Surfcoaching en surfmateriaal</li>
+          <li>Volledig namiddagprogramma in de regio</li>
+          <li>Vervoer van en naar de luchthaven</li>
+        </ul>
         <p class="practical__note"
            data-nl="Niet inbegrepen: vluchten en persoonlijke reis- en annulatieverzekering."
            data-en="Not included: flights and personal travel/cancellation insurance."
@@ -1296,11 +1308,13 @@
       <div class="practical__card">
         <span class="card-icon"><svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M6 3h12l4 6-10 12L2 9z"/><path d="M2 9h20M6 3l3 6M18 3l-3 6M12 3v6"/></svg></span>
         <h3 data-nl="Investering" data-en="Investment" data-fr="Investissement">Investering</h3>
-        <p data-nl="Investeringsniveau van een kwalitatief executive programma.&lt;br&gt;Mogelijk interessant als bedrijfsuitgave, bespreek met je boekhouder.&lt;br&gt;Prijs wordt besproken tijdens het intakegesprek."
-           data-en="Investment level of a quality executive programme.&lt;br&gt;Potentially interesting as a business expense — check with your accountant.&lt;br&gt;Price is discussed during the intake conversation."
-           data-fr="Niveau d'investissement d'un programme exécutif de qualité.&lt;br&gt;Potentiellement intéressant comme dépense professionnelle, à vérifier avec votre comptable.&lt;br&gt;Le prix est abordé lors de l'entretien.">
-          Investeringsniveau van een kwalitatief executive programma.<br>Mogelijk interessant als bedrijfsuitgave, bespreek met je boekhouder.<br>Prijs wordt besproken tijdens het intakegesprek.
-        </p>
+        <ul data-nl="&lt;li&gt;Investeringsniveau van een kwalitatief executive programma&lt;/li&gt;&lt;li&gt;Mogelijk interessant als bedrijfsuitgave, bespreek met je boekhouder&lt;/li&gt;&lt;li&gt;Prijs wordt besproken tijdens het intakegesprek&lt;/li&gt;"
+            data-en="&lt;li&gt;Investment level of a quality executive programme&lt;/li&gt;&lt;li&gt;Potentially interesting as a business expense, check with your accountant&lt;/li&gt;&lt;li&gt;Price is discussed during the intake conversation&lt;/li&gt;"
+            data-fr="&lt;li&gt;Niveau d'investissement d'un programme exécutif de qualité&lt;/li&gt;&lt;li&gt;Potentiellement intéressant comme dépense professionnelle, à vérifier avec votre comptable&lt;/li&gt;&lt;li&gt;Le prix est abordé lors de l'entretien&lt;/li&gt;">
+          <li>Investeringsniveau van een kwalitatief executive programma</li>
+          <li>Mogelijk interessant als bedrijfsuitgave, bespreek met je boekhouder</li>
+          <li>Prijs wordt besproken tijdens het intakegesprek</li>
+        </ul>
       </div>
 
     </div>
