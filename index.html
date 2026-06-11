@@ -360,46 +360,32 @@
       width: 100%;
       aspect-ratio: 16 / 9;
       overflow: hidden;
-      cursor: pointer;
     }
-    .video-reel__wrapper iframe {
+    #ytPlayer {
       position: absolute;
       inset: 0;
       width: 100%;
       height: 100%;
       border: 0;
-      display: block;
     }
-    .video-reel__facade {
+    .video-reel__sound {
       position: absolute;
-      inset: 0;
-      width: 100%;
-      height: 100%;
-      z-index: 2;
-    }
-    .video-reel__facade img {
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-      display: block;
-    }
-    .video-reel__play {
-      position: absolute;
-      inset: 0;
+      bottom: 1.2rem;
+      right: 1.2rem;
+      z-index: 3;
+      background: rgba(0,0,0,0.45);
+      border: 1px solid rgba(255,255,255,0.25);
+      border-radius: 50%;
+      width: 44px;
+      height: 44px;
       display: flex;
       align-items: center;
       justify-content: center;
-      background: rgba(0,0,0,0.25);
-      transition: background 0.25s;
+      cursor: pointer;
+      transition: background 0.2s;
     }
-    .video-reel__facade:hover .video-reel__play { background: rgba(0,0,0,0.4); }
-    .video-reel__play svg {
-      width: 72px;
-      height: 72px;
-      filter: drop-shadow(0 2px 12px rgba(0,0,0,0.5));
-      transition: transform 0.2s;
-    }
-    .video-reel__facade:hover .video-reel__play svg { transform: scale(1.1); }
+    .video-reel__sound:hover { background: rgba(0,0,0,0.7); }
+    .video-reel__sound svg { width: 20px; height: 20px; fill: white; }
 
     /* ── Concept ──────────────────────────────────────────────── */
     .problem__grid {
@@ -940,23 +926,14 @@
 
 <!-- ── Video reel ──────────────────────────────────────────────────── -->
 <section class="video-reel">
-  <div class="video-reel__wrapper" id="videoReel">
-    <iframe
-      src="https://www.youtube.com/embed/tCF-87_U_R0?rel=0&modestbranding=1&loop=1&playlist=tCF-87_U_R0"
-      title="WIPE IN"
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-      allowfullscreen>
-    </iframe>
-    <div class="video-reel__facade" id="videoFacade">
-      <img src="images/wipe-in_hero-video-poster.png" alt="">
-      <div class="video-reel__play">
-        <svg viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
-          <circle cx="36" cy="36" r="36" fill="white" fill-opacity="0.2"/>
-          <circle cx="36" cy="36" r="35.5" stroke="white" stroke-opacity="0.5"/>
-          <polygon points="29,22 55,36 29,50" fill="white"/>
-        </svg>
-      </div>
-    </div>
+  <div class="video-reel__wrapper">
+    <div id="ytPlayer"></div>
+    <button class="video-reel__sound" id="soundToggle" aria-label="Geluid aan/uit">
+      <!-- muted icon -->
+      <svg id="iconMuted" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M16.5 12c0-1.77-1.02-3.29-2.5-4.03v2.21l2.45 2.45c.03-.2.05-.41.05-.63zm2.5 0c0 .94-.2 1.82-.54 2.64l1.51 1.51C20.63 14.91 21 13.5 21 12c0-4.28-2.99-7.86-7-8.77v2.06c2.89.86 5 3.54 5 6.71zM4.27 3L3 4.27 7.73 9H3v6h4l5 5v-6.73l4.25 4.25c-.67.52-1.42.93-2.25 1.18v2.06c1.38-.31 2.63-.95 3.69-1.81L19.73 21 21 19.73l-9-9L4.27 3zM12 4L9.91 6.09 12 8.18V4z"/></svg>
+      <!-- unmuted icon -->
+      <svg id="iconSound" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" style="display:none"><path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3c0-1.77-1.02-3.29-2.5-4.03v8.05c1.48-.73 2.5-2.25 2.5-4.02zM14 3.23v2.06c2.89.86 5 3.54 5 6.71s-2.11 5.85-5 6.71v2.06c4.01-.91 7-4.49 7-8.77s-2.99-7.86-7-8.77z"/></svg>
+    </button>
   </div>
 </section>
 
@@ -1895,13 +1872,40 @@
   })();
 
   (function () {
-    const facade = document.getElementById('videoFacade');
-    const wrapper = document.getElementById('videoReel');
-    if (!facade || !wrapper) return;
-    facade.addEventListener('click', function () {
-      const iframe = wrapper.querySelector('iframe');
-      iframe.src = iframe.src + '&autoplay=1&mute=1';
-      facade.style.display = 'none';
+    var tag = document.createElement('script');
+    tag.src = 'https://www.youtube.com/iframe_api';
+    document.head.appendChild(tag);
+
+    var player;
+    window.onYouTubeIframeAPIReady = function () {
+      player = new YT.Player('ytPlayer', {
+        videoId: 'tCF-87_U_R0',
+        playerVars: {
+          autoplay: 1,
+          mute: 1,
+          loop: 1,
+          playlist: 'tCF-87_U_R0',
+          controls: 0,
+          rel: 0,
+          modestbranding: 1,
+          playsinline: 1
+        }
+      });
+    };
+
+    var muted = true;
+    document.getElementById('soundToggle').addEventListener('click', function () {
+      if (!player) return;
+      if (muted) {
+        player.unMute();
+        document.getElementById('iconMuted').style.display = 'none';
+        document.getElementById('iconSound').style.display = '';
+      } else {
+        player.mute();
+        document.getElementById('iconMuted').style.display = '';
+        document.getElementById('iconSound').style.display = 'none';
+      }
+      muted = !muted;
     });
   })();
 
