@@ -1889,6 +1889,14 @@
           rel: 0,
           modestbranding: 1,
           playsinline: 1
+        },
+        events: {
+          onStateChange: function (e) {
+            if (e.data === YT.PlayerState.ENDED) {
+              player.seekTo(0);
+              player.playVideo();
+            }
+          }
         }
       });
     };
