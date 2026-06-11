@@ -355,12 +355,12 @@
 
     /* ── Video reel ──────────────────────────────────────────── */
     .video-reel { padding: 0; background: var(--deep); }
-    .video-reel .container { max-width: 1100px; }
     .video-reel__wrapper {
       position: relative;
       width: 100%;
       aspect-ratio: 16 / 9;
       overflow: hidden;
+      cursor: pointer;
     }
     .video-reel__wrapper iframe {
       position: absolute;
@@ -370,6 +370,36 @@
       border: 0;
       display: block;
     }
+    .video-reel__facade {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      z-index: 2;
+    }
+    .video-reel__facade img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+    .video-reel__play {
+      position: absolute;
+      inset: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: rgba(0,0,0,0.25);
+      transition: background 0.25s;
+    }
+    .video-reel__facade:hover .video-reel__play { background: rgba(0,0,0,0.4); }
+    .video-reel__play svg {
+      width: 72px;
+      height: 72px;
+      filter: drop-shadow(0 2px 12px rgba(0,0,0,0.5));
+      transition: transform 0.2s;
+    }
+    .video-reel__facade:hover .video-reel__play svg { transform: scale(1.1); }
 
     /* ── Concept ──────────────────────────────────────────────── */
     .problem__grid {
@@ -910,13 +940,23 @@
 
 <!-- ── Video reel ──────────────────────────────────────────────────── -->
 <section class="video-reel">
-  <div class="video-reel__wrapper">
+  <div class="video-reel__wrapper" id="videoReel">
     <iframe
-      src="https://www.youtube.com/embed/tCF-87_U_R0?rel=0&modestbranding=1"
+      src="https://www.youtube.com/embed/tCF-87_U_R0?rel=0&modestbranding=1&loop=1&playlist=tCF-87_U_R0"
       title="WIPE IN"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
       allowfullscreen>
     </iframe>
+    <div class="video-reel__facade" id="videoFacade">
+      <img src="images/wipe-in_hero-video-poster.png" alt="">
+      <div class="video-reel__play">
+        <svg viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <circle cx="36" cy="36" r="36" fill="white" fill-opacity="0.2"/>
+          <circle cx="36" cy="36" r="35.5" stroke="white" stroke-opacity="0.5"/>
+          <polygon points="29,22 55,36 29,50" fill="white"/>
+        </svg>
+      </div>
+    </div>
   </div>
 </section>
 
@@ -1854,6 +1894,16 @@
     });
   })();
 
+  (function () {
+    const facade = document.getElementById('videoFacade');
+    const wrapper = document.getElementById('videoReel');
+    if (!facade || !wrapper) return;
+    facade.addEventListener('click', function () {
+      const iframe = wrapper.querySelector('iframe');
+      iframe.src = iframe.src + '&autoplay=1&mute=1';
+      facade.style.display = 'none';
+    });
+  })();
 
 </script>
 
