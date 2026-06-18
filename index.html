@@ -124,6 +124,7 @@
     #faq .section-header__eyebrow        { color: rgba(255,255,255,0.55); }
     #faq .section-header h2              { color: #fff; }
     #faq .faq__q                         { color: rgba(255,255,255,0.95); }
+    #faq .faq__q::after                  { color: rgba(255,255,255,0.95); }
     #faq .faq__a                         { color: rgba(255,255,255,0.72); }
     #faq .faq__item                      { border-top-color: rgba(255,255,255,0.15); }
     #faq .faq__item:last-child,
@@ -642,8 +643,11 @@
     @media (min-width: 740px) {
       .faq__item:nth-last-child(2) { border-bottom: 1px solid rgba(0,0,0,0.09); }
     }
-    .faq__q { font-family: var(--fs); font-weight: 600; color: var(--ocean); margin-bottom: 0.55rem; font-size: 1rem; }
-    .faq__a { color: var(--muted); font-size: 0.93rem; line-height: 1.75; max-width: 62ch; }
+    .faq__q { font-family: var(--fs); font-weight: 600; color: var(--ocean); margin-bottom: 0; font-size: 1rem; cursor: pointer; display: flex; justify-content: space-between; align-items: flex-start; gap: 1rem; user-select: none; }
+    .faq__q::after { content: '+'; font-size: 1.25rem; font-weight: 300; line-height: 1.2; flex-shrink: 0; color: var(--ocean); }
+    .faq__item.is-open .faq__q::after { content: '−'; }
+    .faq__a { color: var(--muted); font-size: 0.93rem; line-height: 1.75; max-width: 62ch; max-height: 0; overflow: hidden; opacity: 0; margin-top: 0; transition: max-height 0.35s ease, opacity 0.25s ease, margin-top 0.25s ease; }
+    .faq__item.is-open .faq__a { max-height: 800px; opacity: 1; margin-top: 0.55rem; }
 
     /* ── Phase includes ──────────────────────────────────────── */
     .phase__includes { margin-top: 1.4rem; display: grid; grid-template-columns: 1fr 1fr; gap: 0.8rem 2rem; }
@@ -1698,6 +1702,13 @@
   if (location.protocol !== 'https:' && location.hostname !== 'localhost') {
     location.replace('https:' + location.href.substring(location.protocol.length));
   }
+  /* ── FAQ accordion ───────────────────────────────────────── */
+  document.querySelectorAll('.faq__q').forEach(q => {
+    q.addEventListener('click', () => {
+      q.closest('.faq__item').classList.toggle('is-open');
+    });
+  });
+
   /* ── Language ─────────────────────────────────────────────── */
   const langs = ['nl', 'en', 'fr'];
   let currentLang = 'nl';
