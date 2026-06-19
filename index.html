@@ -460,6 +460,21 @@
       position: relative; color: var(--muted); font-size: 0.95rem;
     }
     .phase__bullets li::before { content: '—'; position: absolute; left: 0; color: var(--accent); }
+    .themes__list { list-style: none; padding: 0; margin: 0; text-align: center; }
+    .themes__list li {
+      padding: 0.8rem 0;
+      color: var(--muted);
+      font-size: 1rem;
+      border-bottom: 1px solid rgba(0,0,0,0.07);
+    }
+    .themes__list li:first-child { border-top: 1px solid rgba(0,0,0,0.07); }
+    .themes__pullquote {
+      margin-top: 2.5rem;
+      font-size: 1.15rem;
+      color: var(--accent);
+      font-style: italic;
+      text-align: center;
+    }
 
     /* ── Ocean cards ──────────────────────────────────────────── */
     .ocean-grid {
@@ -1296,8 +1311,8 @@
         Surfen als middel, de oceaan als spiegel. De context creëert het kader. Thema's die intrinsiek verbonden zijn met hoe je als ondernemer functioneert, komen vanzelf aan bod:
       </p>
     </div>
-    <div style="max-width: 560px; margin: 0 auto;">
-      <ul class="phase__bullets"
+    <div style="max-width: 480px; margin: 0 auto;">
+      <ul class="themes__list"
           data-nl="&lt;li&gt;Beslissen onder onzekerheid&lt;/li&gt;&lt;li&gt;Omgaan met verlies van controle&lt;/li&gt;&lt;li&gt;Ritme en herstel als strategisch instrument&lt;/li&gt;&lt;li&gt;Wat aandacht opeist versus wat energie geeft&lt;/li&gt;&lt;li&gt;Wat je achterlaat, en wat je meeneemt&lt;/li&gt;"
           data-en="&lt;li&gt;Deciding under uncertainty&lt;/li&gt;&lt;li&gt;Dealing with loss of control&lt;/li&gt;&lt;li&gt;Rhythm and recovery as a strategic tool&lt;/li&gt;&lt;li&gt;What demands attention versus what gives energy&lt;/li&gt;&lt;li&gt;What you leave behind, and what you take with you&lt;/li&gt;"
           data-fr="&lt;li&gt;Décider dans l'incertitude&lt;/li&gt;&lt;li&gt;Gérer la perte de contrôle&lt;/li&gt;&lt;li&gt;Le rythme et la récupération comme outil stratégique&lt;/li&gt;&lt;li&gt;Ce qui accapare l'attention face à ce qui donne de l'énergie&lt;/li&gt;&lt;li&gt;Ce que vous laissez derrière vous, et ce que vous emportez&lt;/li&gt;">
@@ -1307,7 +1322,7 @@
         <li>Wat aandacht opeist versus wat energie geeft</li>
         <li>Wat je achterlaat, en wat je meeneemt</li>
       </ul>
-      <p style="margin-top: 1.5rem; color: var(--muted); font-size: 1.05rem;"
+      <p class="themes__pullquote"
          data-nl="Wat je er concreet uithaalt, is aan jou."
          data-en="What you concretely take from it, is up to you."
          data-fr="Ce que vous en retirez concrètement, c'est à vous de le décider.">
@@ -1404,10 +1419,10 @@
       <div class="practical__card">
         <span class="card-icon"><svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M6 3h12l4 6-10 12L2 9z"/><path d="M2 9h20M6 3l3 6M18 3l-3 6M12 3v6"/></svg></span>
         <h3 data-nl="Investering" data-en="Investment" data-fr="Investissement">Investering</h3>
-        <ul data-nl="&lt;li&gt;Tussen €7.000 en €9.500 per deelnemer (afhankelijk van kamertype), exclusief vluchten&lt;/li&gt;&lt;li&gt;Vlucht Brussel-Agadir inbegrepen voor wie bevestigt voor 30 juni (heen en terug, directe vlucht van 3,5 uur)&lt;/li&gt;&lt;li&gt;Aanbetaling van 40% bevestigt je plek&lt;/li&gt;&lt;li&gt;Gefactureerd met volledig programmaoverzicht. Bespreek met je accountant of dit als beroepsprogramma aftrekbaar is in jouw situatie.&lt;/li&gt;"
-            data-en="&lt;li&gt;Between €7,000 and €9,500 per participant (depending on room type), excluding flights&lt;/li&gt;&lt;li&gt;Flight Brussels–Agadir included for those who confirm before 30 June (return, direct flight of 3.5 hours)&lt;/li&gt;&lt;li&gt;40% deposit confirms your spot&lt;/li&gt;&lt;li&gt;Invoiced with a full programme overview. Discuss with your accountant whether this qualifies as a deductible professional programme in your situation.&lt;/li&gt;"
-            data-fr="&lt;li&gt;Entre €7.000 et €9.500 par participant (selon le type de chambre), hors vols&lt;/li&gt;&lt;li&gt;Vol Bruxelles-Agadir inclus pour qui confirme avant le 30 juin (aller-retour, vol direct de 3h30)&lt;/li&gt;&lt;li&gt;Un acompte de 40% confirme votre place&lt;/li&gt;&lt;li&gt;Facturé avec un aperçu complet du programme. Discutez avec votre comptable si cela est déductible comme programme professionnel dans votre situation.&lt;/li&gt;">
-          <li>Tussen €7.000 en €9.500 per deelnemer (afhankelijk van kamertype), exclusief vluchten</li>
+        <ul data-nl="&lt;li&gt;Tussen €6.000 en €8.500 per deelnemer (afhankelijk van kamertype), exclusief vluchten&lt;/li&gt;&lt;li&gt;Vlucht Brussel-Agadir inbegrepen voor wie bevestigt voor 30 juni (heen en terug, directe vlucht van 3,5 uur)&lt;/li&gt;&lt;li&gt;Aanbetaling van 40% bevestigt je plek&lt;/li&gt;&lt;li&gt;Gefactureerd met volledig programmaoverzicht. Bespreek met je accountant of dit als beroepsprogramma aftrekbaar is in jouw situatie.&lt;/li&gt;"
+            data-en="&lt;li&gt;Between €6,000 and €8,500 per participant (depending on room type), excluding flights&lt;/li&gt;&lt;li&gt;Flight Brussels–Agadir included for those who confirm before 30 June (return, direct flight of 3.5 hours)&lt;/li&gt;&lt;li&gt;40% deposit confirms your spot&lt;/li&gt;&lt;li&gt;Invoiced with a full programme overview. Discuss with your accountant whether this qualifies as a deductible professional programme in your situation.&lt;/li&gt;"
+            data-fr="&lt;li&gt;Entre €6.000 et €8.500 par participant (selon le type de chambre), hors vols&lt;/li&gt;&lt;li&gt;Vol Bruxelles-Agadir inclus pour qui confirme avant le 30 juin (aller-retour, vol direct de 3h30)&lt;/li&gt;&lt;li&gt;Un acompte de 40% confirme votre place&lt;/li&gt;&lt;li&gt;Facturé avec un aperçu complet du programme. Discutez avec votre comptable si cela est déductible comme programme professionnel dans votre situation.&lt;/li&gt;">
+          <li>Tussen €6.000 en €8.500 per deelnemer (afhankelijk van kamertype), exclusief vluchten</li>
           <li>Vlucht Brussel-Agadir inbegrepen voor wie bevestigt voor 30 juni (heen en terug, directe vlucht van 3,5 uur)</li>
           <li>Aanbetaling van 40% bevestigt je plek</li>
           <li>Gefactureerd met volledig programmaoverzicht. Bespreek met je accountant of dit als beroepsprogramma aftrekbaar is in jouw situatie.</li>
