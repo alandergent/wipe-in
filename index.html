@@ -874,44 +874,38 @@
      ══════════════════════════════════════════════════════════════ -->
 <body data-destination="portugal">
 
-<!-- ── Announcement Banner ──────────────────────────────────────── -->
+<!-- ── Nav Announcement ───────────────────────────────────────────── -->
 <style>
-  .announcement-banner {
-    background: rgba(6, 29, 46, 0.82);
-    backdrop-filter: blur(10px);
-    -webkit-backdrop-filter: blur(10px);
-    color: var(--white);
+  .nav-announcement {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
     text-align: center;
-    padding: 0.75rem 2rem;
     display: flex;
     flex-direction: column;
-    align-items: center;
-    gap: 0.15rem;
-    position: absolute;
-    bottom: 0; left: 0; right: 0;
-    z-index: 10;
+    gap: 0.1rem;
+    pointer-events: none;
   }
-  .announcement-banner__label {
-    font-size: 0.65rem;
+  .nav-announcement__label {
+    font-size: 0.6rem;
     font-family: var(--fs);
     letter-spacing: 0.2em;
     text-transform: uppercase;
     color: var(--accent);
   }
-  .announcement-banner__text {
+  .nav-announcement__text {
     font-family: var(--ff);
-    font-size: clamp(0.95rem, 1.8vw, 1.1rem);
+    font-size: 0.88rem;
     font-weight: 400;
-    color: rgba(255,255,255,0.92);
+    color: rgba(255,255,255,0.88);
     line-height: 1.3;
   }
-  .announcement-banner__text em {
+  .nav-announcement__text em {
     color: var(--accent);
     font-style: normal;
   }
-  @media (max-width: 640px) {
-    .announcement-banner { padding: 0.65rem 1.25rem; }
-    .announcement-banner__text { font-size: 0.88rem; }
+  @media (max-width: 900px) {
+    .nav-announcement { display: none; }
   }
 </style>
 
@@ -944,6 +938,18 @@
 <!-- ── Navigation ──────────────────────────────────────────────────── -->
 <nav>
   <a href="#" class="nav-logo"><img src="images/wipe-in_logo_white_v2.png" alt="WIPE IN logo">WIPE&nbsp;IN</a>
+  <div class="nav-announcement">
+    <span class="nav-announcement__label"
+          data-nl="Voor snelle beslissers"
+          data-en="For fast movers"
+          data-fr="Pour les décideurs rapides">Voor snelle beslissers</span>
+    <span class="nav-announcement__text"
+          data-nl="Bevestig uiterlijk 30 juni en de directe vlucht <em>Brussel-Agadir-Brussel</em> is inbegrepen."
+          data-en="Confirm by 30 June and the direct flight <em>Brussels-Agadir-Brussels</em> is included."
+          data-fr="Confirmez d'ici le 30 juin et le vol direct <em>Bruxelles-Agadir-Bruxelles</em> est inclus.">
+      Bevestig uiterlijk 30 juni en de directe vlucht <em>Brussel-Agadir-Brussel</em> is inbegrepen.
+    </span>
+  </div>
   <div class="nav-controls">
     <div class="lang-buttons">
       <button class="lang-btn" id="lang-btn-1" onclick="switchLang(this)">EN</button>
@@ -984,18 +990,6 @@
     </div>
   </div>
   <span class="hero__scroll">Scroll</span>
-  <div class="announcement-banner">
-    <span class="announcement-banner__label"
-          data-nl="Voor snelle beslissers"
-          data-en="For fast movers"
-          data-fr="Pour les décideurs rapides">Voor snelle beslissers</span>
-    <span class="announcement-banner__text"
-          data-nl="Bevestig uiterlijk 30 juni en de directe vlucht <em>Brussel-Agadir-Brussel</em> is inbegrepen."
-          data-en="Confirm by 30 June and the direct flight <em>Brussels-Agadir-Brussels</em> is included."
-          data-fr="Confirmez d'ici le 30 juin et le vol direct <em>Bruxelles-Agadir-Bruxelles</em> est inclus.">
-      Bevestig uiterlijk 30 juni en de directe vlucht <em>Brussel-Agadir-Brussel</em> is inbegrepen.
-    </span>
-  </div>
 </section>
 
 <!-- ── Video reel ──────────────────────────────────────────────────── -->
