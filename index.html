@@ -285,7 +285,7 @@
         linear-gradient(160deg, rgba(0,60,70,0.84) 0%, rgba(0,105,110,0.74) 55%, rgba(0,135,125,0.64) 100%),
         url('images/hero_ocean-surfer.jpg') center/cover no-repeat;
       color: var(--white);
-      padding: 14rem 2rem 6rem;
+      padding: 9rem 2rem 6rem;
       position: relative;
       overflow: hidden;
     }
@@ -876,20 +876,10 @@
 
 <!-- ── Announcement Banner ──────────────────────────────────────── -->
 <style>
-  .announcement-banner-wrap {
-    position: fixed;
-    top: 118px;
-    left: 0; right: 0;
-    z-index: 99;
-    pointer-events: none;
-  }
   .announcement-banner {
-    pointer-events: auto;
     background: rgba(6, 29, 46, 0.82);
     backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(10px);
-    border-top: 1px solid rgba(200, 169, 110, 0.28);
-    border-bottom: 1px solid rgba(200, 169, 110, 0.28);
     color: var(--white);
     text-align: center;
     padding: 0.75rem 2rem;
@@ -897,6 +887,9 @@
     flex-direction: column;
     align-items: center;
     gap: 0.15rem;
+    position: absolute;
+    bottom: 0; left: 0; right: 0;
+    z-index: 10;
   }
   .announcement-banner__label {
     font-size: 0.65rem;
@@ -917,25 +910,10 @@
     font-style: normal;
   }
   @media (max-width: 640px) {
-    .announcement-banner-wrap { padding: 0.75rem 1rem; }
     .announcement-banner { padding: 0.65rem 1.25rem; }
     .announcement-banner__text { font-size: 0.88rem; }
   }
 </style>
-<div class="announcement-banner-wrap">
-  <div class="announcement-banner">
-    <span class="announcement-banner__label"
-          data-nl="Voor snelle beslissers"
-          data-en="For fast movers"
-          data-fr="Pour les décideurs rapides">Voor snelle beslissers</span>
-    <span class="announcement-banner__text"
-          data-nl="Bevestig uiterlijk 30 juni en de directe vlucht <em>Brussel-Agadir-Brussel</em> is inbegrepen."
-          data-en="Confirm by 30 June and the direct flight <em>Brussels-Agadir-Brussels</em> is included."
-          data-fr="Confirmez d'ici le 30 juin et le vol direct <em>Bruxelles-Agadir-Bruxelles</em> est inclus.">
-      Bevestig uiterlijk 30 juni en de directe vlucht <em>Brussel-Agadir-Brussel</em> is inbegrepen.
-    </span>
-  </div>
-</div>
 
 <!-- ── Sound Toggle ─────────────────────────────────────────────── -->
 <button id="sound-toggle" aria-label="Toggle ocean sound" title="Ocean sound">
@@ -1006,6 +984,18 @@
     </div>
   </div>
   <span class="hero__scroll">Scroll</span>
+  <div class="announcement-banner">
+    <span class="announcement-banner__label"
+          data-nl="Voor snelle beslissers"
+          data-en="For fast movers"
+          data-fr="Pour les décideurs rapides">Voor snelle beslissers</span>
+    <span class="announcement-banner__text"
+          data-nl="Bevestig uiterlijk 30 juni en de directe vlucht <em>Brussel-Agadir-Brussel</em> is inbegrepen."
+          data-en="Confirm by 30 June and the direct flight <em>Brussels-Agadir-Brussels</em> is included."
+          data-fr="Confirmez d'ici le 30 juin et le vol direct <em>Bruxelles-Agadir-Bruxelles</em> est inclus.">
+      Bevestig uiterlijk 30 juni en de directe vlucht <em>Brussel-Agadir-Brussel</em> is inbegrepen.
+    </span>
+  </div>
 </section>
 
 <!-- ── Video reel ──────────────────────────────────────────────────── -->
