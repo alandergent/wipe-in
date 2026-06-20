@@ -874,6 +874,86 @@
      ══════════════════════════════════════════════════════════════ -->
 <body data-destination="portugal">
 
+<!-- ── Announcement Banner ──────────────────────────────────────── -->
+<style>
+  .announcement-banner {
+    background-color: var(--deep);
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='60' height='10'%3E%3Cpath d='M0 5 C15 2 15 2 30 5 C45 8 45 8 60 5' stroke='white' stroke-opacity='0.04' stroke-width='1' fill='none'/%3E%3C/svg%3E");
+    background-repeat: repeat;
+    border-bottom: 1px solid rgba(200, 169, 110, 0.25);
+    color: var(--white);
+    text-align: center;
+    padding: 1rem 2rem;
+    position: relative;
+    z-index: 1000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1.5rem;
+    flex-wrap: wrap;
+  }
+  .announcement-banner__label {
+    font-size: 0.7rem;
+    font-family: var(--fs);
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--accent);
+    display: block;
+    margin-bottom: 0.2rem;
+  }
+  .announcement-banner__text {
+    font-family: var(--ff);
+    font-size: clamp(1rem, 2vw, 1.2rem);
+    font-weight: 400;
+    color: var(--white);
+    line-height: 1.3;
+  }
+  .announcement-banner__text em {
+    color: var(--accent);
+    font-style: normal;
+  }
+  .announcement-banner__cta {
+    display: inline-block;
+    padding: 0.55rem 1.4rem;
+    border: 1px solid var(--accent);
+    color: var(--accent);
+    font-family: var(--fs);
+    font-size: 0.75rem;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    text-decoration: none;
+    white-space: nowrap;
+    flex-shrink: 0;
+    transition: background 0.25s, color 0.25s;
+  }
+  .announcement-banner__cta:hover {
+    background: var(--accent);
+    color: var(--deep);
+  }
+  @media (max-width: 640px) {
+    .announcement-banner { gap: 0.75rem; padding: 0.9rem 1.25rem; }
+    .announcement-banner__text { font-size: 0.95rem; }
+  }
+</style>
+<div class="announcement-banner">
+  <div>
+    <span class="announcement-banner__label"
+          data-nl="Nog beschikbaar in juni"
+          data-en="Still available in June"
+          data-fr="Encore disponible en juin">Nog beschikbaar in juni</span>
+    <span class="announcement-banner__text"
+          data-nl="Bevestig voor 30 juni en de directe vlucht <em>Brussel-Agadir-Brussel</em> is inbegrepen."
+          data-en="Confirm before 30 June and the direct flight <em>Brussels-Agadir-Brussels</em> is included."
+          data-fr="Confirmez avant le 30 juin et le vol direct <em>Bruxelles-Agadir-Bruxelles</em> est inclus.">
+      Bevestig voor 30 juni en de directe vlucht <em>Brussel-Agadir-Brussel</em> is inbegrepen.
+    </span>
+  </div>
+  <a class="announcement-banner__cta" href="#afstemming"
+     data-nl="Plan een gesprek"
+     data-en="Book a call"
+     data-fr="Planifier un appel">Plan een gesprek</a>
+</div>
+
 <!-- ── Sound Toggle ─────────────────────────────────────────────── -->
 <button id="sound-toggle" aria-label="Toggle ocean sound" title="Ocean sound">
   <svg id="sound-icon-on" viewBox="0 0 24 24" style="display:none">
