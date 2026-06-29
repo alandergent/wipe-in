@@ -354,6 +354,9 @@
     .btn--ghost { border: 1px solid rgba(255,255,255,0.45); color: var(--white); }
     .btn--ghost:hover { border-color: var(--white); background: rgba(255,255,255,0.07); }
 
+    /* Sticky mobile CTA bar (hidden on desktop, shown within the 860px breakpoint) */
+    .mobile-cta-bar { display: none; }
+
     .hero__scroll {
       position: absolute; bottom: 2.5rem; left: 50%; transform: translateX(-50%);
       z-index: 1; display: flex; flex-direction: column; align-items: center; gap: 0.5rem;
@@ -795,6 +798,19 @@
       footer span          { text-align: center !important; }
       .nav-controls        { gap: 0.6rem; }
       .nav-cta             { display: none; }
+      .mobile-cta-bar {
+        display: block;
+        position: fixed;
+        left: 0; right: 0; bottom: 0;
+        z-index: 1000;
+        padding: 0.7rem 1rem;
+        padding-bottom: calc(0.7rem + env(safe-area-inset-bottom));
+        background: rgba(6,29,46,0.96);
+        border-top: 1px solid rgba(200,169,110,0.45);
+        box-shadow: 0 -4px 18px rgba(0,0,0,0.28);
+      }
+      .mobile-cta-bar .btn { display: block; width: 100%; text-align: center; padding: 0.85rem 1rem; }
+      footer { padding-bottom: calc(5rem + env(safe-area-inset-bottom)); }
     }
 
     @media (max-width: 560px) {
@@ -1845,6 +1861,14 @@
     </div>
   </div>
 </section>
+
+<!-- ── Sticky mobile CTA ───────────────────────────────────────────── -->
+<div class="mobile-cta-bar">
+  <a href="#intake" class="btn btn--primary"
+     data-nl="Plan een gesprek"
+     data-en="Schedule a call"
+     data-fr="Planifier un entretien">Plan een gesprek</a>
+</div>
 
 <!-- ── Footer ──────────────────────────────────────────────────────── -->
 <footer>
