@@ -698,8 +698,8 @@
     .edition-tab { grid-column: span 2; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.18); color: #fff; padding: 1rem 1.4rem; text-align: left; cursor: pointer; font-family: var(--fs); transition: background 0.2s, border-color 0.2s, opacity 0.2s; }
     .edition-tab__title { display: block; font-size: 0.95rem; letter-spacing: 0.04em; text-transform: uppercase; font-weight: 600; }
     .edition-tab.is-active { background: var(--accent); border-color: var(--accent); }
-    .edition-tab:not(.is-active) { opacity: 0.45; }
-    .edition-tab:not(.is-active):hover { opacity: 0.7; }
+    .edition-tab:not(.is-active) { border-color: var(--accent); color: rgba(255,255,255,0.85); }
+    .edition-tab:not(.is-active):hover { background: rgba(200,169,110,0.12); }
     .edition-panel { display: none; }
     .edition-panel.is-active { display: block; }
     .edition-panel__heading { border-left: 3px solid var(--accent); padding-left: 1rem; margin-bottom: 1.2rem; }
