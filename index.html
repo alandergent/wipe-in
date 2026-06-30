@@ -694,7 +694,20 @@
     .phase__includes p { font-size: 0.88rem; color: var(--muted); line-height: 1.6; }
 
     /* ── Practical ───────────────────────────────────────────── */
-    .practical__grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 1.2rem; margin-top: 3rem; }
+    .edition-tabs { display: grid; grid-template-columns: repeat(4, 1fr); gap: 1.2rem; margin-bottom: 1.2rem; }
+    .edition-tab { grid-column: span 2; background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.18); color: #fff; padding: 1rem 1.4rem; text-align: left; cursor: pointer; font-family: var(--fs); transition: background 0.2s, border-color 0.2s, opacity 0.2s; }
+    .edition-tab__title { display: block; font-size: 0.95rem; letter-spacing: 0.04em; text-transform: uppercase; font-weight: 600; }
+    .edition-tab.is-active { background: var(--accent); border-color: var(--accent); }
+    .edition-tab:not(.is-active) { opacity: 0.45; }
+    .edition-tab:not(.is-active):hover { opacity: 0.7; }
+    .edition-panel { display: none; }
+    .edition-panel.is-active { display: block; }
+    .edition-panel__heading { border-left: 3px solid var(--accent); padding-left: 1rem; margin-bottom: 1.2rem; }
+    .edition-panel__heading__date { display: block; font-family: var(--ff); font-size: 1.15rem; color: #fff; }
+    .edition-panel__heading__offer { display: block; font-size: 0.88rem; color: rgba(255,255,255,0.7); margin-top: 0.25rem; }
+    .praktisch__note { margin-top: 1.2rem; padding: 0 1.5rem; font-family: var(--fs); font-size: 0.78rem; font-style: normal; color: rgba(255,255,255,0.5); line-height: 1.6; text-align: center; }
+    @media (min-width: 740px) { .praktisch__note { white-space: nowrap; } }
+    .practical__grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 1.2rem; margin-top: 1.5rem; }
     .practical__card { background: var(--white); padding: 1.8rem 1.5rem; border: 1px solid rgba(14, 61, 94, 0.12); }
     .practical__card h3 { font-family: var(--ff); font-size: 1.05rem; font-weight: 400; color: var(--ocean); margin-bottom: 0.8rem; padding-bottom: 0.7rem; border-bottom: 1px solid rgba(14, 61, 94, 0.1); }
     .practical__card p { font-size: 0.88rem; color: var(--muted); line-height: 1.65; }
@@ -1539,6 +1552,21 @@
          data-fr="Ce que vous devez savoir, avant de décider.">Wat je moet weten, voor je beslist.</p>
     </div>
     <div class="praktisch__frame">
+
+    <div class="edition-tabs" role="tablist">
+      <button type="button" class="edition-tab is-active" data-edition-tab="1" role="tab" aria-selected="true">
+        <span class="edition-tab__title" data-nl="Editie 1 · Zuid-Marokko · Herfst 2026" data-en="Edition 1 · Southern Morocco · Autumn 2026" data-fr="Édition 1 · Sud-Maroc · Automne 2026">Editie 1 · Zuid-Marokko · Herfst 2026</span>
+      </button>
+      <button type="button" class="edition-tab" data-edition-tab="2" role="tab" aria-selected="false">
+        <span class="edition-tab__title" data-nl="Editie 2 · Zuid-Marokko · Lente 2027" data-en="Edition 2 · Southern Morocco · Spring 2027" data-fr="Édition 2 · Sud-Maroc · Printemps 2027">Editie 2 · Zuid-Marokko · Lente 2027</span>
+      </button>
+    </div>
+
+    <div class="edition-panel is-active" data-edition-panel="1">
+    <div class="edition-panel__heading">
+      <span class="edition-panel__heading__date" data-nl="zat. 26.09.2026 t.e.m. zat. 03.10.2026" data-en="Sat. 26.09.2026 to Sat. 03.10.2026" data-fr="sam. 26.09.2026 au sam. 03.10.2026">zat. 26.09.2026 t.e.m. zat. 03.10.2026</span>
+      <span class="edition-panel__heading__offer" data-nl="Eerste editie-aanbod: vanaf €4.900 (excl. btw) · tot 12.07.2026" data-en="First-edition offer: from €4,900 (excl. VAT) · until 12.07.2026" data-fr="Offre première édition : à partir de €4.900 (hors TVA) · jusqu'au 12.07.2026">Eerste editie-aanbod: vanaf €4.900 (excl. btw) · tot 12.07.2026</span>
+    </div>
     <div class="practical__grid">
 
       <div class="practical__card">
@@ -1573,38 +1601,104 @@
       <div class="practical__card">
         <span class="card-icon"><svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><circle cx="12" cy="12" r="9"/><path d="M8 12l3 3 5-6"/></svg></span>
         <h3 data-nl="Inclusief" data-en="Included" data-fr="Inclus">Inclusief</h3>
-        <ul data-nl="&lt;li&gt;Exclusief gebruik van het volledige huis&lt;/li&gt;&lt;li&gt;Privékamer met panoramisch uitzicht op de oceaan of de tuin&lt;/li&gt;&lt;li&gt;Alle maaltijden van een vast kookteam ter plaatse, afgestemd op de inspanning van de week&lt;/li&gt;&lt;li&gt;Niet-alcoholische dranken bij de maaltijden&lt;/li&gt;&lt;li&gt;Surfcoaching en surfmateriaal&lt;/li&gt;&lt;li&gt;Alle activiteiten van het groepsprogramma&lt;/li&gt;&lt;li&gt;Vervoer van en naar de luchthaven&lt;/li&gt;"
-            data-en="&lt;li&gt;Exclusive use of the entire house&lt;/li&gt;&lt;li&gt;Private room with panoramic views of the ocean and the cliffs&lt;/li&gt;&lt;li&gt;All meals from a permanent cook team on site, matched to the effort of the week&lt;/li&gt;&lt;li&gt;Non-alcoholic beverages with meals&lt;/li&gt;&lt;li&gt;Surf coaching and surf equipment&lt;/li&gt;&lt;li&gt;All activities in the group programme&lt;/li&gt;&lt;li&gt;Transfers to and from the airport&lt;/li&gt;"
-            data-fr="&lt;li&gt;Usage exclusif de l'entièreté de la maison&lt;/li&gt;&lt;li&gt;Chambre privée avec vue panoramique sur l'océan et les falaises&lt;/li&gt;&lt;li&gt;Tous les repas d'une équipe culinaire permanente sur place, adaptés à l'effort de la semaine&lt;/li&gt;&lt;li&gt;Boissons non alcoolisées aux repas&lt;/li&gt;&lt;li&gt;Coaching surf et matériel de surf&lt;/li&gt;&lt;li&gt;Toutes les activités du programme de groupe&lt;/li&gt;&lt;li&gt;Transferts vers et depuis l'aéroport&lt;/li&gt;">
-          <li>Exclusief gebruik van het volledige huis</li>
-          <li>Privékamer met panoramisch uitzicht op de oceaan of de tuin</li>
-          <li>Alle maaltijden van een vast kookteam ter plaatse, afgestemd op de inspanning van de week</li>
+        <ul data-nl="&lt;li&gt;Privé-huis met 6 individuele slaapkamers (4 badkamers), panoramisch uitzicht op oceaan of tuin, exclusief gebruik&lt;/li&gt;&lt;li&gt;Alle maaltijden van een vast kookteam ter plaatse&lt;/li&gt;&lt;li&gt;Niet-alcoholische dranken bij de maaltijden&lt;/li&gt;&lt;li&gt;Surfcoaching en surfmateriaal&lt;/li&gt;&lt;li&gt;Alle activiteiten van het groepsprogramma&lt;/li&gt;&lt;li&gt;Vervoer van en naar de luchthaven&lt;/li&gt;"
+            data-en="&lt;li&gt;Private house with 6 individual bedrooms (4 bathrooms), panoramic ocean or garden views, exclusive use&lt;/li&gt;&lt;li&gt;All meals from a permanent cook team on site&lt;/li&gt;&lt;li&gt;Non-alcoholic beverages with meals&lt;/li&gt;&lt;li&gt;Surf coaching and surf equipment&lt;/li&gt;&lt;li&gt;All activities in the group programme&lt;/li&gt;&lt;li&gt;Transfers to and from the airport&lt;/li&gt;"
+            data-fr="&lt;li&gt;Maison privée avec 6 chambres individuelles (4 salles de bains), vue panoramique sur l'océan ou le jardin, usage exclusif&lt;/li&gt;&lt;li&gt;Tous les repas d'une équipe culinaire permanente sur place&lt;/li&gt;&lt;li&gt;Boissons non alcoolisées aux repas&lt;/li&gt;&lt;li&gt;Coaching surf et matériel de surf&lt;/li&gt;&lt;li&gt;Toutes les activités du programme de groupe&lt;/li&gt;&lt;li&gt;Transferts vers et depuis l'aéroport&lt;/li&gt;">
+          <li>Privé-huis met 6 individuele slaapkamers (4 badkamers), panoramisch uitzicht op oceaan of tuin, exclusief gebruik</li>
+          <li>Alle maaltijden van een vast kookteam ter plaatse</li>
           <li>Niet-alcoholische dranken bij de maaltijden</li>
           <li>Surfcoaching en surfmateriaal</li>
           <li>Alle activiteiten van het groepsprogramma</li>
           <li>Vervoer van en naar de luchthaven</li>
         </ul>
-        <p class="practical__note"
-           data-nl="Niet inbegrepen: vluchten, alcoholische dranken, individueel geïnitieerde activiteiten en je persoonlijke reis- en annulatieverzekering."
-           data-en="Not included: flights, alcoholic beverages, individually initiated activities and your personal travel/cancellation insurance."
-           data-fr="Non inclus : vols, boissons alcoolisées, activités initiées individuellement et votre assurance voyage/annulation personnelle.">
-          Niet inbegrepen: vluchten, alcoholische dranken, individueel geïnitieerde activiteiten en je persoonlijke reis- en annulatieverzekering.
-        </p>
       </div>
 
       <div class="practical__card">
         <span class="card-icon"><svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M6 3h12l4 6-10 12L2 9z"/><path d="M2 9h20M6 3l3 6M18 3l-3 6M12 3v6"/></svg></span>
         <h3 data-nl="Investering" data-en="Investment" data-fr="Investissement">Investering</h3>
-        <ul data-nl="&lt;li&gt;Tussen €4.900 en €7.200 per deelnemer (afhankelijk van kamertype), exclusief vluchten&lt;/li&gt;&lt;li&gt;Vlucht Brussel-Agadir inbegrepen voor wie bevestigt voor 30 juni (heen en terug, directe vlucht van 3,5 uur)&lt;/li&gt;&lt;li&gt;Gefactureerd met volledig programmaoverzicht.&lt;/li&gt;"
-            data-en="&lt;li&gt;Between €4,900 and €7,200 per participant (depending on room type), excluding flights&lt;/li&gt;&lt;li&gt;Flight Brussels–Agadir included for those who confirm before 30 June (return, direct flight of 3.5 hours)&lt;/li&gt;&lt;li&gt;Invoiced with a full programme overview.&lt;/li&gt;"
-            data-fr="&lt;li&gt;Entre €4.900 et €7.200 par participant (selon le type de chambre), hors vols&lt;/li&gt;&lt;li&gt;Vol Bruxelles-Agadir inclus pour qui confirme avant le 30 juin (aller-retour, vol direct de 3h30)&lt;/li&gt;&lt;li&gt;Facturé avec un aperçu complet du programme.&lt;/li&gt;">
-          <li>Tussen €4.900 en €7.200 per deelnemer (afhankelijk van kamertype), exclusief vluchten</li>
-          <li>Vlucht Brussel-Agadir inbegrepen voor wie bevestigt voor 30 juni (heen en terug, directe vlucht van 3,5 uur)</li>
+        <ul data-nl="&lt;li&gt;Eerste editie-aanbod tot 12.07.2026&lt;/li&gt;&lt;li&gt;Van €4.900 tot €6.500 per deelnemer (afhankelijk van kamertype), excl. btw en vluchten&lt;/li&gt;&lt;li&gt;Gefactureerd met volledig programmaoverzicht.&lt;/li&gt;"
+            data-en="&lt;li&gt;First-edition offer until 12.07.2026&lt;/li&gt;&lt;li&gt;From €4,900 to €6,500 per participant (depending on room type), excl. VAT and flights&lt;/li&gt;&lt;li&gt;Invoiced with a full programme overview.&lt;/li&gt;"
+            data-fr="&lt;li&gt;Offre première édition jusqu'au 12.07.2026&lt;/li&gt;&lt;li&gt;De €4.900 à €6.500 par participant (selon le type de chambre), hors TVA et hors vols&lt;/li&gt;&lt;li&gt;Facturé avec un aperçu complet du programme.&lt;/li&gt;">
+          <li>Eerste editie-aanbod tot 12.07.2026</li>
+          <li>Van €4.900 tot €6.500 per deelnemer (afhankelijk van kamertype), excl. btw en vluchten</li>
           <li>Gefactureerd met volledig programmaoverzicht.</li>
         </ul>
       </div>
 
     </div>
+    </div>
+
+    <div class="edition-panel" data-edition-panel="2">
+    <div class="edition-panel__heading">
+      <span class="edition-panel__heading__date" data-nl="zat. 24.04.2027 t.e.m. zat. 01.05.2027" data-en="Sat. 24.04.2027 to Sat. 01.05.2027" data-fr="sam. 24.04.2027 au sam. 01.05.2027">zat. 24.04.2027 t.e.m. zat. 01.05.2027</span>
+      <span class="edition-panel__heading__offer" data-nl="Early bird-prijs: vanaf €5.200 (excl. btw)" data-en="Early bird price: from €5,200 (excl. VAT)" data-fr="Prix early bird : à partir de €5.200 (hors TVA)">Early bird-prijs: vanaf €5.200 (excl. btw)</span>
+    </div>
+    <div class="practical__grid">
+
+      <div class="practical__card">
+        <span class="card-icon"><svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7z"/><circle cx="12" cy="9" r="2.5"/></svg></span>
+        <h3 data-nl="Wanneer en waar" data-en="When and where" data-fr="Quand et où">Wanneer en waar</h3>
+        <ul data-nl="&lt;li&gt;Van zaterdag 24 april tot en met zaterdag 1 mei 2027&lt;/li&gt;&lt;li&gt;Zuid-Marokko · vliegen op Agadir&lt;/li&gt;&lt;li&gt;±2 uur rijden ten zuiden van Agadir&lt;/li&gt;&lt;li&gt;Verblijf aan het strand.&lt;/li&gt;"
+            data-en="&lt;li&gt;Saturday 24 April to Saturday 1 May 2027&lt;/li&gt;&lt;li&gt;South Morocco · flying to Agadir&lt;/li&gt;&lt;li&gt;±2 hours drive south of Agadir&lt;/li&gt;&lt;li&gt;Accommodation on the beach.&lt;/li&gt;"
+            data-fr="&lt;li&gt;Du samedi 24 avril au samedi 1er mai 2027&lt;/li&gt;&lt;li&gt;Sud-Maroc · vol vers Agadir&lt;/li&gt;&lt;li&gt;±2 heures de route au sud d'Agadir&lt;/li&gt;&lt;li&gt;Hébergement en bord de plage.&lt;/li&gt;">
+          <li>Van zaterdag 24 april tot en met zaterdag 1 mei 2027</li>
+          <li>Zuid-Marokko · vliegen op Agadir</li>
+          <li>±2 uur rijden ten zuiden van Agadir</li>
+          <li>Verblijf aan het strand.</li>
+        </ul>
+      </div>
+
+      <div class="practical__card">
+        <span class="card-icon"><svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M2 13c2-5 4-5 6 0s4 5 6 0 4-5 6 0"/><path d="M4 18c2-2 3-2 4 0"/></svg></span>
+        <h3 data-nl="Surf Life Experience" data-en="Surf Life Experience" data-fr="Surf Life Experience">Surf Life Experience</h3>
+        <ul data-nl="&lt;li&gt;8 dagen – 7 nachten&lt;/li&gt;&lt;li&gt;6 dagen surfcoaching&lt;/li&gt;&lt;li&gt;Voor zowel beginnende als ervaren surfers&lt;/li&gt;&lt;li&gt;Max. 8 deelnemers&lt;/li&gt;&lt;li&gt;Namiddagprogramma op maat, avonden zonder vaste agenda&lt;/li&gt;&lt;li&gt;Programma samengesteld in functie van de groep&lt;/li&gt;"
+            data-en="&lt;li&gt;8 days – 7 nights&lt;/li&gt;&lt;li&gt;6 days of surf coaching&lt;/li&gt;&lt;li&gt;Max. 8 participants&lt;/li&gt;&lt;li&gt;Tailored afternoon programme, evenings without agenda&lt;/li&gt;&lt;li&gt;Programme assembled around the group&lt;/li&gt;"
+            data-fr="&lt;li&gt;8 jours – 7 nuits&lt;/li&gt;&lt;li&gt;6 jours de coaching surf&lt;/li&gt;&lt;li&gt;Pour les surfeurs débutants comme expérimentés&lt;/li&gt;&lt;li&gt;Max. 8 participants&lt;/li&gt;&lt;li&gt;Programme d'après-midi sur mesure, soirées sans agenda&lt;/li&gt;&lt;li&gt;Programme composé en fonction du groupe&lt;/li&gt;">
+          <li>8 dagen – 7 nachten</li>
+          <li>6 dagen surfcoaching</li>
+          <li>Voor zowel beginnende als ervaren surfers</li>
+          <li>Max. 8 deelnemers</li>
+          <li>Namiddagprogramma op maat, avonden zonder vaste agenda</li>
+          <li>Programma samengesteld in functie van de groep</li>
+        </ul>
+      </div>
+
+      <div class="practical__card">
+        <span class="card-icon"><svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><circle cx="12" cy="12" r="9"/><path d="M8 12l3 3 5-6"/></svg></span>
+        <h3 data-nl="Inclusief" data-en="Included" data-fr="Inclus">Inclusief</h3>
+        <ul data-nl="&lt;li&gt;Privé-verblijf aan het strand: 6 slaapkamers, 1 suite (eigen badkamer) en 1 appartement met 2 slaapkamers (gedeelde badkamer), exclusief gebruik&lt;/li&gt;&lt;li&gt;Alle maaltijden van een vast kookteam ter plaatse&lt;/li&gt;&lt;li&gt;Niet-alcoholische dranken bij de maaltijden&lt;/li&gt;&lt;li&gt;Surfcoaching en surfmateriaal&lt;/li&gt;&lt;li&gt;Alle activiteiten van het groepsprogramma&lt;/li&gt;&lt;li&gt;Vervoer van en naar de luchthaven&lt;/li&gt;"
+            data-en="&lt;li&gt;Private beachfront accommodation: 6 bedrooms, 1 suite (own bathroom) and 1 apartment with 2 bedrooms (shared bathroom), exclusive use&lt;/li&gt;&lt;li&gt;All meals from a permanent cook team on site&lt;/li&gt;&lt;li&gt;Non-alcoholic beverages with meals&lt;/li&gt;&lt;li&gt;Surf coaching and surf equipment&lt;/li&gt;&lt;li&gt;All activities in the group programme&lt;/li&gt;&lt;li&gt;Transfers to and from the airport&lt;/li&gt;"
+            data-fr="&lt;li&gt;Hébergement privé en bord de plage : 6 chambres, 1 suite (salle de bains privée) et 1 appartement avec 2 chambres (salle de bains partagée), usage exclusif&lt;/li&gt;&lt;li&gt;Tous les repas d'une équipe culinaire permanente sur place&lt;/li&gt;&lt;li&gt;Boissons non alcoolisées aux repas&lt;/li&gt;&lt;li&gt;Coaching surf et matériel de surf&lt;/li&gt;&lt;li&gt;Toutes les activités du programme de groupe&lt;/li&gt;&lt;li&gt;Transferts vers et depuis l'aéroport&lt;/li&gt;">
+          <li>Privé-verblijf aan het strand: 6 slaapkamers, 1 suite (eigen badkamer) en 1 appartement met 2 slaapkamers (gedeelde badkamer), exclusief gebruik</li>
+          <li>Alle maaltijden van een vast kookteam ter plaatse</li>
+          <li>Niet-alcoholische dranken bij de maaltijden</li>
+          <li>Surfcoaching en surfmateriaal</li>
+          <li>Alle activiteiten van het groepsprogramma</li>
+          <li>Vervoer van en naar de luchthaven</li>
+        </ul>
+      </div>
+
+      <div class="practical__card">
+        <span class="card-icon"><svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M6 3h12l4 6-10 12L2 9z"/><path d="M2 9h20M6 3l3 6M18 3l-3 6M12 3v6"/></svg></span>
+        <h3 data-nl="Investering" data-en="Investment" data-fr="Investissement">Investering</h3>
+        <ul data-nl="&lt;li&gt;Early bird-prijs&lt;/li&gt;&lt;li&gt;Van €5.200 tot €6.700 per deelnemer (afhankelijk van kamertype), excl. btw en vluchten&lt;/li&gt;&lt;li&gt;Gefactureerd met volledig programmaoverzicht.&lt;/li&gt;"
+            data-en="&lt;li&gt;Early bird price&lt;/li&gt;&lt;li&gt;From €5,200 to €6,700 per participant (depending on room type), excl. VAT and flights&lt;/li&gt;&lt;li&gt;Invoiced with a full programme overview.&lt;/li&gt;"
+            data-fr="&lt;li&gt;Prix early bird&lt;/li&gt;&lt;li&gt;De €5.200 à €6.700 par participant (selon le type de chambre), hors TVA et hors vols&lt;/li&gt;&lt;li&gt;Facturé avec un aperçu complet du programme.&lt;/li&gt;">
+          <li>Early bird-prijs</li>
+          <li>Van €5.200 tot €6.700 per deelnemer (afhankelijk van kamertype), excl. btw en vluchten</li>
+          <li>Gefactureerd met volledig programmaoverzicht.</li>
+        </ul>
+      </div>
+
+    </div>
+    </div>
+
+    <p class="praktisch__note"
+       data-nl="Niet inbegrepen: vluchten, alcohol, individuele activiteiten, reis- en annulatieverzekering."
+       data-en="Not included: flights, alcohol, individual activities, travel/cancellation insurance."
+       data-fr="Non inclus : vols, alcool, activités individuelles, assurance voyage/annulation.">
+      Niet inbegrepen: vluchten, alcohol, individuele activiteiten, reis- en annulatieverzekering.
+    </p>
 
     </div>
   </div>
@@ -1943,6 +2037,20 @@
   document.querySelectorAll('.faq__q').forEach(q => {
     q.addEventListener('click', () => {
       q.closest('.faq__item').classList.toggle('is-open');
+    });
+  });
+
+  /* ── Edition tabs ─────────────────────────────────────────── */
+  document.querySelectorAll('.edition-tab').forEach(tab => {
+    tab.addEventListener('click', () => {
+      const edition = tab.dataset.editionTab;
+      document.querySelectorAll('.edition-tab').forEach(t => {
+        t.classList.toggle('is-active', t === tab);
+        t.setAttribute('aria-selected', t === tab ? 'true' : 'false');
+      });
+      document.querySelectorAll('.edition-panel').forEach(p => {
+        p.classList.toggle('is-active', p.dataset.editionPanel === edition);
+      });
     });
   });
 
