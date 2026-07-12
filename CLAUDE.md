@@ -66,6 +66,14 @@ The page is one long `index.html`. Key sections (in order):
 5. **Selection process** — how participants are chosen, intake flow
 6. **FAQ** — with schema.org `FAQPage` structured data for SEO
 
+### Section-header convention
+
+Every section header uses the same two-part pattern: a short `section-header__eyebrow` label on top, and a longer descriptive `h2` below. Keep this order consistent across all sections. Example: `#traject` uses eyebrow "Het traject" with h2 "Drie stappen, één beweging"; `#themas` uses eyebrow "Het inhoudelijke programma" with h2 "Surfen als metafoor voor ondernemen".
+
+### `#themas` (programme content) layout
+
+The programme-content body (`.themes__body`) matches the `#traject` section: full container width, left-aligned text, no centered narrow column. This keeps the theme topics on a single line each and improves readability. Do not reintroduce a narrow `max-width` wrapper or center-align the themes list. Scoped overrides live in the `<style>` block: `#themas .themes__body`, `#themas .themes__list`, `#themas .science__closing`. Changed 2026-07-12.
+
 ## SEO
 
 - `schema.org FAQPage` structured data is embedded directly in `index.html` — keep it in sync when FAQ content changes
