@@ -72,7 +72,7 @@ Every section header uses the same two-part pattern: a short `section-header__ey
 
 ### `#themas` (programme content) layout
 
-The programme-content body (`.themes__body`) matches the `#traject` section: full container width, left-aligned text, no centered narrow column. This keeps the theme topics on a single line each and improves readability. Do not reintroduce a narrow `max-width` wrapper or center-align the themes list. Scoped overrides live in the `<style>` block: `#themas .themes__body`, `#themas .themes__list`, `#themas .science__closing`. Changed 2026-07-12.
+The programme-content body (`.themes__body`) is a **centered column roughly the width of the section title** (`max-width: 49rem; margin: 0 auto`), with **left-aligned text** inside. This lines the topics up with the title's left edge, ends the dividers at the title's right edge, and keeps each topic on a single line. Do NOT full-width the block (topics drift too far left) and do NOT center-align the text itself. Scoped overrides live in the `<style>` block: `#themas .themes__body`, `#themas .themes__list`, `#themas .science__closing`. Changed 2026-07-12.
 
 ## SEO
 
