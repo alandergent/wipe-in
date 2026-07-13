@@ -72,7 +72,7 @@ Every section header uses the same two-part pattern: a short `section-header__ey
 
 ### `#themas` (programme content) layout
 
-The programme-content body (`.themes__body`) is a **centered column roughly the width of the section title** (`max-width: 49rem; margin: 0 auto`), with **left-aligned text** inside. This lines the topics up with the title's left edge, ends the dividers at the title's right edge, and keeps each topic on a single line. Do NOT full-width the block (topics drift too far left) and do NOT center-align the text itself. Scoped overrides live in the `<style>` block: `#themas .themes__body`, `#themas .themes__list`, `#themas .science__closing`. Changed 2026-07-12.
+The programme-content body (`.themes__body`) is a **centered column roughly the width of the section title** (`max-width: 49rem; margin: 0 auto`), with **left-aligned text** inside. This lines the topics up with the title's left edge, ends the dividers at the title's right edge, and keeps each topic on a single line. Do NOT full-width the block (topics drift too far left) and do NOT center-align the text itself. The lead-in sentence ("Welke thema's aan bod komen ... Enkele voorbeelden:") is a left-aligned `.themes__lead` paragraph inside the column (pulled out of the centered intro). Each topic is prefixed with a gold `>` marker in `var(--accent)` (matching the intro eyebrow) with extra vertical padding for a lighter feel. Scoped overrides live in the `<style>` block: `#themas .themes__body`, `#themas .themes__lead`, `#themas .themes__list`, `#themas .themes__list li`, `#themas .science__closing`. Changed 2026-07-12.
 
 ## SEO
 
