@@ -22,8 +22,9 @@ Disallow: /
 User-agent: Bytespider
 Disallow: /
 
+# OAI-SearchBot is ChatGPT search retrieval, not model training, so allow it
 User-agent: OAI-SearchBot
-Disallow: /
+Allow: /
 
 # Search engine indexing: allowed
 User-agent: Googlebot
