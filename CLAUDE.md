@@ -76,13 +76,14 @@ The programme-content body (`.themes__body`) is a **centered column roughly the 
 
 ## SEO
 
-- `schema.org FAQPage` structured data is embedded directly in `index.html` — keep it in sync when FAQ content changes
-- Meta tags and Open Graph tags are in `<head>`
-- `sitemap.xml` covers the homepage only
+- Three `schema.org` JSON-LD blocks are embedded directly in `<head>`: `FAQPage`, `Organization`, and `Event` (the 2027 spring edition). Keep FAQPage in sync with the visible FAQ; update the Event's dates/price when the edition changes.
+- Meta tags, Open Graph tags, and Twitter card tags are in `<head>`. The NL meta/`og:description` and the JS `descriptions.nl` string must stay in sync (the language toggle overwrites the meta on switch).
+- `sitemap.xml` covers the homepage only. `/en` and `/fr` are intentionally NOT listed (those routes do not exist yet), and no `hreflang` tags are present for the same reason. See `my-business/workflows/workflow_landing-page-seo-and-content-protection_EN.md` for the deferred multilingual-routing plan.
+- No em dashes anywhere, including inside JSON-LD (use a colon or the brand middot).
 
 ## robots.txt
 
-The `robots.txt` explicitly blocks AI training crawlers (ClaudeBot, GPTBot, PerplexityBot, and others). **Do not remove or relax these rules.** Search engine crawlers (Googlebot, Bingbot) are allowed.
+The `robots.txt` explicitly blocks AI **training** crawlers (ClaudeBot, GPTBot, PerplexityBot, anthropic-ai, CCBot, Bytespider, Google-Extended). **Do not remove or relax these training blocks.** Search engine crawlers (Googlebot, Bingbot) are allowed. `OAI-SearchBot` is intentionally set to `Allow: /` (2026-08-03) because it is ChatGPT search retrieval, not model training, so do NOT change it back to `Disallow`.
 
 ## Brand
 
