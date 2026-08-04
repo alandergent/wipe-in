@@ -1,6 +1,14 @@
 # wipe-in website
 
-Landing page for **WIPE IN**, an 8-day surf life experience for entrepreneurs and business leaders in southern Morocco (26 Sept – 3 Oct 2026, max 7 participants). Hosted at **wipe-in.com** via GitHub Pages.
+Landing page for **WIPE IN**, an 8-day surf life experience for entrepreneurs and business leaders in southern Morocco, max 7 participants. Hosted at **wipe-in.com** via GitHub Pages.
+
+## Editions (as of 2026-08-03)
+
+The `#praktisch` section shows two edition tabs:
+- **Edition 1 — Founders edition**: invitation-only, 1–8 May 2027, no public pricing.
+- **Edition 2**: priced/public, 25 Sep–2 Oct 2027, early bird €5.600–€6.700 (regular up to €7.600), max 7 participants.
+
+Accommodation is deliberately kept generic on the page ("privé-verblijf, kamerverdeling afgestemd op de definitieve groep"); the actual venues are NOT named on the public site or in this public repo. The `Event` JSON-LD points to the bookable Edition 2 (2027-09-25 to 2027-10-02); update it when the priced edition changes.
 
 ## Repository
 
