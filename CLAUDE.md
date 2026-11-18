@@ -2,13 +2,13 @@
 
 Landing page for **WIPE IN**, an 8-day surf life experience for entrepreneurs and business leaders in southern Morocco, max 7 participants. Hosted at **wipe-in.com** via GitHub Pages.
 
-## Editions (as of 2026-08-03)
+## Editions (as of 2026-11-18)
 
 The `#praktisch` section shows two edition tabs:
-- **Edition 1 — Founders edition**: invitation-only, 1–8 May 2027, no public pricing.
-- **Edition 2**: priced/public, 25 Sep–2 Oct 2027, early bird €5.600–€6.700 (regular up to €7.600), max 7 participants.
+- **Founders edition**: Vrouwenpolder, Zeeland (NL), Fri 14 to Mon 17 May 2027 (Whitsun weekend), 4 days/3 nights, 6 to 8 participants, wingfoil (Veerse Meer) or surf (Domburg) depending on wind, invitation-only, no public pricing.
+- **Edition 2**: Southern Morocco, Wed 29 Sep to Sun 3 Oct 2027, 5 days/4 nights, max. 8 participants, shared flight Brussels to Agadir (flights not included), early bird €4.500–€4.900 until 31 March 2027, regular €5.000–€5.400.
 
-Accommodation is deliberately kept generic on the page ("privé-verblijf, kamerverdeling afgestemd op de definitieve groep"); the actual venues are NOT named on the public site or in this public repo. The `Event` JSON-LD points to the bookable Edition 2 (2027-09-25 to 2027-10-02); update it when the priced edition changes.
+Accommodation is deliberately kept generic on the page; the actual venues are NOT named on the public site or in this public repo. The `Event` JSON-LD points to the bookable Edition 2 (2027-09-29 to 2027-10-03, from €4500); update it when the priced edition changes. Programme details (day structure, rituals) are not on the page yet: pending feedback from the TRD course.
 
 ## Repository
 
