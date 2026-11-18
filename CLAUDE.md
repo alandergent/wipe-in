@@ -4,11 +4,11 @@ Landing page for **WIPE IN**, an 8-day surf life experience for entrepreneurs an
 
 ## Editions (as of 2026-11-18)
 
-The `#praktisch` section shows two edition tabs:
-- **Founders edition**: Vrouwenpolder, Zeeland (NL), Fri 14 to Mon 17 May 2027 (Whitsun weekend), 4 days/3 nights, 6 to 8 participants, wingfoil (Veerse Meer) or surf (Domburg) depending on wind, invitation-only, no public pricing.
-- **Edition 2**: Southern Morocco, Wed 29 Sep to Sun 3 Oct 2027, 5 days/4 nights, max. 8 participants, shared flight Brussels to Agadir (flights not included), early bird €4.500–€4.900 until 31 March 2027, regular €5.000–€5.400.
+The `#praktisch` section shows one edition tab:
+- The Zeeland weekend (14-17 May 2027) moved to Wipeouts (wipeouts.be / Luma); it is no longer on this site.
+- **Founders edition** (single tab): Southern Morocco, Wed 29 Sep to Sun 3 Oct 2027, communicated as 4 days on site/4 nights, max. 8 participants, shared flight Brussels to Agadir (flights not included), early bird €4.500–€4.900 until 31 March 2027, regular €5.000–€5.400.
 
-Accommodation is deliberately kept generic on the page; the actual venues are NOT named on the public site or in this public repo. The `Event` JSON-LD points to the bookable Edition 2 (2027-09-29 to 2027-10-03, from €4500); update it when the priced edition changes. Programme details (day structure, rituals) are not on the page yet: pending feedback from the TRD course.
+Accommodation is deliberately kept generic on the page; the actual venues are NOT named on the public site or in this public repo. The `Event` JSON-LD points to the Founders edition (2027-09-29 to 2027-10-03, from €4500); update it when the priced edition changes. Programme details (day structure, rituals) are not on the page yet: pending feedback from the TRD course.
 
 ## Repository
 
