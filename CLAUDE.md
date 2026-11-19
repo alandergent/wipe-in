@@ -1,6 +1,6 @@
 # wipe-in website
 
-Landing page for **WIPE IN**, an 8-day surf life experience for entrepreneurs and business leaders in southern Morocco, max 7 participants. Hosted at **wipe-in.com** via GitHub Pages.
+Landing page for **WIPE IN**, a surf life experience for entrepreneurs and business leaders in southern Morocco (current edition and format: see Editions). Hosted at **wipe-in.com** via GitHub Pages.
 
 ## Editions (as of 2026-11-18)
 
