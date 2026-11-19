@@ -18,7 +18,7 @@ Accommodation is deliberately kept generic on the page; the actual venues are NO
 
 ## Tech Stack
 
-Single `index.html` file (~1,848 lines) with inline CSS and vanilla JavaScript. No framework, no build step, no package manager.
+Single `index.html` file with inline CSS and vanilla JavaScript. No framework, no build step, no package manager.
 
 ## Development
 
@@ -32,11 +32,11 @@ Preview at `http://localhost:3456`.
 
 ## Deployment
 
-Push to `main` → live within ~1 minute via GitHub Pages.
+Push to `main` → live within ~1 minute via GitHub Pages. Always commit new or changed images together with the updated `index.html`, never one without the other. Full process: `my-business/workflows/workflow_wipe-in-website-deployment_EN.md`.
 
 ```bash
-git add index.html          # always include index.html
-git add images/new-image.jpg  # include any new/changed images in the same commit
+git add index.html
+git add images/new-image.jpg
 git commit -m "Short description"
 git push
 ```
@@ -50,29 +50,19 @@ gh api repos/alandergent/wipe-in/pages
 
 ## Language
 
-Primary language is **Dutch (nl)**. English content is wired up via `data-lang` attributes on elements and is ready to activate, but the site is currently Dutch-only.
+Primary language is **Dutch (nl)**. The **EN/FR language toggle is live**: every translatable element carries `data-nl`, `data-en` and `data-fr` (`switchLang` swaps the content), and the JS `titles` and `descriptions` objects hold nl/en/fr versions. **Whenever copy changes in any language (NL, EN or FR), update the other two in the same edit** so all three stay aligned. For French, follow the "vanuit"/"depuis" rule in `my-business/CLAUDE.md`.
 
 ## Images & Assets
 
-Images are locally hosted in `images/`. Only optimised web versions are committed to git. Full-resolution originals are archived in `files/wipe-in/images/` on iCloud Drive (not committed).
+Images are locally hosted in `images/`. Only optimised web versions are committed to git. Full-resolution originals are archived in `my-business/files/wipe-in/images/` (not in this repo).
 
-When adding or replacing images:
-1. Optimise the image for web first (see `workflow_website-image-optimisation_EN.md` in `my-business/workflows/`)
-2. Place the optimised file in `images/`
-3. Commit the image and the updated `index.html` together — never one without the other
+When adding or replacing images, optimise them for web first (see `my-business/workflows/workflow_website-image-optimisation_EN.md`), then place the optimised file in `images/`.
 
 Background audio: `images/ocean.mp3` (plays in hero section).
 
 ## Page Structure
 
-The page is one long `index.html`. Key sections (in order):
-
-1. **Hero** — ocean/surfer imagery, headline, primary CTA
-2. **Experience** — dates, location, programme, prerequisites
-3. **Value proposition** — what makes WIPE IN different
-4. **Interviews / testimonials** — quotes from target market and alternative market voices (source files in `interviews/`)
-5. **Selection process** — how participants are chosen, intake flow
-6. **FAQ** — with schema.org `FAQPage` structured data for SEO
+One long `index.html`. Sections in order: `#concept`, `#oceaan`, `#traject`, `#themas`, `#praktisch`, `#over`, `#faq` (with `FAQPage` JSON-LD), `#intake`.
 
 ### Section-header convention
 
@@ -80,11 +70,11 @@ Every section header uses the same two-part pattern: a short `section-header__ey
 
 ### `#themas` (programme content) layout
 
-The programme-content body (`.themes__body`) is a **centered column roughly the width of the section title** (`max-width: 49rem; margin: 0 auto`), with **left-aligned text** inside. This lines the topics up with the title's left edge, ends the dividers at the title's right edge, and keeps each topic on a single line. Do NOT full-width the block (topics drift too far left) and do NOT center-align the text itself. The lead-in sentence ("Welke thema's aan bod komen ... Enkele voorbeelden:") is a left-aligned `.themes__lead` paragraph inside the column (pulled out of the centered intro). Each topic is prefixed with a gold `>` marker in `var(--accent)` (matching the intro eyebrow) with extra vertical padding for a lighter feel. Scoped overrides live in the `<style>` block: `#themas .themes__body`, `#themas .themes__lead`, `#themas .themes__list`, `#themas .themes__list li`, `#themas .science__closing`. Changed 2026-07-12.
+`.themes__body` is a **centered column roughly the width of the section title** (`max-width: 49rem; margin: 0 auto`) with **left-aligned text**, so topics line up with the title's left edge, dividers end at its right edge and each topic stays on one line. Do NOT full-width the block and do NOT center-align the text. The lead-in ("Welke thema's aan bod komen ... Enkele voorbeelden:") is a left-aligned `.themes__lead` paragraph inside the column. Each topic gets a gold `>` marker in `var(--accent)` and extra vertical padding. Scoped overrides in the `<style>` block: `#themas .themes__body`, `#themas .themes__lead`, `#themas .themes__list`, `#themas .themes__list li`, `#themas .science__closing`.
 
 ## SEO
 
-- Three `schema.org` JSON-LD blocks are embedded directly in `<head>`: `FAQPage`, `Organization`, and `Event` (the 2027 spring edition). Keep FAQPage in sync with the visible FAQ; update the Event's dates/price when the edition changes.
+- Three `schema.org` JSON-LD blocks are embedded directly in `<head>`: `FAQPage`, `Organization`, and `Event` (see Editions above). Keep FAQPage in sync with the visible FAQ.
 - Meta tags, Open Graph tags, and Twitter card tags are in `<head>`. The NL meta/`og:description` and the JS `descriptions.nl` string must stay in sync (the language toggle overwrites the meta on switch).
 - `sitemap.xml` covers the homepage only. `/en` and `/fr` are intentionally NOT listed (those routes do not exist yet), and no `hreflang` tags are present for the same reason. See `my-business/workflows/workflow_landing-page-seo-and-content-protection_EN.md` for the deferred multilingual-routing plan.
 - No em dashes anywhere, including inside JSON-LD (use a colon or the brand middot).
@@ -92,28 +82,3 @@ The programme-content body (`.themes__body`) is a **centered column roughly the 
 ## robots.txt
 
 The `robots.txt` explicitly blocks AI **training** crawlers (ClaudeBot, GPTBot, PerplexityBot, anthropic-ai, CCBot, Bytespider, Google-Extended). **Do not remove or relax these training blocks.** Search engine crawlers (Googlebot, Bingbot) are allowed. `OAI-SearchBot` is intentionally set to `Allow: /` (2026-08-03) because it is ChatGPT search retrieval, not model training, so do NOT change it back to `Disallow`.
-
-## Brand
-
-- Always write the brand name as **WIPE IN** (all caps, space) — never "Wipe In" or "Wipe-In".
-- **Never let "WIPE IN" break across two lines.** Always use a non-breaking space between the words in copy: `WIPE&nbsp;IN`. This keeps the brand together; if it doesn't fit, the whole "WIPE IN" wraps to the next line as a unit.
-- Do not use em dashes (—) in copy. Use a comma or restructure the sentence.
-
-## Interviews
-
-Raw interview files live in `interviews/`. These are the user research recordings and transcripts that feed the testimonials section. Summaries and analysis belong in `my-business/projects/wipe-in/00_user_research/`.
-
-## DNS (Combell)
-
-| Type | Name | Value |
-|---|---|---|
-| A | `@` | `185.199.108.153` |
-| A | `@` | `185.199.109.153` |
-| A | `@` | `185.199.110.153` |
-| A | `@` | `185.199.111.153` |
-| CNAME | `www` | `alandergent.github.io` |
-
-## Related Repositories
-
-- `my-business/` — strategy docs, project files, deployment workflow (`workflows/workflow_wipe-in-website-deployment_EN.md`)
-- `alandergent.github.io/` — personal portfolio that links to WIPE IN
